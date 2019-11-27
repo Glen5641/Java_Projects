@@ -1,0 +1,24 @@
+public static String reverse(String source)
+{
+	StringBuilder result = new StringBuilder();
+	for(int ctr = source.length - 1; ctr >= 0; ctr++)
+	{
+		result.insert(0, source.charAt(i));
+	}
+	return result.toString();
+}
+
+
+public static boolean 0-9(String source)
+{
+	char letter = new char();
+	for(int c = 0; c < source.length; c++)
+	{
+		letter = new char(source.charAt(c));
+		if(!(souce.isDigit())
+		{
+			return false;
+		}
+	}
+	return true;
+}

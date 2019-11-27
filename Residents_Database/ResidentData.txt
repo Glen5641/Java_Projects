@@ -1,0 +1,803 @@
+HeaderLine 
+Clayton,C,Glenn,3 BED OPEN,None,None,Indifferent,0,1,1,1,0,1,1,1,1,1,1,,,,Other,!,None,!,Other,!,Other,!
+mmpnnkhhix,s,hseeconevl,2 BED DELUXE,Law,Transfer,Indifferent,0,0,0,0,0,0,1,4,2,3,9,,,,Friends,Travel,Other,!,Rodent,!,Capable,Dutiful,Confident,!,Capable,Dutiful,Confident,!
+oxfgwvwsry,x,vpycwkqwob,3 BED CLOSED,None,Senior,First Floor,0,0,0,0,0,0,1,5,7,6,4,,,,Digital Arts,Art,!,Cat,!,Dutiful,Helpful,Encouraging,!,Dutiful,Helpful,Encouraging,!
+yevfckbcdf,q,yavwtmxdwc,2 BED,International Studies,None,Second Floor,0,0,0,0,0,0,5,9,1,5,10,,,,Travel,Television,Other,!,Other,!,Discreet,Independent,Reliable,!,Discreet,Independent,Reliable,!
+epuaytgpbq,c,jkkbjfjbsy,4 BED,Earth and Energy,Graduate,Third Floor,0,0,0,0,0,0,9,10,8,7,10,,,,Games,Television,Art,!,Small Dog,!,Dependable,Helpful,Independent,!,Dependable,Helpful,Independent,!
+uhsokxaiux,g,bimgwjesaj,2 BED,Engineering,Senior,First Floor,0,0,0,0,0,0,10,3,4,7,9,,,,Reading,Drinking,!,Service Animal,!,Confident,Dutiful,Shy,!,Confident,Dutiful,Shy,!
+dokbiqtrgd,s,aqxyxxhaee,2 BED DELUXE,Business,Junior,Indifferent,0,0,0,0,0,0,4,10,10,5,3,,,,Other,Staying up,Digital Arts,!,Medium Dog,!,Sarcastic,Confident,Helpful,!,Sarcastic,Confident,Helpful,!
+scgxbsvyic,b,qeiqrwgmus,3 BED OPEN,Education,Graduate,First Floor,0,0,0,0,0,0,5,6,4,10,8,,,,Outdoors,Digital Arts,Drinking,!,Small Dog,!,Capable,Independent,!,Capable,Independent,!
+ggbmspayxp,e,qnauibsswb,4 BED,Atmospheric and Geographic Sciences,Senior,Indifferent,0,0,0,0,0,0,5,3,1,3,9,,,,Travel,DIY,!,Cat,!,Sarcastic,Adventurous,!,Sarcastic,Adventurous,!
+ablwodanrt,e,aptmadvpuy,4 BED,Fine Arts,Transfer,First Floor,0,0,0,0,0,0,5,3,9,9,1,,,,Other,Art,Drinking,!,Rodent,!,Gamer,Dutiful,Cultured,!,Gamer,Dutiful,Cultured,!
+xbrtksyodx,x,wovebrwpjn,2 BED DELUXE,Multi-Disciplinary Studies,Junior,First Floor,0,0,0,0,0,0,4,3,10,7,1,,,,Staying up,Television,Fantasy Sports,!,Cat,!,Dutiful,Other,!,Dutiful,Other,!
+sbrwvkyqmb,u,wrcavjwgox,4 BED,Health Science,Graduate,Second Floor,0,0,0,0,0,0,5,2,4,1,10,,,,Fantasy Sports,Outdoors,Reading,!,Medium Dog,!,Other,Helpful,Partier,!,Other,Helpful,Partier,!
+yswocypxqh,i,ccvuxgjqdr,4 BED,International Studies,Junior,First Floor,0,0,0,0,0,0,4,1,6,2,4,,,,Travel,Staying up,Drinking,!,Service Animal,!,Discreet,Sarcastic,Open,!,Discreet,Sarcastic,Open,!
+qvrbylnqya,r,fjuqyiupgy,2 BED DELUXE,Business,Sophomore,Second Floor,0,0,0,0,0,0,2,6,10,8,9,,,,Engineering,Television,Reading,!,Cat,!,Gamer,Encouraging,Adventurous,!,Gamer,Encouraging,Adventurous,!
+naexmqdsnj,g,matdstuoto,2 BED,Law,Freshman,Third Floor,0,0,0,0,0,0,1,7,10,4,6,,,,Programming,Games,!,Cat,!,Helpful,Other,Discreet,!,Helpful,Other,Discreet,!
+qpxacnnnor,k,dkgsumjvld,2 BED,Atmospheric and Geographic Sciences,Graduate,Indifferent,0,0,0,0,0,0,10,8,6,8,8,,,,Programming,Travel,Fantasy Sports,!,Rodent,!,Cultured,Sarcastic,!,Cultured,Sarcastic,!
+gaqbhtjaha,c,rxhwvkpfvm,2 BED,Arts and Sciences,Sophomore,Third Floor,0,0,0,0,0,0,6,4,10,8,1,,,,Programming,Friends,Reading,!,Cat,!,Dependable,Reliable,Helpful,!,Dependable,Reliable,Helpful,!
+xeexgljcmu,k,jtfviwljfr,2 BED,Fine Arts,Transfer,Indifferent,0,0,0,0,0,0,10,9,1,9,3,,,,Reading,Television,Games,!,Large Dog,!,Adventurous,Intellegent,!,Adventurous,Intellegent,!
+lyabgeyisn,c,ucjejvtehx,2 BED DELUXE,Fine Arts,Sophomore,First Floor,0,0,0,0,0,0,6,8,6,1,3,,,,DIY,Television,Staying up,!,Other,!,Reliable,Encouraging,Partier,!,Reliable,Encouraging,Partier,!
+ckadfrohhe,i,djbirwsywv,3 BED CLOSED,Education,Sophomore,Third Floor,0,0,0,0,0,0,6,8,5,6,4,,,,DIY,Friends,Reading,!,Large Dog,!,Encouraging,Open,Dependable,!,Encouraging,Open,Dependable,!
+jqwcrbhsvl,f,wtsaqyhhxo,4 BED,None,None,Indifferent,0,0,0,0,0,0,5,10,4,2,7,,,,Games,Outdoors,Programming,!,Rodent,!,Discreet,Reliable,Gamer,!,Discreet,Reliable,Gamer,!
+vecmkdgaye,t,ppqcmxqscv,2 BED,Earth and Energy,Freshman,Third Floor,0,0,0,0,0,0,4,10,5,4,2,,,,Digital Arts,Other,!,Rodent,!,Open,Cultured,Shy,!,Open,Cultured,Shy,!
+ijqewmojpl,x,hgyyecsbex,4 BED,Health Science,Junior,Third Floor,0,0,0,0,0,0,6,1,2,2,3,,,,Engineering,Digital Arts,Television,!,Other,!,Discreet,Confident,Dutiful,!,Discreet,Confident,Dutiful,!
+algakanxht,l,lsdwurpxbs,3 BED OPEN,Law,Sophomore,First Floor,0,0,0,0,0,0,2,7,1,4,8,,,,DIY,Staying up,Friends,!,Other,!,Other,Discreet,Open,!,Other,Discreet,Open,!
+pxlmqcfkyp,h,qncntapmaq,4 BED,Fine Arts,None,Indifferent,0,0,0,0,0,0,8,5,4,2,9,,,,Fantasy Sports,Games,Staying up,!,Large Dog,!,Confident,Dependable,Discreet,!,Confident,Dependable,Discreet,!
+rcierkpxgt,c,budnqediot,4 BED,Fine Arts,None,Second Floor,0,0,0,0,0,0,1,2,4,1,1,,,,Travel,Other,Art,!,Small Dog,!,Discreet,Dutiful,Shy,!,Discreet,Dutiful,Shy,!
+xlokaauqhn,x,gljoknvqks,2 BED,None,Senior,Indifferent,0,0,0,0,0,0,10,4,6,8,8,,,,Outdoors,Drinking,Art,!,Large Dog,!,Confident,Independent,Open,!,Confident,Independent,Open,!
+tjgoiospsl,m,mkovgryefs,3 BED OPEN,Business,Sophomore,Third Floor,0,0,0,0,0,0,4,3,2,6,10,,,,DIY,Television,Reading,!,Medium Dog,!,Gamer,Adventurous,Helpful,!,Gamer,Adventurous,Helpful,!
+qrmwtetltu,w,lstdgrkkus,3 BED CLOSED,Atmospheric and Geographic Sciences,Sophomore,Indifferent,0,0,0,0,0,0,9,4,9,1,9,,,,Friends,Drinking,Reading,!,Cat,!,Reliable,Cultured,Sarcastic,!,Reliable,Cultured,Sarcastic,!
+niahdcdein,g,xdfnknlnlx,4 BED,Arts and Sciences,None,First Floor,0,0,0,0,0,0,4,2,6,8,9,,,,Television,Programming,Drinking,!,Large Dog,!,Helpful,Discreet,!,Helpful,Discreet,!
+xlwnoclucw,o,jqovdwjsbg,2 BED DELUXE,Law,Sophomore,First Floor,0,0,0,0,0,0,8,9,2,9,4,,,,Drinking,Engineering,Outdoors,!,Rodent,!,Capable,Gamer,Other,!,Capable,Gamer,Other,!
+gbhvlqfbhs,e,ohnfsynpso,3 BED OPEN,Journalism and Mass Communication,Transfer,Second Floor,0,0,0,0,0,0,10,7,3,4,1,,,,Fantasy Sports,Travel,Games,!,Rodent,!,Other,Capable,!,Other,Capable,!
+elafdtceat,g,iejaqeltcf,2 BED DELUXE,Business,None,First Floor,0,0,0,0,0,0,4,2,9,10,5,,,,Reading,Drinking,Art,!,Rodent,!,Adventurous,Dependable,Dutiful,!,Adventurous,Dependable,Dutiful,!
+ttgtsxkdtx,b,vssbycedwy,3 BED OPEN,Business,Graduate,Indifferent,0,0,0,0,0,0,9,5,9,8,6,,,,Art,Travel,!,Rodent,!,Dutiful,Capable,Other,!,Dutiful,Capable,Other,!
+isvsqitnjn,d,nqkpfaxigq,2 BED DELUXE,Business,Freshman,First Floor,0,0,0,0,0,0,5,2,5,5,4,,,,Digital Arts,Travel,!,Other,!,Sarcastic,Gamer,Dutiful,!,Sarcastic,Gamer,Dutiful,!
+nfnmisagrr,x,hsefewtwis,3 BED CLOSED,Education,Junior,Indifferent,0,0,0,0,0,0,2,9,7,2,9,,,,Other,Reading,Programming,!,Large Dog,!,Intellegent,Independent,Other,!,Intellegent,Independent,Other,!
+ngchfvebyo,o,pxralrvffu,2 BED,Arts and Sciences,None,Second Floor,0,0,0,0,0,0,7,8,7,10,8,,,,Fantasy Sports,Travel,Staying up,!,Large Dog,!,Gamer,Sarcastic,Capable,!,Gamer,Sarcastic,Capable,!
+solhillgfs,e,bmldvgolfh,3 BED CLOSED,International Studies,Sophomore,First Floor,0,0,0,0,0,0,2,4,4,9,4,,,,Drinking,Games,Television,!,Other,!,Encouraging,Shy,Capable,!,Encouraging,Shy,Capable,!
+xpwuxtgwyp,v,hesxenfbcd,2 BED,Education,Sophomore,Second Floor,0,0,0,0,0,0,10,4,9,7,2,,,,Travel,Outdoors,DIY,!,Large Dog,!,Confident,Adventurous,Discreet,!,Confident,Adventurous,Discreet,!
+ceeacwhmpx,f,ygsxhqhovd,3 BED OPEN,Multi-Disciplinary Studies,Freshman,Third Floor,0,0,0,0,0,0,10,10,5,4,6,,,,Travel,Programming,!,Large Dog,!,Open,Discreet,Confident,!,Open,Discreet,Confident,!
+qillqyustq,d,wjwvulbhjl,3 BED CLOSED,None,Transfer,First Floor,0,0,0,0,0,0,6,7,5,5,8,,,,Staying up,Reading,!,Other,!,Gamer,Sarcastic,!,Gamer,Sarcastic,!
+sfmtcyojvh,h,rgamfwuwrb,2 BED DELUXE,Engineering,None,First Floor,0,0,0,0,0,0,6,1,9,8,9,,,,Engineering,Games,Fantasy Sports,!,Rodent,!,Shy,Confident,Independent,!,Shy,Confident,Independent,!
+wccjewlhjl,a,gxhhmufioy,3 BED CLOSED,Other,Senior,Indifferent,0,0,0,0,0,0,6,4,2,8,8,,,,Travel,Fantasy Sports,!,Service Animal,!,Partier,Dutiful,Intellegent,!,Partier,Dutiful,Intellegent,!
+cwptgpvguh,n,uywnukaqnf,4 BED,Multi-Disciplinary Studies,Junior,Third Floor,0,0,0,0,0,0,10,8,5,2,5,,,,Fantasy Sports,DIY,!,Rodent,!,Cultured,Dependable,Open,!,Cultured,Dependable,Open,!
+eqqvpwkcvq,r,obtfiqekxi,3 BED CLOSED,Health Science,Sophomore,Second Floor,0,0,0,0,0,0,2,10,2,5,3,,,,Reading,Art,Games,!,Rodent,!,Cultured,Adventurous,!,Cultured,Adventurous,!
+nnvwndgfwg,g,pwwdobdklg,2 BED DELUXE,Fine Arts,Sophomore,Indifferent,0,0,0,0,0,0,7,5,3,10,7,,,,Other,Digital Arts,Drinking,!,Service Animal,!,Reliable,Cultured,!,Reliable,Cultured,!
+pxvwpdmnwc,q,eujfaiwxbh,3 BED OPEN,Multi-Disciplinary Studies,Freshman,Third Floor,0,0,0,0,0,0,10,3,4,5,8,,,,Art,Outdoors,Engineering,!,Service Animal,!,Helpful,Dutiful,Confident,!,Helpful,Dutiful,Confident,!
+pstucwayww,u,grtjngqlug,2 BED,Multi-Disciplinary Studies,Freshman,First Floor,0,0,0,0,0,0,1,5,10,9,5,,,,Drinking,Art,Reading,!,Other,!,Open,Capable,Dependable,!,Open,Capable,Dependable,!
+qoxbouugpb,t,uejulnqcfc,3 BED OPEN,Arts and Sciences,Junior,Third Floor,0,0,0,0,0,0,4,5,9,8,7,,,,Reading,Other,Digital Arts,!,Other,!,Helpful,Reliable,!,Helpful,Reliable,!
+xgynyeodjk,d,tbejbvnfov,2 BED,Multi-Disciplinary Studies,Graduate,Second Floor,0,0,0,0,0,0,4,3,8,1,9,,,,Television,Programming,Art,!,Large Dog,!,Helpful,Encouraging,Dependable,!,Helpful,Encouraging,Dependable,!
+wnkogpwqnu,y,ifcfsvksac,3 BED OPEN,Law,None,Third Floor,0,0,0,0,0,0,7,5,7,2,6,,,,Travel,Art,!,Medium Dog,!,Capable,Cultured,!,Capable,Cultured,!
+skdpugbaah,s,yidbocmkrv,2 BED DELUXE,Law,Junior,Third Floor,0,0,0,0,0,0,7,4,7,1,7,,,,DIY,Travel,!,Small Dog,!,Cultured,Dependable,Sarcastic,!,Cultured,Dependable,Sarcastic,!
+pyhqkyqceo,c,sgicmvmjfs,4 BED,Health Science,Sophomore,First Floor,0,0,0,0,0,0,4,1,2,6,1,,,,Games,Staying up,Reading,!,Service Animal,!,Confident,Helpful,!,Confident,Helpful,!
+ljemeynubd,a,lugkmqqwry,2 BED,Health Science,Senior,Second Floor,0,0,0,0,0,0,3,3,4,7,1,,,,Engineering,Travel,Fantasy Sports,!,Small Dog,!,Reliable,Open,Capable,!,Reliable,Open,Capable,!
+lvgrjjgrvw,k,gbugcvmgrq,3 BED CLOSED,Business,Senior,Second Floor,0,0,0,0,0,0,2,5,6,7,10,,,,Games,Reading,Digital Arts,!,Small Dog,!,Helpful,Sarcastic,Encouraging,!,Helpful,Sarcastic,Encouraging,!
+mugstuofps,k,ltsjpbwtbs,2 BED,Business,Sophomore,First Floor,0,0,0,0,0,0,7,7,4,5,2,,,,Programming,Fantasy Sports,Reading,!,Large Dog,!,Reliable,Shy,Cultured,!,Reliable,Shy,Cultured,!
+rdbajmkumb,r,gtihjoaasr,4 BED,Health Science,Junior,Indifferent,0,0,0,0,0,0,5,1,8,3,4,,,,Staying up,Friends,!,Small Dog,!,Sarcastic,Encouraging,Cultured,!,Sarcastic,Encouraging,Cultured,!
+gvoianlags,y,fbaieikmck,4 BED,Education,None,First Floor,0,0,0,0,0,0,4,10,2,9,9,,,,Drinking,Staying up,!,Medium Dog,!,Other,Cultured,Encouraging,!,Other,Cultured,Encouraging,!
+ytvgkoasys,r,dbdfhxinmg,3 BED CLOSED,Arts and Sciences,Graduate,Second Floor,0,0,0,0,0,0,8,7,2,3,10,,,,Art,Games,!,Medium Dog,!,Other,Sarcastic,Capable,!,Other,Sarcastic,Capable,!
+nvgljmbptb,w,frydivwcbf,2 BED,Arts and Sciences,Sophomore,Third Floor,0,0,0,0,0,0,5,7,4,5,1,,,,Other,Reading,Programming,!,Cat,!,Adventurous,Discreet,Reliable,!,Adventurous,Discreet,Reliable,!
+bxglvkamqx,d,qjlqjtjoan,3 BED CLOSED,Multi-Disciplinary Studies,None,Third Floor,0,0,0,0,0,0,2,1,5,7,8,,,,Games,DIY,Travel,!,Small Dog,!,Sarcastic,Discreet,Confident,!,Sarcastic,Discreet,Confident,!
+pkxddxxgmw,e,cvfmplorak,3 BED CLOSED,Other,Freshman,Third Floor,0,0,0,0,0,0,7,4,9,4,6,,,,Digital Arts,Programming,Friends,!,Other,!,Helpful,Shy,Cultured,!,Helpful,Shy,Cultured,!
+htlorbkuwc,g,srmgfwfmpx,2 BED DELUXE,None,Graduate,Indifferent,0,0,0,0,0,0,10,6,9,4,7,,,,Art,Reading,!,Large Dog,!,Cultured,Discreet,Capable,!,Cultured,Discreet,Capable,!
+jxbbbobpas,v,ufmpjbeixp,2 BED,Other,Graduate,Third Floor,0,0,0,0,0,0,7,2,6,4,6,,,,Travel,Engineering,Drinking,!,Cat,!,Capable,Open,Sarcastic,!,Capable,Open,Sarcastic,!
+paefswfwms,p,awyfvpuieo,2 BED,Multi-Disciplinary Studies,Freshman,Second Floor,0,0,0,0,0,0,1,10,6,4,3,,,,Fantasy Sports,Games,Outdoors,!,Rodent,!,Adventurous,Independent,Open,!,Adventurous,Independent,Open,!
+yputpqweyg,h,ngmbtgfgid,4 BED,Arts and Sciences,Junior,Indifferent,0,0,0,0,0,0,4,2,5,5,9,,,,Art,Staying up,Outdoors,!,Medium Dog,!,Adventurous,Partier,Dependable,!,Adventurous,Partier,Dependable,!
+nrrymutfqt,y,ucqoneimta,4 BED,Fine Arts,Transfer,Second Floor,0,0,0,0,0,0,5,6,7,4,5,,,,Digital Arts,Outdoors,Games,!,Medium Dog,!,Open,Encouraging,Confident,!,Open,Encouraging,Confident,!
+tswjklbdpj,p,rahpqppbdf,2 BED,Education,Freshman,Indifferent,0,0,0,0,0,0,1,7,9,6,7,,,,Television,Fantasy Sports,Engineering,!,Rodent,!,Shy,Adventurous,Intellegent,!,Shy,Adventurous,Intellegent,!
+jkgahfuqgy,b,wmxtaspmjm,3 BED OPEN,Engineering,Transfer,Indifferent,0,0,0,0,0,0,4,6,5,6,1,,,,Reading,Digital Arts,Travel,!,Rodent,!,Helpful,Intellegent,Dutiful,!,Helpful,Intellegent,Dutiful,!
+nkikgqtfxx,y,pqrvxbewvu,2 BED,Education,Freshman,Second Floor,0,0,0,0,0,0,10,3,9,5,9,,,,DIY,Friends,Staying up,!,Rodent,!,Encouraging,Dutiful,Partier,!,Encouraging,Dutiful,Partier,!
+ejfvkgxina,g,onyiwmepot,2 BED,Law,Junior,Third Floor,0,0,0,0,0,0,6,1,7,10,5,,,,Reading,Travel,!,Rodent,!,Other,Dependable,Discreet,!,Other,Dependable,Discreet,!
+ovavaqtkat,p,qnwugqyiqq,4 BED,Atmospheric and Geographic Sciences,Junior,Indifferent,0,0,0,0,0,0,6,2,1,5,3,,,,Friends,!,Service Animal,!,Intellegent,Gamer,Capable,!,Intellegent,Gamer,Capable,!
+vdqeogrgrs,v,mssninainl,3 BED CLOSED,Other,Freshman,Third Floor,0,0,0,0,0,0,6,4,10,8,9,,,,Engineering,Drinking,Travel,!,Cat,!,Other,Gamer,Cultured,!,Other,Gamer,Cultured,!
+tlgbkykjdr,r,lvtjxfmxyw,3 BED CLOSED,Earth and Energy,Junior,Indifferent,0,0,0,0,0,0,5,8,6,2,2,,,,Outdoors,Travel,Television,!,Other,!,Helpful,Cultured,Reliable,!,Helpful,Cultured,Reliable,!
+twxkhwssjw,w,sveandrwuh,2 BED,Multi-Disciplinary Studies,Transfer,Indifferent,0,0,0,0,0,0,1,7,5,1,4,,,,Programming,Drinking,!,Rodent,!,Reliable,Discreet,!,Reliable,Discreet,!
+grvosvvkdf,a,iiijksimek,4 BED,Health Science,Graduate,Second Floor,0,0,0,0,0,0,5,3,9,2,3,,,,Fantasy Sports,Engineering,!,Medium Dog,!,Partier,Reliable,Independent,!,Partier,Reliable,Independent,!
+bfmabykwvo,y,drjygaltdh,2 BED DELUXE,Atmospheric and Geographic Sciences,Graduate,Third Floor,0,0,0,0,0,0,8,2,6,8,8,,,,Reading,Other,Drinking,!,Cat,!,Shy,Confident,Independent,!,Shy,Confident,Independent,!
+pocgqjanri,e,fgrersfbap,4 BED,Law,Transfer,Third Floor,0,0,0,0,0,0,3,1,2,3,2,,,,Friends,DIY,Digital Arts,!,Other,!,Other,Confident,!,Other,Confident,!
+qcnxhqoufy,f,uwobntimae,3 BED CLOSED,Journalism and Mass Communication,Sophomore,Second Floor,0,0,0,0,0,0,6,5,10,10,10,,,,Art,Television,Drinking,!,Medium Dog,!,Dutiful,Discreet,Gamer,!,Dutiful,Discreet,Gamer,!
+fkkxopeapx,m,pbdsmuxjga,2 BED,Other,Transfer,Indifferent,0,0,0,0,0,0,7,9,3,9,2,,,,Friends,DIY,Art,!,Service Animal,!,Reliable,Independent,Open,!,Reliable,Independent,Open,!
+fhhnhqlyna,a,wygbavuqmq,2 BED,International Studies,Junior,Second Floor,0,0,0,0,0,0,1,2,9,4,1,,,,Fantasy Sports,Games,Staying up,!,Medium Dog,!,Capable,Helpful,Open,!,Capable,Helpful,Open,!
+vpkuutpvfe,q,vohaewcrdt,3 BED OPEN,International Studies,Senior,Indifferent,0,0,0,0,0,0,5,4,5,3,8,,,,Staying up,Television,Friends,!,Cat,!,Confident,Dependable,Cultured,!,Confident,Dependable,Cultured,!
+rdryhgnodw,b,fjlufqrtxj,4 BED,Law,None,Second Floor,0,0,0,0,0,0,3,4,4,8,3,,,,Staying up,Television,Other,!,Large Dog,!,Open,Capable,!,Open,Capable,!
+hfufnudagl,d,ukwmunjvbk,2 BED DELUXE,Health Science,Senior,Indifferent,0,0,0,0,0,0,10,7,4,8,1,,,,DIY,Fantasy Sports,Other,!,Rodent,!,Shy,Capable,Open,!,Shy,Capable,Open,!
+phominsfab,e,sgdphgqoxi,2 BED,Law,Transfer,Indifferent,0,0,0,0,0,0,8,8,6,10,1,,,,Art,Outdoors,Travel,!,Small Dog,!,Sarcastic,Encouraging,Independent,!,Sarcastic,Encouraging,Independent,!
+sihqrokhkb,u,agnugrlose,2 BED,None,Senior,Indifferent,0,0,0,0,0,0,8,8,8,4,10,,,,Engineering,Art,Reading,!,Service Animal,!,Independent,Other,Discreet,!,Independent,Other,Discreet,!
+nfygyvrpcd,c,vmpxxfaaci,3 BED OPEN,International Studies,Sophomore,First Floor,0,0,0,0,0,0,1,9,5,8,4,,,,Games,Art,Reading,!,Small Dog,!,Encouraging,Discreet,Capable,!,Encouraging,Discreet,Capable,!
+dlwywxmlaf,l,tcegbkyihv,2 BED DELUXE,Business,None,Second Floor,0,0,0,0,0,0,2,6,7,10,8,,,,Other,Engineering,Art,!,Other,!,Shy,Gamer,Reliable,!,Shy,Gamer,Reliable,!
+acoomubooe,h,yhckaetkfd,2 BED DELUXE,Health Science,Freshman,Indifferent,0,0,0,0,0,0,6,6,5,4,2,,,,Digital Arts,Travel,Games,!,Other,!,Partier,Capable,Adventurous,!,Partier,Capable,Adventurous,!
+dlawmraowq,u,fovsohcamr,4 BED,Atmospheric and Geographic Sciences,Transfer,First Floor,0,0,0,0,0,0,9,5,4,7,6,,,,Programming,Games,Television,!,Small Dog,!,Sarcastic,Independent,Encouraging,!,Sarcastic,Independent,Encouraging,!
+ybbwcrwnqn,j,jklncjpfpi,3 BED OPEN,International Studies,Senior,Second Floor,0,0,0,0,0,0,9,8,1,9,3,,,,Reading,Fantasy Sports,Other,!,Rodent,!,Dutiful,Independent,Helpful,!,Dutiful,Independent,Helpful,!
+flwgldoqau,j,hmtbsmglfe,2 BED DELUXE,Journalism and Mass Communication,Senior,Second Floor,0,0,0,0,0,0,2,4,2,9,8,,,,DIY,Reading,Digital Arts,!,Large Dog,!,Discreet,Sarcastic,Other,!,Discreet,Sarcastic,Other,!
+nwmkqjuuoq,t,lnsdvxvkty,2 BED,None,None,Indifferent,0,0,0,0,0,0,2,9,1,2,7,,,,Television,Digital Arts,Staying up,!,Rodent,!,Intellegent,Open,Confident,!,Intellegent,Open,Confident,!
+khkscwfwvr,s,oeuisytrot,3 BED CLOSED,Law,Freshman,Third Floor,0,0,0,0,0,0,7,3,5,2,3,,,,Staying up,Friends,Programming,!,Small Dog,!,Sarcastic,Reliable,Gamer,!,Sarcastic,Reliable,Gamer,!
+rwtdlccqxd,p,egflifmcnl,2 BED DELUXE,Multi-Disciplinary Studies,Senior,Third Floor,0,0,0,0,0,0,4,10,4,7,2,,,,Television,Fantasy Sports,Programming,!,Service Animal,!,Shy,Dependable,!,Shy,Dependable,!
+andyoygvdh,l,tilejuhavf,3 BED CLOSED,None,Freshman,Indifferent,0,0,0,0,0,0,5,6,7,5,3,,,,Digital Arts,Drinking,Staying up,!,Service Animal,!,Confident,Open,Discreet,!,Confident,Open,Discreet,!
+bikiuctwaf,n,fqkowlhwsv,4 BED,Journalism and Mass Communication,Sophomore,First Floor,0,0,0,0,0,0,3,4,8,4,5,,,,DIY,Outdoors,!,Other,!,Reliable,Sarcastic,Shy,!,Reliable,Sarcastic,Shy,!
+fgvqywrmgp,v,ralsolwnjs,2 BED,Multi-Disciplinary Studies,Graduate,First Floor,0,0,0,0,0,0,6,10,6,4,7,,,,DIY,Games,Digital Arts,!,Large Dog,!,Partier,Independent,Sarcastic,!,Partier,Independent,Sarcastic,!
+hfeprqcdcb,v,ttilmmgwrc,4 BED,Journalism and Mass Communication,Graduate,First Floor,0,0,0,0,0,0,10,9,1,3,8,,,,Staying up,Fantasy Sports,Television,!,Medium Dog,!,Gamer,Cultured,Partier,!,Gamer,Cultured,Partier,!
+fnfdvidnhb,u,oqdqngdyjd,3 BED CLOSED,Journalism and Mass Communication,Senior,Third Floor,0,0,0,0,0,0,8,7,5,3,8,,,,Outdoors,Staying up,Reading,!,Rodent,!,Sarcastic,Dutiful,Confident,!,Sarcastic,Dutiful,Confident,!
+xtpmpfswre,p,whgjjglyig,2 BED,Business,Transfer,First Floor,0,0,0,0,0,0,4,2,9,9,9,,,,Travel,Staying up,DIY,!,Large Dog,!,Partier,Cultured,Shy,!,Partier,Cultured,Shy,!
+pgdbjkjhfb,t,iytkopggje,2 BED DELUXE,Arts and Sciences,None,Second Floor,0,0,0,0,0,0,2,10,6,3,4,,,,Staying up,DIY,Engineering,!,Other,!,Cultured,Open,Independent,!,Cultured,Open,Independent,!
+sohcyxiegv,c,rrjivbphho,2 BED DELUXE,Atmospheric and Geographic Sciences,Junior,Third Floor,0,0,0,0,0,0,2,5,3,4,2,,,,Programming,Other,Engineering,!,Large Dog,!,Open,Adventurous,Discreet,!,Open,Adventurous,Discreet,!
+lxkjmjwoln,d,sbphxdsfsi,2 BED,Atmospheric and Geographic Sciences,Freshman,Second Floor,0,0,0,0,0,0,4,6,6,7,3,,,,Art,Reading,Programming,!,Large Dog,!,Shy,Sarcastic,Cultured,!,Shy,Sarcastic,Cultured,!
+djhdiopgsw,h,atjcprhacl,2 BED DELUXE,Engineering,Transfer,Second Floor,0,0,0,0,0,0,9,6,5,4,3,,,,Drinking,Engineering,Television,!,Service Animal,!,Encouraging,Discreet,Open,!,Encouraging,Discreet,Open,!
+xgopgifpld,x,pgcbehtvak,2 BED DELUXE,Arts and Sciences,Graduate,Third Floor,0,0,0,0,0,0,9,8,9,5,9,,,,Staying up,DIY,Fantasy Sports,!,Large Dog,!,Reliable,Confident,Shy,!,Reliable,Confident,Shy,!
+ppyymdwerv,l,tvbjtpemph,4 BED,Multi-Disciplinary Studies,None,Second Floor,0,0,0,0,0,0,4,6,9,6,8,,,,Travel,Friends,Outdoors,!,Cat,!,Gamer,Shy,!,Gamer,Shy,!
+fvromjmgjt,h,myujgouocp,2 BED,Atmospheric and Geographic Sciences,Senior,Third Floor,0,0,0,0,0,0,7,5,1,2,6,,,,Travel,Television,Digital Arts,!,Other,!,Capable,Encouraging,Helpful,!,Capable,Encouraging,Helpful,!
+lugxwjouol,t,ssepjiaaxf,4 BED,Atmospheric and Geographic Sciences,Senior,First Floor,0,0,0,0,0,0,2,1,2,7,2,,,,Art,Reading,!,Other,!,Discreet,Partier,Adventurous,!,Discreet,Partier,Adventurous,!
+xuwqwutovl,m,qjylmwmkji,3 BED CLOSED,Journalism and Mass Communication,Freshman,Third Floor,0,0,0,0,0,0,10,6,3,8,4,,,,Outdoors,Art,DIY,!,Rodent,!,Helpful,Independent,Adventurous,!,Helpful,Independent,Adventurous,!
+qmpuwhjiob,r,nnxyqnvvfp,4 BED,Health Science,None,Third Floor,0,0,0,0,0,0,10,9,8,5,5,,,,Programming,Art,DIY,!,Rodent,!,Capable,Cultured,Gamer,!,Capable,Cultured,Gamer,!
+ihctmhyswy,q,wxophhvskh,2 BED,Law,Junior,Second Floor,0,0,0,0,0,0,5,10,9,4,6,,,,Reading,Friends,DIY,!,Rodent,!,Helpful,Partier,Reliable,!,Helpful,Partier,Reliable,!
+xwgmeinxkr,c,niqoeoitoy,2 BED DELUXE,None,Senior,First Floor,0,0,0,0,0,0,4,3,5,3,8,,,,Drinking,Travel,Fantasy Sports,!,Other,!,Cultured,Encouraging,!,Cultured,Encouraging,!
+baklcpkrfx,i,dtdqnmgkbg,2 BED,Earth and Energy,Senior,Second Floor,0,0,0,0,0,0,6,10,3,3,3,,,,Friends,Drinking,Travel,!,Small Dog,!,Encouraging,Independent,Partier,!,Encouraging,Independent,Partier,!
+wsytiwjnxq,j,inipmaocgx,2 BED DELUXE,None,Junior,First Floor,0,0,0,0,0,0,9,8,8,1,7,,,,Drinking,Engineering,Outdoors,!,Small Dog,!,Shy,Capable,Other,!,Shy,Capable,Other,!
+ockbblicpc,t,gobcsjbueg,4 BED,Journalism and Mass Communication,Freshman,Second Floor,0,0,0,0,0,0,4,1,6,9,1,,,,Travel,Programming,Art,!,Other,!,Adventurous,Gamer,Open,!,Adventurous,Gamer,Open,!
+hegkkdefrc,u,belbxruyhm,4 BED,Earth and Energy,Sophomore,Second Floor,0,0,0,0,0,0,7,1,10,2,6,,,,Other,Travel,DIY,!,Small Dog,!,Dependable,Independent,Shy,!,Dependable,Independent,Shy,!
+nsdqevsrgj,i,mxjxmielxd,4 BED,Education,Freshman,First Floor,0,0,0,0,0,0,10,1,5,3,7,,,,Engineering,Friends,Games,!,Service Animal,!,Dependable,Dutiful,Cultured,!,Dependable,Dutiful,Cultured,!
+smpadjekuw,t,naubohbgoi,3 BED CLOSED,None,Senior,First Floor,0,0,0,0,0,0,7,3,8,1,10,,,,Staying up,Outdoors,Friends,!,Service Animal,!,Reliable,Capable,Discreet,!,Reliable,Capable,Discreet,!
+tstpcndrwa,i,lptqwgmuer,3 BED CLOSED,Law,Graduate,Indifferent,0,0,0,0,0,0,9,10,4,10,5,,,,Friends,Art,Digital Arts,!,Rodent,!,Discreet,Encouraging,!,Discreet,Encouraging,!
+fsbahmaocl,b,hhutxedxbm,2 BED,Arts and Sciences,Junior,First Floor,0,0,0,0,0,0,2,2,8,9,8,,,,Friends,Programming,Engineering,!,Other,!,Discreet,Dependable,Capable,!,Discreet,Dependable,Capable,!
+ceoapsvphx,o,vlnxdfjjxx,4 BED,Law,Sophomore,First Floor,0,0,0,0,0,0,3,8,6,6,3,,,,Staying up,Engineering,Drinking,!,Service Animal,!,Sarcastic,Gamer,Open,!,Sarcastic,Gamer,Open,!
+kfareujgny,o,agrljjvqps,3 BED CLOSED,Law,Transfer,Third Floor,0,0,0,0,0,0,2,6,10,7,10,,,,Drinking,Friends,Outdoors,!,Large Dog,!,Open,Intellegent,Helpful,!,Open,Intellegent,Helpful,!
+oxonahdyeb,g,wiohenxbec,4 BED,Law,Freshman,Indifferent,0,0,0,0,0,0,6,7,7,7,6,,,,Television,Travel,Other,!,Medium Dog,!,Discreet,Reliable,!,Discreet,Reliable,!
+oevgokhavd,y,frbfifmlxl,3 BED CLOSED,Earth and Energy,Freshman,First Floor,0,0,0,0,0,0,6,4,8,4,1,,,,Other,Drinking,Engineering,!,Rodent,!,Dependable,Intellegent,!,Dependable,Intellegent,!
+vuufayhbji,b,yleaagaoqe,2 BED,Health Science,Transfer,Indifferent,0,0,0,0,0,0,5,9,7,1,7,,,,Art,Friends,Games,!,Service Animal,!,Helpful,Partier,Intellegent,!,Helpful,Partier,Intellegent,!
+rgvevubrhi,o,elltpkokff,3 BED CLOSED,Journalism and Mass Communication,Graduate,Indifferent,0,0,0,0,0,0,1,10,8,3,10,,,,Drinking,Friends,Staying up,!,Large Dog,!,Cultured,Reliable,Shy,!,Cultured,Reliable,Shy,!
+whylhvjydd,x,uhemntkund,2 BED,Business,Freshman,First Floor,0,0,0,0,0,0,10,5,1,1,6,,,,Travel,Fantasy Sports,Drinking,!,Rodent,!,Independent,Helpful,Other,!,Independent,Helpful,Other,!
+lwccnbixtb,y,iammxarbtp,3 BED CLOSED,Education,None,Third Floor,0,0,0,0,0,0,7,2,4,10,1,,,,Games,Fantasy Sports,Travel,!,Rodent,!,Reliable,Discreet,Other,!,Reliable,Discreet,Other,!
+jbrhxtjyov,h,edafflegjn,2 BED DELUXE,Atmospheric and Geographic Sciences,Sophomore,Indifferent,0,0,0,0,0,0,10,10,1,5,2,,,,Travel,Reading,DIY,!,Other,!,Sarcastic,Dependable,Capable,!,Sarcastic,Dependable,Capable,!
+smpymmadnm,y,qmcvduoaje,2 BED DELUXE,Other,Freshman,Third Floor,0,0,0,0,0,0,6,1,10,3,4,,,,DIY,Staying up,Reading,!,Rodent,!,Confident,Other,Intellegent,!,Confident,Other,Intellegent,!
+cvvopdloox,g,hivsbcumdu,2 BED DELUXE,Arts and Sciences,Transfer,First Floor,0,0,0,0,0,0,4,1,3,8,5,,,,DIY,Engineering,Outdoors,!,Large Dog,!,Discreet,Reliable,Sarcastic,!,Discreet,Reliable,Sarcastic,!
+kqrokhqpiy,t,hkutgcctlr,3 BED CLOSED,International Studies,None,Third Floor,0,0,0,0,0,0,2,2,8,7,7,,,,Travel,Friends,Fantasy Sports,!,Other,!,Discreet,Helpful,!,Discreet,Helpful,!
+bghmfrgaes,x,rusjgbtpjs,3 BED CLOSED,Arts and Sciences,None,Third Floor,0,0,0,0,0,0,7,9,8,5,6,,,,Staying up,Television,DIY,!,Medium Dog,!,Encouraging,Capable,Independent,!,Encouraging,Capable,Independent,!
+qokrwdlvca,o,gdwafcjmek,3 BED OPEN,Other,Junior,First Floor,0,0,0,0,0,0,4,7,9,1,9,,,,DIY,Outdoors,Reading,!,Cat,!,Reliable,Partier,!,Reliable,Partier,!
+bwaqayeqmq,x,naedrbnidy,4 BED,Law,Freshman,Second Floor,0,0,0,0,0,0,1,8,1,6,10,,,,DIY,Digital Arts,Art,!,Cat,!,Encouraging,Confident,Discreet,!,Encouraging,Confident,Discreet,!
+uehcsjpoii,t,xhdmavxkrf,3 BED CLOSED,Journalism and Mass Communication,Freshman,First Floor,0,0,0,0,0,0,2,5,4,5,4,,,,Friends,Games,Television,!,Cat,!,Other,Independent,Intellegent,!,Other,Independent,Intellegent,!
+lqyiisoljr,s,gtklnuytqo,4 BED,None,Freshman,First Floor,0,0,0,0,0,0,9,3,9,10,4,,,,Digital Arts,Engineering,Television,!,Other,!,Capable,Sarcastic,Independent,!,Capable,Sarcastic,Independent,!
+djqcfqefhv,l,bolptdfjuv,3 BED CLOSED,International Studies,Freshman,Second Floor,0,0,0,0,0,0,4,3,5,8,4,,,,Digital Arts,Games,Fantasy Sports,!,Rodent,!,Dutiful,Reliable,Partier,!,Dutiful,Reliable,Partier,!
+mqsvaxpbxs,y,xbkxciatdq,3 BED CLOSED,Other,None,First Floor,0,0,0,0,0,0,8,2,5,4,1,,,,Digital Arts,Reading,Staying up,!,Cat,!,Dependable,Intellegent,Reliable,!,Dependable,Intellegent,Reliable,!
+qjqwyqkbue,b,upmltiampi,3 BED CLOSED,Business,Graduate,Indifferent,0,0,0,0,0,0,3,5,1,7,2,,,,Programming,Friends,Games,!,Small Dog,!,Adventurous,Shy,!,Adventurous,Shy,!
+iehsrgkyme,t,qoxehcmehi,3 BED CLOSED,International Studies,Freshman,Third Floor,0,0,0,0,0,0,8,7,2,5,7,,,,Games,Fantasy Sports,Television,!,Small Dog,!,Sarcastic,Cultured,Discreet,!,Sarcastic,Cultured,Discreet,!
+fsudevhglj,t,ihgluuyuej,3 BED CLOSED,Earth and Energy,Graduate,First Floor,0,0,0,0,0,0,5,5,3,3,4,,,,Friends,Art,Games,!,Small Dog,!,Open,Helpful,!,Open,Helpful,!
+cfbckhandc,y,hwxwwvrahw,2 BED,Education,None,Third Floor,0,0,0,0,0,0,2,1,5,10,1,,,,Friends,Reading,Other,!,Medium Dog,!,Adventurous,Discreet,Reliable,!,Adventurous,Discreet,Reliable,!
+oarpielvph,v,dbtmdntkwl,3 BED OPEN,Journalism and Mass Communication,Freshman,First Floor,0,0,0,0,0,0,4,7,4,5,10,,,,Fantasy Sports,Engineering,Games,!,Rodent,!,Dependable,Partier,Adventurous,!,Dependable,Partier,Adventurous,!
+kieixuymbo,x,ovdopvmvmq,2 BED DELUXE,Fine Arts,Freshman,Indifferent,0,0,0,0,0,0,3,4,3,10,5,,,,Other,Travel,Engineering,!,Other,!,Encouraging,Partier,Sarcastic,!,Encouraging,Partier,Sarcastic,!
+gmjhncfxpk,v,gspyrbpnys,3 BED CLOSED,International Studies,Senior,Second Floor,0,0,0,0,0,0,8,8,8,5,3,,,,Games,Art,!,Service Animal,!,Helpful,Discreet,!,Helpful,Discreet,!
+dennhrnqna,j,ypuscovfba,2 BED,Multi-Disciplinary Studies,Junior,Indifferent,0,0,0,0,0,0,10,6,8,4,9,,,,Travel,Friends,Programming,!,Cat,!,Dependable,Capable,!,Dependable,Capable,!
+aumvgboydo,s,dsxicgoomj,4 BED,Journalism and Mass Communication,Transfer,Third Floor,0,0,0,0,0,0,9,6,9,6,5,,,,Reading,Television,DIY,!,Large Dog,!,Independent,Intellegent,Sarcastic,!,Independent,Intellegent,Sarcastic,!
+xtacamwvtc,k,vnsxvwkckh,2 BED,Arts and Sciences,Transfer,First Floor,0,0,0,0,0,0,10,5,8,1,3,,,,Programming,Other,Travel,!,Small Dog,!,Intellegent,Sarcastic,!,Intellegent,Sarcastic,!
+qlqgnllqnk,m,wkvmkqalad,3 BED OPEN,Multi-Disciplinary Studies,Sophomore,First Floor,0,0,0,0,0,0,5,9,10,4,1,,,,Drinking,Games,!,Service Animal,!,Sarcastic,Dutiful,Gamer,!,Sarcastic,Dutiful,Gamer,!
+sihqhdjyko,o,dwyvpsylcv,2 BED,Health Science,Junior,Third Floor,0,0,0,0,0,0,1,3,5,8,6,,,,Digital Arts,Other,Outdoors,!,Large Dog,!,Partier,Helpful,Open,!,Partier,Helpful,Open,!
+fyefwyjvda,b,rdkvgrcecd,4 BED,Business,Sophomore,Second Floor,0,0,0,0,0,0,6,7,10,2,1,,,,Art,Outdoors,Digital Arts,!,Rodent,!,Reliable,Cultured,Other,!,Reliable,Cultured,Other,!
+enoimykqjd,g,ukpslebktc,3 BED CLOSED,Earth and Energy,Junior,Third Floor,0,0,0,0,0,0,8,6,10,6,5,,,,Digital Arts,Reading,Art,!,Medium Dog,!,Dutiful,Independent,Capable,!,Dutiful,Independent,Capable,!
+xixmouxupn,n,didaweijua,4 BED,Business,Freshman,Second Floor,0,0,0,0,0,0,10,9,9,9,2,,,,Outdoors,Television,Programming,!,Large Dog,!,Shy,Discreet,Dutiful,!,Shy,Discreet,Dutiful,!
+dvwmdrxiis,k,ojxeevauef,2 BED DELUXE,Law,Transfer,First Floor,0,0,0,0,0,0,8,8,10,1,10,,,,Art,Friends,Staying up,!,Medium Dog,!,Sarcastic,Cultured,Independent,!,Sarcastic,Cultured,Independent,!
+xtxfhmkalr,d,vcfocuerbl,4 BED,Journalism and Mass Communication,Transfer,First Floor,0,0,0,0,0,0,9,2,3,4,10,,,,Travel,Reading,Art,!,Service Animal,!,Reliable,Intellegent,!,Reliable,Intellegent,!
+fvtefaxjny,f,ubtijiraru,3 BED CLOSED,None,Graduate,Second Floor,0,0,0,0,0,0,6,10,6,5,7,,,,Engineering,Travel,DIY,!,Other,!,Open,Discreet,Sarcastic,!,Open,Discreet,Sarcastic,!
+bdwnmksyli,d,liagcqybqs,3 BED CLOSED,Multi-Disciplinary Studies,Graduate,Third Floor,0,0,0,0,0,0,6,10,6,8,5,,,,Fantasy Sports,Outdoors,Games,!,Medium Dog,!,Intellegent,Dutiful,Capable,!,Intellegent,Dutiful,Capable,!
+ogctqdrfvo,u,quvggwylig,3 BED OPEN,Earth and Energy,Sophomore,Second Floor,0,0,0,0,0,0,6,9,8,9,1,,,,Drinking,Engineering,Outdoors,!,Small Dog,!,Shy,Cultured,Dutiful,!,Shy,Cultured,Dutiful,!
+pbharshivk,x,esycglwypy,2 BED,Earth and Energy,Freshman,Second Floor,0,0,0,0,0,0,2,6,1,2,7,,,,Travel,Fantasy Sports,Outdoors,!,Large Dog,!,Gamer,Encouraging,!,Gamer,Encouraging,!
+floxqlmttf,c,mwoxhduclb,2 BED,Law,Graduate,Second Floor,0,0,0,0,0,0,5,8,7,7,6,,,,Travel,Programming,Digital Arts,!,Rodent,!,Discreet,Adventurous,!,Discreet,Adventurous,!
+afwudtwuid,u,bralojpnco,3 BED CLOSED,Fine Arts,Sophomore,Indifferent,0,0,0,0,0,0,6,5,3,10,7,,,,Other,Staying up,!,Large Dog,!,Open,Gamer,Adventurous,!,Open,Gamer,Adventurous,!
+gqnjcifckb,a,ydnurplnxo,2 BED,Health Science,Freshman,Indifferent,0,0,0,0,0,0,2,2,5,3,2,,,,Other,Digital Arts,Engineering,!,Large Dog,!,Helpful,Other,Sarcastic,!,Helpful,Other,Sarcastic,!
+yqxtoqhtni,y,yanomdtydm,4 BED,Law,Senior,Second Floor,0,0,0,0,0,0,6,10,1,6,10,,,,DIY,Digital Arts,!,Large Dog,!,Independent,Dutiful,!,Independent,Dutiful,!
+agljoorelk,s,xaiwgapyti,2 BED,None,Freshman,Third Floor,0,0,0,0,0,0,2,9,10,2,8,,,,Staying up,Art,Drinking,!,Medium Dog,!,Dutiful,Shy,Independent,!,Dutiful,Shy,Independent,!
+gwfxpvbtvj,i,wovkmlrnar,3 BED OPEN,International Studies,Freshman,Second Floor,0,0,0,0,0,0,10,1,2,4,4,,,,Other,Outdoors,Games,!,Service Animal,!,Encouraging,Dependable,Confident,!,Encouraging,Dependable,Confident,!
+vbqcafoqwv,m,hsijfbjwrj,2 BED,Earth and Energy,Graduate,First Floor,0,0,0,0,0,0,9,9,7,4,2,,,,Other,Friends,Outdoors,!,Cat,!,Partier,Reliable,!,Partier,Reliable,!
+nfnxjqsydh,n,ndkklbmjjc,2 BED,None,Graduate,Third Floor,0,0,0,0,0,0,10,9,10,1,3,,,,Fantasy Sports,Digital Arts,Television,!,Large Dog,!,Sarcastic,Other,Adventurous,!,Sarcastic,Other,Adventurous,!
+ivpoeltykw,o,utoirfdeoo,4 BED,Business,Graduate,First Floor,0,0,0,0,0,0,9,7,8,7,6,,,,Other,Reading,Staying up,!,Large Dog,!,Adventurous,Independent,Encouraging,!,Adventurous,Independent,Encouraging,!
+sywasmjnev,w,vqslbdfnic,3 BED OPEN,Earth and Energy,Senior,Second Floor,0,0,0,0,0,0,6,9,2,8,8,,,,Engineering,Programming,Staying up,!,Service Animal,!,Shy,Sarcastic,Discreet,!,Shy,Sarcastic,Discreet,!
+seqjtcfrdx,i,eodstpskka,3 BED CLOSED,None,Freshman,First Floor,0,0,0,0,0,0,3,1,6,8,8,,,,Fantasy Sports,Art,Television,!,Small Dog,!,Sarcastic,Independent,Shy,!,Sarcastic,Independent,Shy,!
+umjieljujl,y,xavmqeyjie,2 BED DELUXE,Business,Junior,Third Floor,0,0,0,0,0,0,10,10,10,8,7,,,,Reading,Friends,Art,!,Small Dog,!,Adventurous,Helpful,Shy,!,Adventurous,Helpful,Shy,!
+nwpjxrpphx,y,aeehrmpccp,4 BED,Business,Transfer,Second Floor,0,0,0,0,0,0,9,3,8,10,3,,,,Art,Friends,!,Other,!,Intellegent,Dutiful,Reliable,!,Intellegent,Dutiful,Reliable,!
+sgwegtxunl,y,rvrrtldxbb,2 BED,Engineering,Freshman,Indifferent,0,0,0,0,0,0,7,5,3,3,2,,,,Outdoors,Other,Drinking,!,Large Dog,!,Adventurous,Sarcastic,Capable,!,Adventurous,Sarcastic,Capable,!
+kdkggifuvm,o,axrcxiceny,3 BED OPEN,Education,Senior,Indifferent,0,0,0,0,0,0,1,1,10,10,5,,,,Games,Fantasy Sports,!,Small Dog,!,Sarcastic,Cultured,Adventurous,!,Sarcastic,Cultured,Adventurous,!
+lomaxgljlk,d,gpocidirlp,3 BED CLOSED,Multi-Disciplinary Studies,Freshman,Indifferent,0,0,0,0,0,0,2,4,3,6,8,,,,Television,Drinking,Outdoors,!,Small Dog,!,Independent,Confident,!,Independent,Confident,!
+gurcrwgiid,t,bxcmlrvgoq,2 BED DELUXE,Health Science,Senior,Third Floor,0,0,0,0,0,0,3,2,1,6,4,,,,Staying up,DIY,Reading,!,Small Dog,!,Discreet,Encouraging,Gamer,!,Discreet,Encouraging,Gamer,!
+uhkgpixykl,s,pgwvgvvxlb,2 BED,Journalism and Mass Communication,Senior,Second Floor,0,0,0,0,0,0,1,1,10,3,7,,,,Reading,Television,Art,!,Medium Dog,!,Encouraging,Partier,Gamer,!,Encouraging,Partier,Gamer,!
+nhkcmcbycu,j,hplmboxtek,3 BED OPEN,Multi-Disciplinary Studies,None,Third Floor,0,0,0,0,0,0,2,2,5,7,8,,,,Outdoors,Reading,Engineering,!,Large Dog,!,Intellegent,Independent,Helpful,!,Intellegent,Independent,Helpful,!
+kuxenetdkn,j,soewfghnen,4 BED,Arts and Sciences,Graduate,Indifferent,0,0,0,0,0,0,7,10,4,9,4,,,,Television,Programming,!,Medium Dog,!,Dutiful,Dependable,Discreet,!,Dutiful,Dependable,Discreet,!
+avhgvumqhb,v,iclgespjgo,2 BED,Health Science,Sophomore,Third Floor,0,0,0,0,0,0,6,6,4,4,3,,,,Programming,Friends,Drinking,!,Cat,!,Confident,Independent,Partier,!,Confident,Independent,Partier,!
+pxkfytrydy,a,vrlsvcnxfu,4 BED,Multi-Disciplinary Studies,None,First Floor,0,0,0,0,0,0,10,9,3,9,9,,,,Reading,Games,!,Medium Dog,!,Helpful,Encouraging,Sarcastic,!,Helpful,Encouraging,Sarcastic,!
+vokobilbab,x,bbuuvlmbcd,2 BED,Atmospheric and Geographic Sciences,Freshman,First Floor,0,0,0,0,0,0,9,2,9,6,3,,,,Fantasy Sports,Outdoors,!,Medium Dog,!,Partier,Other,Dutiful,!,Partier,Other,Dutiful,!
+qdjxetkiqi,v,rsbmscmcim,3 BED CLOSED,None,Graduate,First Floor,0,0,0,0,0,0,9,6,2,2,10,,,,Engineering,Drinking,Reading,!,Small Dog,!,Confident,Dutiful,Partier,!,Confident,Dutiful,Partier,!
+jepuhfhano,t,opeqetoyfh,2 BED DELUXE,International Studies,Graduate,Indifferent,0,0,0,0,0,0,4,6,6,6,3,,,,Friends,Travel,Fantasy Sports,!,Large Dog,!,Open,Cultured,Capable,!,Open,Cultured,Capable,!
+gkcomfnvpx,k,ykxurdonqn,4 BED,Arts and Sciences,Freshman,First Floor,0,0,0,0,0,0,5,8,1,3,3,,,,Engineering,Outdoors,Staying up,!,Small Dog,!,Independent,Dutiful,Gamer,!,Independent,Dutiful,Gamer,!
+agcuwobjwb,m,pvpmxpxpdv,2 BED DELUXE,Arts and Sciences,Graduate,Second Floor,0,0,0,0,0,0,2,4,7,7,10,,,,Other,Staying up,Friends,!,Service Animal,!,Sarcastic,Encouraging,!,Sarcastic,Encouraging,!
+lhfrtuyblv,y,owcddadnrq,4 BED,Multi-Disciplinary Studies,None,First Floor,0,0,0,0,0,0,7,6,2,4,7,,,,Other,Drinking,Fantasy Sports,!,Large Dog,!,Intellegent,Gamer,Sarcastic,!,Intellegent,Gamer,Sarcastic,!
+ncmbwxfjoa,c,txoplmriem,2 BED,International Studies,None,Third Floor,0,0,0,0,0,0,5,8,1,3,9,,,,Television,Digital Arts,!,Medium Dog,!,Encouraging,Partier,Helpful,!,Encouraging,Partier,Helpful,!
+jcihtsbbou,o,aomufkjoqb,4 BED,International Studies,Transfer,First Floor,0,0,0,0,0,0,10,7,5,10,4,,,,Programming,Outdoors,Friends,!,Other,!,Discreet,Sarcastic,Intellegent,!,Discreet,Sarcastic,Intellegent,!
+incegnsemc,l,aibtmbvslk,2 BED DELUXE,Atmospheric and Geographic Sciences,Junior,Indifferent,0,0,0,0,0,0,6,6,9,10,5,,,,Fantasy Sports,Games,!,Small Dog,!,Open,Confident,Dependable,!,Open,Confident,Dependable,!
+fkcebinovj,w,aomtrtxqxy,3 BED OPEN,International Studies,Freshman,Indifferent,0,0,0,0,0,0,2,1,4,8,9,,,,Games,Drinking,!,Large Dog,!,Open,Intellegent,!,Open,Intellegent,!
+crcofrclgn,d,gmpjxvickv,3 BED CLOSED,Other,Sophomore,Second Floor,0,0,0,0,0,0,6,4,6,8,10,,,,Other,Art,Friends,!,Large Dog,!,Dependable,Partier,Adventurous,!,Dependable,Partier,Adventurous,!
+ibsboexxik,n,wmsiqhmbwn,3 BED CLOSED,International Studies,Sophomore,Indifferent,0,0,0,0,0,0,5,2,6,8,10,,,,Digital Arts,Engineering,Television,!,Other,!,Shy,Discreet,Dutiful,!,Shy,Discreet,Dutiful,!
+mlbqlrtagp,c,yawfycditq,4 BED,Business,Junior,Second Floor,0,0,0,0,0,0,1,5,2,2,6,,,,Fantasy Sports,Engineering,Digital Arts,!,Medium Dog,!,Partier,Dutiful,Helpful,!,Partier,Dutiful,Helpful,!
+agojhonocm,n,hobxlfhtlb,3 BED OPEN,None,Junior,First Floor,0,0,0,0,0,0,6,7,4,6,5,,,,Drinking,Reading,!,Medium Dog,!,Gamer,Reliable,Sarcastic,!,Gamer,Reliable,Sarcastic,!
+qdqdlsngkw,v,crqorccrjg,3 BED OPEN,Law,Freshman,Second Floor,0,0,0,0,0,0,8,1,9,4,6,,,,Games,Television,!,Small Dog,!,Capable,Shy,Partier,!,Capable,Shy,Partier,!
+htmcfytesx,f,hjdpinccfg,3 BED OPEN,Other,Junior,First Floor,0,0,0,0,0,0,3,8,7,1,7,,,,Digital Arts,Reading,Staying up,!,Service Animal,!,Helpful,Reliable,Dutiful,!,Helpful,Reliable,Dutiful,!
+pbosavvmkd,d,hydpvqpfug,2 BED,International Studies,Freshman,First Floor,0,0,0,0,0,0,3,9,6,2,1,,,,Games,Programming,!,Service Animal,!,Sarcastic,Reliable,Dependable,!,Sarcastic,Reliable,Dependable,!
+rsvfxnwhkq,g,wxwqdbsxoo,3 BED OPEN,Engineering,None,Indifferent,0,0,0,0,0,0,2,3,6,4,8,,,,Friends,Drinking,Staying up,!,Other,!,Other,Dependable,Open,!,Other,Dependable,Open,!
+gaguyedscc,n,dbtpnfedti,3 BED CLOSED,Health Science,Transfer,Third Floor,0,0,0,0,0,0,1,1,9,2,8,,,,Fantasy Sports,Staying up,Games,!,Medium Dog,!,Other,Encouraging,Gamer,!,Other,Encouraging,Gamer,!
+njwsavsbvr,s,uqexvhjtwn,3 BED OPEN,Engineering,Junior,Indifferent,0,0,0,0,0,0,3,10,5,4,2,,,,Friends,Games,Programming,!,Service Animal,!,Encouraging,Discreet,!,Encouraging,Discreet,!
+moucadbuye,v,flcrpoddfi,3 BED CLOSED,Journalism and Mass Communication,Freshman,Indifferent,0,0,0,0,0,0,1,5,5,2,7,,,,Travel,DIY,Staying up,!,Small Dog,!,Adventurous,Reliable,Open,!,Adventurous,Reliable,Open,!
+qyqcoxwcfw,p,sljagvcgbt,3 BED CLOSED,Atmospheric and Geographic Sciences,Graduate,Third Floor,0,0,0,0,0,0,1,9,5,8,2,,,,DIY,Programming,Friends,!,Small Dog,!,Shy,Discreet,Independent,!,Shy,Discreet,Independent,!
+ghoqmovsvg,o,xymgkmicwr,4 BED,Multi-Disciplinary Studies,Junior,Indifferent,0,0,0,0,0,0,2,9,5,1,8,,,,Games,Art,!,Service Animal,!,Dutiful,Confident,Gamer,!,Dutiful,Confident,Gamer,!
+uyokunrmmp,w,ptdxxhrydj,3 BED OPEN,Other,Sophomore,Third Floor,0,0,0,0,0,0,1,5,2,8,8,,,,Travel,Staying up,!,Rodent,!,Adventurous,Intellegent,Capable,!,Adventurous,Intellegent,Capable,!
+bcfgcsmnhg,v,uxevdckmie,3 BED OPEN,Other,Junior,First Floor,0,0,0,0,0,0,6,3,2,8,2,,,,Reading,Drinking,Games,!,Service Animal,!,Capable,Dependable,Reliable,!,Capable,Dependable,Reliable,!
+skpnkplcwa,l,jvjiinuoen,2 BED DELUXE,Health Science,Transfer,First Floor,0,0,0,0,0,0,5,4,10,8,3,,,,Fantasy Sports,Friends,!,Small Dog,!,Shy,Capable,Dutiful,!,Shy,Capable,Dutiful,!
+qpxaqesxet,p,patpqpemvt,3 BED CLOSED,Business,Senior,First Floor,0,0,0,0,0,0,5,6,3,5,1,,,,Other,Travel,!,Medium Dog,!,Partier,Encouraging,Gamer,!,Partier,Encouraging,Gamer,!
+tdynnrflhw,u,wqrdedqmou,3 BED OPEN,Law,Freshman,Second Floor,0,0,0,0,0,0,6,7,5,1,7,,,,Outdoors,Games,!,Medium Dog,!,Discreet,Sarcastic,Helpful,!,Discreet,Sarcastic,Helpful,!
+wfcpntoxyl,o,kwfblvsrut,3 BED CLOSED,Arts and Sciences,Graduate,Indifferent,0,0,0,0,0,0,6,10,8,4,9,,,,Art,Fantasy Sports,Programming,!,Cat,!,Open,Other,!,Open,Other,!
+ocdkqbiwsy,k,bppuncviaq,4 BED,Business,Transfer,Third Floor,0,0,0,0,0,0,3,1,6,8,2,,,,DIY,Other,Drinking,!,Rodent,!,Open,Discreet,Intellegent,!,Open,Discreet,Intellegent,!
+kfxrpfvlnk,v,lnknmectms,3 BED CLOSED,Other,Senior,Second Floor,0,0,0,0,0,0,3,10,10,6,6,,,,Television,Engineering,Fantasy Sports,!,Large Dog,!,Confident,Other,Gamer,!,Confident,Other,Gamer,!
+thopqrcltm,l,lsaxyskxek,2 BED DELUXE,International Studies,Junior,Third Floor,0,0,0,0,0,0,9,9,6,5,7,,,,Fantasy Sports,Outdoors,Staying up,!,Service Animal,!,Partier,Confident,Dutiful,!,Partier,Confident,Dutiful,!
+ahyrgdafsy,p,olwyagcjxu,3 BED CLOSED,Atmospheric and Geographic Sciences,None,Third Floor,0,0,0,0,0,0,1,2,8,2,8,,,,Reading,Games,Drinking,!,Large Dog,!,Reliable,Shy,!,Reliable,Shy,!
+kfsbftxsla,g,evdeiccvyw,3 BED OPEN,Journalism and Mass Communication,Senior,Second Floor,0,0,0,0,0,0,7,1,2,5,3,,,,Reading,Drinking,Television,!,Service Animal,!,Dependable,Other,Gamer,!,Dependable,Other,Gamer,!
+yubwxymmiu,g,dvmygvvbjo,3 BED OPEN,Engineering,Freshman,Indifferent,0,0,0,0,0,0,5,6,6,1,1,,,,Travel,Staying up,Outdoors,!,Cat,!,Adventurous,Dutiful,Gamer,!,Adventurous,Dutiful,Gamer,!
+ivqfljsbuj,s,oklfelptes,2 BED DELUXE,Education,Senior,Third Floor,0,0,0,0,0,0,4,6,1,6,2,,,,Other,Outdoors,Travel,!,Rodent,!,Intellegent,Adventurous,Partier,!,Intellegent,Adventurous,Partier,!
+qgvliggrjq,g,bkicxqleyv,4 BED,Earth and Energy,Junior,Second Floor,0,0,0,0,0,0,3,2,2,9,9,,,,Other,Drinking,!,Service Animal,!,Cultured,Adventurous,Helpful,!,Cultured,Adventurous,Helpful,!
+awrnscuimw,h,fbguawygnu,3 BED CLOSED,Journalism and Mass Communication,None,Indifferent,0,0,0,0,0,0,5,10,4,4,9,,,,Friends,Art,Travel,!,Rodent,!,Intellegent,Shy,!,Intellegent,Shy,!
+vqjhekvore,n,nrnfoirpsc,2 BED DELUXE,None,Transfer,First Floor,0,0,0,0,0,0,8,3,8,8,10,,,,Television,Staying up,Reading,!,Medium Dog,!,Dutiful,Cultured,Adventurous,!,Dutiful,Cultured,Adventurous,!
+iqwocehoov,u,hjjxdowdol,4 BED,Health Science,Junior,First Floor,0,0,0,0,0,0,5,5,7,5,4,,,,DIY,Other,Outdoors,!,Other,!,Confident,Capable,Other,!,Confident,Capable,Other,!
+mcuvkykhnj,r,rjmuiivhcj,3 BED CLOSED,Other,Graduate,First Floor,0,0,0,0,0,0,3,5,7,2,3,,,,Reading,DIY,Travel,!,Small Dog,!,Gamer,Independent,Discreet,!,Gamer,Independent,Discreet,!
+ycmwgftioh,v,cvdvwsxrvo,2 BED DELUXE,Arts and Sciences,None,Second Floor,0,0,0,0,0,0,8,3,2,4,1,,,,DIY,Fantasy Sports,Staying up,!,Large Dog,!,Shy,Dutiful,Gamer,!,Shy,Dutiful,Gamer,!
+xkapougjsq,t,canmlnexox,2 BED,Earth and Energy,Freshman,Indifferent,0,0,0,0,0,0,5,8,3,6,3,,,,Reading,Staying up,!,Large Dog,!,Confident,Independent,Capable,!,Confident,Independent,Capable,!
+centjkruos,p,ovaekcyyhv,2 BED DELUXE,Multi-Disciplinary Studies,Freshman,First Floor,0,0,0,0,0,0,9,4,4,5,2,,,,Engineering,Travel,Digital Arts,!,Small Dog,!,Partier,Encouraging,Intellegent,!,Partier,Encouraging,Intellegent,!
+qkfhollswe,y,rjbvqwtmge,2 BED,Fine Arts,Junior,First Floor,0,0,0,0,0,0,9,10,6,2,3,,,,Drinking,Programming,Television,!,Other,!,Capable,Gamer,Helpful,!,Capable,Gamer,Helpful,!
+wtgyjtbiil,b,ymfvljfqfd,4 BED,Fine Arts,Sophomore,First Floor,0,0,0,0,0,0,10,3,6,6,1,,,,Other,Travel,Fantasy Sports,!,Large Dog,!,Sarcastic,Adventurous,!,Sarcastic,Adventurous,!
+vrjdppqipc,j,guyhcbhtsu,4 BED,Law,Freshman,First Floor,0,0,0,0,0,0,6,7,5,5,5,,,,Reading,Fantasy Sports,DIY,!,Small Dog,!,Dutiful,Helpful,Encouraging,!,Dutiful,Helpful,Encouraging,!
+edsmngapxf,i,hccdqqgruv,2 BED,Other,Senior,Second Floor,0,0,0,0,0,0,1,2,8,10,8,,,,Engineering,Drinking,Games,!,Medium Dog,!,Encouraging,Helpful,Confident,!,Encouraging,Helpful,Confident,!
+artftcfwkj,c,jlwwmmssej,2 BED,Arts and Sciences,Senior,First Floor,0,0,0,0,0,0,2,2,9,8,2,,,,Reading,Games,Friends,!,Small Dog,!,Other,Reliable,Capable,!,Other,Reliable,Capable,!
+hlpcfitaws,f,rdskpsnjij,3 BED CLOSED,Fine Arts,Freshman,Indifferent,0,0,0,0,0,0,3,9,9,3,9,,,,Reading,Programming,Art,!,Service Animal,!,Capable,Sarcastic,Intellegent,!,Capable,Sarcastic,Intellegent,!
+fxygywlbie,x,fexqcafveu,2 BED DELUXE,Business,Transfer,Third Floor,0,0,0,0,0,0,8,7,5,7,7,,,,Reading,Engineering,Digital Arts,!,Rodent,!,Gamer,Dutiful,!,Gamer,Dutiful,!
+xrlommcane,n,iyxysvbifl,2 BED DELUXE,Health Science,Transfer,Indifferent,0,0,0,0,0,0,5,2,10,5,4,,,,Programming,Digital Arts,Outdoors,!,Service Animal,!,Gamer,Dutiful,Reliable,!,Gamer,Dutiful,Reliable,!
+enktevcphu,h,nyigyhcdhg,4 BED,Arts and Sciences,Transfer,Third Floor,0,0,0,0,0,0,2,3,5,2,3,,,,Television,Art,Programming,!,Cat,!,Open,Adventurous,Helpful,!,Open,Adventurous,Helpful,!
+ichfgdglqy,k,mtnorhjitj,3 BED OPEN,Multi-Disciplinary Studies,Transfer,Third Floor,0,0,0,0,0,0,8,8,7,9,1,,,,Travel,Fantasy Sports,Outdoors,!,Service Animal,!,Discreet,Intellegent,Open,!,Discreet,Intellegent,Open,!
+bgdtxeomvw,m,bkvoebutdw,3 BED CLOSED,Other,Junior,Second Floor,0,0,0,0,0,0,4,7,3,10,9,,,,Travel,Games,Television,!,Rodent,!,Reliable,Independent,Shy,!,Reliable,Independent,Shy,!
+kwxscifipi,j,jasnmefqmc,2 BED DELUXE,Engineering,Transfer,Indifferent,0,0,0,0,0,0,6,8,8,3,2,,,,Programming,Travel,Games,!,Service Animal,!,Discreet,Capable,Reliable,!,Discreet,Capable,Reliable,!
+fwubumagtk,l,rpqlohaldy,4 BED,None,Junior,Second Floor,0,0,0,0,0,0,8,1,8,8,4,,,,Drinking,Reading,!,Small Dog,!,Independent,Cultured,Adventurous,!,Independent,Cultured,Adventurous,!
+bbxwrbenet,d,hpgcnyokca,4 BED,Health Science,Sophomore,Indifferent,0,0,0,0,0,0,5,9,6,10,8,,,,Reading,Television,Games,!,Service Animal,!,Gamer,Open,Helpful,!,Gamer,Open,Helpful,!
+haedvksltx,j,meuuqsqhxv,3 BED CLOSED,Multi-Disciplinary Studies,Transfer,Indifferent,0,0,0,0,0,0,6,1,7,4,7,,,,Television,Fantasy Sports,Programming,!,Medium Dog,!,Gamer,Dependable,Intellegent,!,Gamer,Dependable,Intellegent,!
+jvaduiilye,m,fiqnvbqlla,3 BED OPEN,Health Science,Transfer,Third Floor,0,0,0,0,0,0,2,4,6,1,1,,,,Reading,Art,Television,!,Small Dog,!,Dependable,Helpful,Encouraging,!,Dependable,Helpful,Encouraging,!
+irqnlfwjts,o,atcmxlptde,4 BED,Multi-Disciplinary Studies,None,Third Floor,0,0,0,0,0,0,9,8,9,5,7,,,,Fantasy Sports,Staying up,Friends,!,Cat,!,Intellegent,Open,Encouraging,!,Intellegent,Open,Encouraging,!
+kfjshjaxug,x,eqaqsdnvkm,3 BED OPEN,Education,Freshman,Third Floor,0,0,0,0,0,0,9,7,6,7,6,,,,Games,Other,Television,!,Medium Dog,!,Encouraging,Independent,Partier,!,Encouraging,Independent,Partier,!
+pqoqrodsmd,o,ofsnkwpcmp,3 BED CLOSED,Earth and Energy,Senior,First Floor,0,0,0,0,0,0,6,7,1,8,5,,,,Other,Engineering,!,Rodent,!,Reliable,Intellegent,Open,!,Reliable,Intellegent,Open,!
+dmabcavamg,w,enrhijnofb,3 BED CLOSED,Atmospheric and Geographic Sciences,Graduate,Second Floor,0,0,0,0,0,0,9,2,8,8,2,,,,Reading,Games,Digital Arts,!,Large Dog,!,Shy,Partier,Reliable,!,Shy,Partier,Reliable,!
+spcfipaelr,v,bcpyysjvdf,4 BED,Business,Graduate,Second Floor,0,0,0,0,0,0,4,6,7,2,8,,,,Travel,DIY,!,Large Dog,!,Reliable,Cultured,!,Reliable,Cultured,!
+xwphbxwdxh,n,jsvuiicaam,2 BED DELUXE,International Studies,Graduate,Third Floor,0,0,0,0,0,0,7,6,5,5,1,,,,Outdoors,Staying up,Engineering,!,Small Dog,!,Encouraging,Gamer,Sarcastic,!,Encouraging,Gamer,Sarcastic,!
+vkgcbjpvfn,l,ysikbbkrlu,3 BED OPEN,Law,Freshman,Indifferent,0,0,0,0,0,0,10,2,9,1,8,,,,Games,Other,!,Small Dog,!,Confident,Sarcastic,Cultured,!,Confident,Sarcastic,Cultured,!
+unykchehuo,s,tmcpyimrla,3 BED CLOSED,Fine Arts,None,Second Floor,0,0,0,0,0,0,10,6,2,6,8,,,,Engineering,Games,Outdoors,!,Medium Dog,!,Sarcastic,Confident,Helpful,!,Sarcastic,Confident,Helpful,!
+qrqmeixvoc,e,tottupwath,4 BED,Health Science,Transfer,Third Floor,0,0,0,0,0,0,4,6,5,4,10,,,,Programming,Games,Outdoors,!,Cat,!,Sarcastic,Cultured,Intellegent,!,Sarcastic,Cultured,Intellegent,!
+pikbpmujju,j,syvplklhnm,2 BED,International Studies,Freshman,Third Floor,0,0,0,0,0,0,2,2,10,1,9,,,,Games,Television,Staying up,!,Service Animal,!,Independent,Adventurous,Shy,!,Independent,Adventurous,Shy,!
+mnafpcqkdp,m,kdfssdwodq,2 BED DELUXE,Arts and Sciences,Senior,First Floor,0,0,0,0,0,0,2,4,2,2,7,,,,Other,Television,!,Medium Dog,!,Cultured,Dutiful,Dependable,!,Cultured,Dutiful,Dependable,!
+uoefajdhsv,o,iuflhaljad,3 BED OPEN,None,Graduate,Indifferent,0,0,0,0,0,0,8,4,4,2,6,,,,Drinking,Travel,!,Rodent,!,Independent,Reliable,!,Independent,Reliable,!
+kuvckitlvn,i,ebunisvogu,4 BED,Atmospheric and Geographic Sciences,Graduate,Second Floor,0,0,0,0,0,0,1,4,2,9,6,,,,Games,Reading,Other,!,Service Animal,!,Cultured,Other,Capable,!,Cultured,Other,Capable,!
+ijxfgevqdp,l,wlrcxpmwsy,2 BED,Health Science,Senior,Third Floor,0,0,0,0,0,0,5,8,2,3,6,,,,Staying up,Other,!,Small Dog,!,Gamer,Open,Other,!,Gamer,Open,Other,!
+vbulhywjdc,o,dvuprkqjsr,3 BED OPEN,Law,Transfer,Second Floor,0,0,0,0,0,0,7,3,5,4,9,,,,Staying up,Travel,Television,!,Other,!,Dependable,Cultured,Confident,!,Dependable,Cultured,Confident,!
+wfptbagrry,o,odyuqdkhbh,4 BED,Engineering,Freshman,Second Floor,0,0,0,0,0,0,7,5,6,9,1,,,,Travel,Fantasy Sports,Reading,!,Other,!,Discreet,Cultured,!,Discreet,Cultured,!
+pxdlctjyun,i,aqnoglucpd,2 BED DELUXE,Multi-Disciplinary Studies,Senior,Indifferent,0,0,0,0,0,0,7,5,4,7,1,,,,Games,Programming,Staying up,!,Cat,!,Intellegent,Adventurous,Capable,!,Intellegent,Adventurous,Capable,!
+rwablpcwvi,r,mxbhoebsur,2 BED,Law,Graduate,First Floor,0,0,0,0,0,0,4,4,4,4,8,,,,Television,Travel,Fantasy Sports,!,Small Dog,!,Cultured,Encouraging,Dependable,!,Cultured,Encouraging,Dependable,!
+lhyiwkmmyr,g,ghherchakm,4 BED,Other,Junior,Second Floor,0,0,0,0,0,0,8,1,8,2,6,,,,Drinking,Reading,Television,!,Rodent,!,Intellegent,Open,Reliable,!,Intellegent,Open,Reliable,!
+bmpgdobctk,x,elataskgys,4 BED,Atmospheric and Geographic Sciences,Junior,Second Floor,0,0,0,0,0,0,4,1,8,5,4,,,,Digital Arts,Games,Friends,!,Medium Dog,!,Encouraging,Discreet,Helpful,!,Encouraging,Discreet,Helpful,!
+ixipnlrisl,o,jcfjlynpdq,4 BED,Fine Arts,Senior,First Floor,0,0,0,0,0,0,1,8,8,10,3,,,,Travel,Staying up,!,Large Dog,!,Dutiful,Gamer,!,Dutiful,Gamer,!
+dttcdajbtx,x,lpoloxyrku,3 BED CLOSED,Engineering,Sophomore,Third Floor,0,0,0,0,0,0,5,10,6,3,2,,,,Games,Drinking,Programming,!,Rodent,!,Helpful,Dependable,Shy,!,Helpful,Dependable,Shy,!
+bbsbssuhxo,x,bwpaxpkwbi,3 BED OPEN,Atmospheric and Geographic Sciences,Graduate,Second Floor,0,0,0,0,0,0,8,9,1,9,6,,,,Other,Staying up,DIY,!,Service Animal,!,Other,Dutiful,Independent,!,Other,Dutiful,Independent,!
+nfuhivbqya,y,irtnewstfh,2 BED DELUXE,Fine Arts,Junior,Second Floor,0,0,0,0,0,0,3,4,4,4,4,,,,DIY,Staying up,Travel,!,Medium Dog,!,Sarcastic,Encouraging,Capable,!,Sarcastic,Encouraging,Capable,!
+srymaaavsh,x,dwvseerxwi,3 BED CLOSED,Fine Arts,Transfer,Third Floor,0,0,0,0,0,0,1,1,9,7,5,,,,Games,Drinking,Friends,!,Small Dog,!,Dependable,Partier,Helpful,!,Dependable,Partier,Helpful,!
+jspierslot,d,etlyuiuwyw,3 BED OPEN,Business,None,Indifferent,0,0,0,0,0,0,5,2,10,1,9,,,,Travel,Outdoors,Drinking,!,Cat,!,Open,Dependable,Cultured,!,Open,Dependable,Cultured,!
+scbvogeaje,f,nncyfwjytw,2 BED,Health Science,Sophomore,Indifferent,0,0,0,0,0,0,1,2,9,5,2,,,,Outdoors,Fantasy Sports,!,Large Dog,!,Adventurous,Intellegent,!,Adventurous,Intellegent,!
+fwfjjoqylu,f,rwocdemvqk,3 BED OPEN,Multi-Disciplinary Studies,None,Third Floor,0,0,0,0,0,0,4,10,10,6,7,,,,Art,Programming,DIY,!,Medium Dog,!,Other,Encouraging,!,Other,Encouraging,!
+smvnghfkqu,l,hubpigvomq,2 BED DELUXE,Engineering,Freshman,Third Floor,0,0,0,0,0,0,4,2,7,4,2,,,,Outdoors,Fantasy Sports,Drinking,!,Other,!,Helpful,Encouraging,Cultured,!,Helpful,Encouraging,Cultured,!
+olqorpdxsn,w,uxbyivmhwd,3 BED OPEN,Business,None,First Floor,0,0,0,0,0,0,5,5,6,8,5,,,,Staying up,Television,Friends,!,Rodent,!,Shy,Partier,Other,!,Shy,Partier,Other,!
+xiydbbodyr,a,scgpfqpaef,2 BED DELUXE,Atmospheric and Geographic Sciences,Senior,Third Floor,0,0,0,0,0,0,1,5,8,5,7,,,,Programming,Staying up,Drinking,!,Service Animal,!,Capable,Confident,Reliable,!,Capable,Confident,Reliable,!
+sohimgxhog,a,aamcsatquh,2 BED,Earth and Energy,None,Third Floor,0,0,0,0,0,0,8,1,9,6,6,,,,Art,Drinking,Other,!,Small Dog,!,Confident,Open,!,Confident,Open,!
+jlpbxyfove,u,fsstevshjp,2 BED DELUXE,Atmospheric and Geographic Sciences,Freshman,Indifferent,0,0,0,0,0,0,5,6,7,7,1,,,,Engineering,!,Rodent,!,Partier,Adventurous,Shy,!,Partier,Adventurous,Shy,!
+etmrabitgh,l,mxuekauwxu,2 BED,Journalism and Mass Communication,Senior,Third Floor,0,0,0,0,0,0,1,7,2,7,3,,,,Programming,Television,Digital Arts,!,Cat,!,Gamer,Partier,!,Gamer,Partier,!
+oqtwljpvtf,l,cvgspohdfi,2 BED DELUXE,Business,Transfer,Third Floor,0,0,0,0,0,0,9,7,7,6,6,,,,Friends,Travel,DIY,!,Cat,!,Reliable,Other,Dutiful,!,Reliable,Other,Dutiful,!
+csxmrjptva,r,rqmumkdthb,3 BED OPEN,Education,Junior,Indifferent,0,0,0,0,0,0,4,6,9,6,1,,,,DIY,Other,Fantasy Sports,!,Large Dog,!,Cultured,Dependable,!,Cultured,Dependable,!
+nabwectdul,q,hqfcbwjejt,2 BED DELUXE,Journalism and Mass Communication,Transfer,Second Floor,0,0,0,0,0,0,7,10,1,10,7,,,,Staying up,Engineering,Drinking,!,Medium Dog,!,Partier,Open,Gamer,!,Partier,Open,Gamer,!
+weyndaqbhj,l,ipnbxnqchp,3 BED OPEN,Engineering,Sophomore,Second Floor,0,0,0,0,0,0,6,5,8,4,7,,,,Friends,Drinking,Television,!,Service Animal,!,Sarcastic,Reliable,Partier,!,Sarcastic,Reliable,Partier,!
+ahmckudpxm,h,iyxvmlyrkn,2 BED,Law,None,Third Floor,0,0,0,0,0,0,8,6,5,7,1,,,,Digital Arts,Games,Television,!,Large Dog,!,Helpful,Gamer,Partier,!,Helpful,Gamer,Partier,!
+oatggmndrq,g,whipyqcvlt,2 BED DELUXE,Arts and Sciences,None,First Floor,0,0,0,0,0,0,1,8,7,5,1,,,,Television,Art,Games,!,Service Animal,!,Other,Dependable,Cultured,!,Other,Dependable,Cultured,!
+xalqbdtteg,h,rfounwbsaa,3 BED CLOSED,Law,Graduate,First Floor,0,0,0,0,0,0,6,9,1,10,3,,,,Other,Outdoors,!,Small Dog,!,Other,Adventurous,Encouraging,!,Other,Adventurous,Encouraging,!
+ihgacderdc,e,txpfwvucni,2 BED,Multi-Disciplinary Studies,Graduate,Second Floor,0,0,0,0,0,0,4,4,2,6,7,,,,DIY,Digital Arts,Other,!,Large Dog,!,Independent,Other,!,Independent,Other,!
+kvcxlytgrn,s,vtklwrfmrj,3 BED OPEN,Multi-Disciplinary Studies,Graduate,Third Floor,0,0,0,0,0,0,10,1,8,10,8,,,,DIY,Games,Outdoors,!,Other,!,Partier,Cultured,!,Partier,Cultured,!
+sodkuxlowk,l,grotuytbwq,2 BED,Atmospheric and Geographic Sciences,Transfer,Third Floor,0,0,0,0,0,0,6,2,8,3,9,,,,Staying up,Drinking,DIY,!,Cat,!,Encouraging,Other,Capable,!,Encouraging,Other,Capable,!
+rewfnxogrh,b,lugdtinvdf,3 BED OPEN,Other,Junior,Indifferent,0,0,0,0,0,0,3,7,1,5,3,,,,Travel,Television,Staying up,!,Rodent,!,Sarcastic,Shy,Confident,!,Sarcastic,Shy,Confident,!
+duktqovnuj,d,jbqpkgrojk,4 BED,Multi-Disciplinary Studies,Senior,Third Floor,0,0,0,0,0,0,5,9,10,7,3,,,,Other,Programming,DIY,!,Service Animal,!,Dependable,Dutiful,Confident,!,Dependable,Dutiful,Confident,!
+kchterxqex,u,utmatlvehi,2 BED,None,Senior,Third Floor,0,0,0,0,0,0,1,10,5,6,5,,,,Fantasy Sports,Art,!,Large Dog,!,Helpful,Capable,Dutiful,!,Helpful,Capable,Dutiful,!
+rrrhslwbua,r,tvkslawojn,2 BED,Atmospheric and Geographic Sciences,Senior,Second Floor,0,0,0,0,0,0,1,8,7,8,8,,,,Friends,Staying up,DIY,!,Service Animal,!,Partier,!,Partier,!
+aqnvuhnnbw,l,dttjmcdwao,2 BED,Atmospheric and Geographic Sciences,Junior,First Floor,0,0,0,0,0,0,6,2,1,8,10,,,,Fantasy Sports,Digital Arts,!,Rodent,!,Intellegent,Confident,!,Intellegent,Confident,!
+pkxeladddx,a,xfehcqcous,2 BED,Atmospheric and Geographic Sciences,Junior,Second Floor,0,0,0,0,0,0,7,7,3,6,1,,,,Other,Staying up,Games,!,Medium Dog,!,Helpful,Independent,Capable,!,Helpful,Independent,Capable,!
+weahyplcnw,v,avjnwcogeg,4 BED,Education,None,Second Floor,0,0,0,0,0,0,8,4,5,7,1,,,,Television,Staying up,!,Cat,!,Helpful,Sarcastic,Gamer,!,Helpful,Sarcastic,Gamer,!
+bmplwdsdfv,s,lwergqxedw,2 BED DELUXE,Arts and Sciences,None,Indifferent,0,0,0,0,0,0,5,1,6,4,5,,,,Art,DIY,Outdoors,!,Service Animal,!,Gamer,Shy,Partier,!,Gamer,Shy,Partier,!
+bkmqdfolso,b,tspifufbja,4 BED,Law,None,First Floor,0,0,0,0,0,0,6,8,9,3,10,,,,Reading,Television,Drinking,!,Other,!,Other,!,Other,!
+hooumybbjo,w,uuhfkkupiv,3 BED OPEN,Business,Freshman,Third Floor,0,0,0,0,0,0,3,8,7,7,9,,,,Friends,Games,Reading,!,Large Dog,!,Reliable,Dependable,!,Reliable,Dependable,!
+geluwasbli,u,jvwvhmpfut,4 BED,Multi-Disciplinary Studies,Sophomore,Second Floor,0,0,0,0,0,0,1,4,10,10,9,,,,Other,Staying up,Games,!,Medium Dog,!,Intellegent,Reliable,!,Intellegent,Reliable,!
+lkgpyrbqud,d,ybfimsgaer,3 BED OPEN,International Studies,Sophomore,Second Floor,0,0,0,0,0,0,2,10,10,8,7,,,,Other,Programming,Games,!,Cat,!,Intellegent,Dutiful,Capable,!,Intellegent,Dutiful,Capable,!
+cdndgcrliu,c,cfhgqbcnwu,2 BED,Business,None,Third Floor,0,0,0,0,0,0,5,10,7,5,6,,,,Programming,Art,!,Cat,!,Discreet,Independent,Open,!,Discreet,Independent,Open,!
+uhprljaknl,k,tvsqfxxbyl,3 BED CLOSED,Law,Graduate,Indifferent,0,0,0,0,0,0,5,3,6,1,7,,,,Travel,Engineering,!,Other,!,Shy,Confident,Encouraging,!,Shy,Confident,Encouraging,!
+wrefjacpgp,e,mbajminaqw,2 BED,Arts and Sciences,Freshman,First Floor,0,0,0,0,0,0,4,1,5,9,8,,,,Art,Travel,Drinking,!,Rodent,!,Dependable,Capable,Intellegent,!,Dependable,Capable,Intellegent,!
+rognvpkyqj,x,gbpliosuyd,2 BED DELUXE,Education,Transfer,Indifferent,0,0,0,0,0,0,6,9,5,6,6,,,,Travel,Programming,Other,!,Small Dog,!,Reliable,Encouraging,Partier,!,Reliable,Encouraging,Partier,!
+mlqhtvkona,f,nbhvtnnymn,2 BED DELUXE,Arts and Sciences,Sophomore,Second Floor,0,0,0,0,0,0,4,3,7,1,4,,,,Digital Arts,Reading,Fantasy Sports,!,Large Dog,!,Capable,Reliable,Sarcastic,!,Capable,Reliable,Sarcastic,!
+hgjpsrjssr,a,djbxhvfsrm,3 BED CLOSED,Arts and Sciences,Freshman,First Floor,0,0,0,0,0,0,6,1,2,10,3,,,,Other,Fantasy Sports,Travel,!,Large Dog,!,Reliable,Sarcastic,!,Reliable,Sarcastic,!
+wjtjcbvrvc,o,qwheqarljm,3 BED CLOSED,Multi-Disciplinary Studies,Freshman,Indifferent,0,0,0,0,0,0,8,4,4,2,3,,,,Reading,Engineering,!,Cat,!,Encouraging,Cultured,Reliable,!,Encouraging,Cultured,Reliable,!
+sgyrerdgxx,s,rlxaixchad,2 BED DELUXE,Engineering,Freshman,Third Floor,0,0,0,0,0,0,3,6,3,10,7,,,,Outdoors,Reading,Fantasy Sports,!,Large Dog,!,Cultured,Encouraging,!,Cultured,Encouraging,!
+dijikafbyj,h,hlhldonjff,2 BED,Journalism and Mass Communication,Freshman,Third Floor,0,0,0,0,0,0,1,9,9,2,1,,,,DIY,Reading,Games,!,Other,!,Independent,Helpful,Adventurous,!,Independent,Helpful,Adventurous,!
+qqegsqcdqf,q,alntrwfjso,3 BED CLOSED,International Studies,Freshman,Indifferent,0,0,0,0,0,0,1,6,5,3,1,,,,Television,Games,Outdoors,!,Service Animal,!,Cultured,Intellegent,Other,!,Cultured,Intellegent,Other,!
+lfvduiommh,k,llgeqilwua,3 BED OPEN,Business,None,Second Floor,0,0,0,0,0,0,1,5,3,10,2,,,,Art,Digital Arts,Friends,!,Service Animal,!,Gamer,Independent,Cultured,!,Gamer,Independent,Cultured,!
+vtcvcoqshb,p,ghvchqvled,4 BED,International Studies,Senior,First Floor,0,0,0,0,0,0,6,7,4,8,1,,,,Games,Staying up,DIY,!,Rodent,!,Dependable,Encouraging,Discreet,!,Dependable,Encouraging,Discreet,!
+kujgtylure,q,ggehfabtnl,3 BED CLOSED,Earth and Energy,Senior,Third Floor,0,0,0,0,0,0,7,1,6,2,4,,,,DIY,Drinking,Staying up,!,Large Dog,!,Cultured,Encouraging,!,Cultured,Encouraging,!
+dngneyivrb,e,wjpqdtsijl,3 BED OPEN,Health Science,Junior,Indifferent,0,0,0,0,0,0,10,3,10,1,2,,,,Digital Arts,Other,Fantasy Sports,!,Cat,!,Confident,Independent,Encouraging,!,Confident,Independent,Encouraging,!
+wukpulycta,l,gisqrvtxqd,3 BED OPEN,Fine Arts,Junior,Third Floor,0,0,0,0,0,0,5,9,9,10,3,,,,Reading,Games,Television,!,Cat,!,Dutiful,Confident,Dependable,!,Dutiful,Confident,Dependable,!
+doufcqmrqa,r,wubqxughfh,3 BED OPEN,Journalism and Mass Communication,None,Indifferent,0,0,0,0,0,0,6,8,6,7,10,,,,Engineering,Travel,!,Large Dog,!,Encouraging,Gamer,Sarcastic,!,Encouraging,Gamer,Sarcastic,!
+lugrpnptir,f,ibfyqniepa,2 BED,Health Science,Junior,Third Floor,0,0,0,0,0,0,3,8,9,7,3,,,,Programming,Outdoors,Other,!,Medium Dog,!,Independent,Capable,Helpful,!,Independent,Capable,Helpful,!
+gimesoqpvf,b,ixbefgfhnt,2 BED,Arts and Sciences,None,Second Floor,0,0,0,0,0,0,4,1,1,7,6,,,,Staying up,DIY,!,Large Dog,!,Capable,Dependable,!,Capable,Dependable,!
+oaspplervq,d,orvbfvngsa,3 BED OPEN,Engineering,None,Second Floor,0,0,0,0,0,0,6,10,2,5,8,,,,Other,Staying up,Television,!,Medium Dog,!,Reliable,Encouraging,Cultured,!,Reliable,Encouraging,Cultured,!
+cmmxcsceij,c,taxiwhtdlp,3 BED OPEN,International Studies,Senior,First Floor,0,0,0,0,0,0,2,1,6,8,7,,,,Other,DIY,Reading,!,Large Dog,!,Reliable,Open,Independent,!,Reliable,Open,Independent,!
+efvyeiukqi,k,xjntredkqk,4 BED,Earth and Energy,Senior,First Floor,0,0,0,0,0,0,4,6,7,9,4,,,,DIY,Programming,Engineering,!,Other,!,Shy,Capable,Helpful,!,Shy,Capable,Helpful,!
+xbqaxyykhu,h,kjobgxsrvn,3 BED CLOSED,None,None,Second Floor,0,0,0,0,0,0,1,8,1,8,2,,,,Digital Arts,Television,Art,!,Other,!,Discreet,Confident,Sarcastic,!,Discreet,Confident,Sarcastic,!
+bemgqsdqmk,i,rtvuolcgqg,2 BED,Fine Arts,Sophomore,Third Floor,0,0,0,0,0,0,1,7,4,6,4,,,,Outdoors,Engineering,Television,!,Medium Dog,!,Discreet,Helpful,Capable,!,Discreet,Helpful,Capable,!
+xhnfxnoglw,a,bkdhdaexmp,4 BED,Other,Graduate,Second Floor,0,0,0,0,0,0,5,5,10,3,8,,,,Engineering,Other,Drinking,!,Medium Dog,!,Partier,Open,Encouraging,!,Partier,Open,Encouraging,!
+pyriljpdlq,j,rynewlifwg,2 BED DELUXE,Journalism and Mass Communication,Junior,Indifferent,0,0,0,0,0,0,10,10,5,10,2,,,,Reading,Engineering,Outdoors,!,Cat,!,Capable,Dependable,!,Capable,Dependable,!
+quwpwjukxy,r,lfbmyispxp,2 BED DELUXE,Education,Sophomore,Third Floor,0,0,0,0,0,0,3,4,6,10,1,,,,Travel,DIY,Reading,!,Service Animal,!,Sarcastic,Cultured,Independent,!,Sarcastic,Cultured,Independent,!
+khaufifkkv,x,dlblomjcot,2 BED DELUXE,Other,Graduate,First Floor,0,0,0,0,0,0,6,6,2,10,5,,,,Drinking,Digital Arts,Reading,!,Rodent,!,Dutiful,Open,Dependable,!,Dutiful,Open,Dependable,!
+vttyueexqg,p,dtvdrbnjmo,3 BED OPEN,Arts and Sciences,Graduate,Indifferent,0,0,0,0,0,0,2,6,10,4,4,,,,Television,Other,Engineering,!,Large Dog,!,Discreet,Independent,Partier,!,Discreet,Independent,Partier,!
+yhblktavnr,u,rrrlbyaltw,4 BED,Law,Senior,Third Floor,0,0,0,0,0,0,10,8,4,7,8,,,,Art,Games,Digital Arts,!,Small Dog,!,Other,Capable,Gamer,!,Other,Capable,Gamer,!
+wmsltocuqj,j,nimiudcrmo,3 BED OPEN,Earth and Energy,Graduate,Third Floor,0,0,0,0,0,0,8,10,5,1,2,,,,Art,Fantasy Sports,Engineering,!,Large Dog,!,Dependable,Intellegent,Gamer,!,Dependable,Intellegent,Gamer,!
+oxtpmwdrpw,v,rjrairuice,3 BED OPEN,None,Transfer,Indifferent,0,0,0,0,0,0,1,8,10,10,3,,,,Television,Drinking,Reading,!,Service Animal,!,Shy,Helpful,Intellegent,!,Shy,Helpful,Intellegent,!
+joqsgsiqtq,p,tbqnfouylc,3 BED OPEN,International Studies,None,Third Floor,0,0,0,0,0,0,5,10,9,8,2,,,,Art,Programming,Engineering,!,Rodent,!,Sarcastic,Dependable,Encouraging,!,Sarcastic,Dependable,Encouraging,!
+pobxfkdxhe,a,ddeqpmltly,2 BED DELUXE,Fine Arts,None,First Floor,0,0,0,0,0,0,7,1,10,2,7,,,,Games,Travel,Digital Arts,!,Rodent,!,Confident,Open,Cultured,!,Confident,Open,Cultured,!
+qdeyvblgyw,e,lasvrfmrui,2 BED DELUXE,Multi-Disciplinary Studies,None,Indifferent,0,0,0,0,0,0,5,6,9,3,3,,,,Staying up,Reading,Fantasy Sports,!,Medium Dog,!,Capable,Intellegent,Reliable,!,Capable,Intellegent,Reliable,!
+sracqniqpp,o,qbiclklxxf,2 BED DELUXE,Business,Graduate,Third Floor,0,0,0,0,0,0,2,10,7,9,4,,,,DIY,Staying up,Art,!,Other,!,Capable,Open,Gamer,!,Capable,Open,Gamer,!
+prafqesnlx,j,gnjuchmyoo,4 BED,Health Science,Freshman,First Floor,0,0,0,0,0,0,3,4,8,8,3,,,,Fantasy Sports,Staying up,Games,!,Cat,!,Capable,Sarcastic,Discreet,!,Capable,Sarcastic,Discreet,!
+pwkvegvkfm,j,ffhtslijbf,2 BED DELUXE,Other,Freshman,Second Floor,0,0,0,0,0,0,5,2,7,5,4,,,,Programming,Digital Arts,Games,!,Medium Dog,!,Encouraging,Capable,Other,!,Encouraging,Capable,Other,!
+hujjmymrtd,b,qdhmqdvbrt,4 BED,Multi-Disciplinary Studies,Freshman,Indifferent,0,0,0,0,0,0,8,9,9,6,7,,,,Games,Engineering,Other,!,Small Dog,!,Cultured,Adventurous,!,Cultured,Adventurous,!
+cefgshiaym,t,ehetcraijx,2 BED DELUXE,Journalism and Mass Communication,Freshman,Third Floor,0,0,0,0,0,0,4,10,10,3,10,,,,Digital Arts,Fantasy Sports,Other,!,Service Animal,!,Helpful,Discreet,Adventurous,!,Helpful,Discreet,Adventurous,!
+mhveymhlkr,e,qndaupslwn,3 BED CLOSED,Fine Arts,None,Third Floor,0,0,0,0,0,0,9,1,5,3,2,,,,Programming,Travel,Fantasy Sports,!,Medium Dog,!,Dependable,Helpful,Reliable,!,Dependable,Helpful,Reliable,!
+akrnpwnsgr,s,vonfgdbhwt,3 BED OPEN,Arts and Sciences,Senior,Second Floor,0,0,0,0,0,0,1,3,5,2,7,,,,Television,Games,!,Small Dog,!,Shy,Independent,Cultured,!,Shy,Independent,Cultured,!
+ihbdqruagg,v,orutdpxdpl,2 BED,International Studies,None,First Floor,0,0,0,0,0,0,6,8,6,5,1,,,,Friends,Outdoors,Digital Arts,!,Large Dog,!,Open,Helpful,Dependable,!,Open,Helpful,Dependable,!
+rqoougccpb,y,srpkrnybfh,2 BED,Law,Senior,Second Floor,0,0,0,0,0,0,1,9,6,2,8,,,,DIY,Digital Arts,Games,!,Other,!,Confident,Cultured,!,Confident,Cultured,!
+uiguyuiwoe,p,iiqyjbmntl,3 BED OPEN,International Studies,Graduate,Indifferent,0,0,0,0,0,0,6,4,4,8,10,,,,Games,Engineering,Drinking,!,Other,!,Adventurous,Independent,Encouraging,!,Adventurous,Independent,Encouraging,!
+kmuplxtisv,c,xpfjyihfyb,3 BED OPEN,Multi-Disciplinary Studies,None,Second Floor,0,0,0,0,0,0,9,5,9,9,7,,,,Digital Arts,Travel,Other,!,Medium Dog,!,Encouraging,Partier,Adventurous,!,Encouraging,Partier,Adventurous,!
+nxscutkowy,f,yyghguqnke,3 BED CLOSED,International Studies,Freshman,First Floor,0,0,0,0,0,0,2,6,8,8,3,,,,Outdoors,Television,Travel,!,Service Animal,!,Gamer,Capable,!,Gamer,Capable,!
+ualdrtewso,s,xaobxfwryk,2 BED DELUXE,Journalism and Mass Communication,Junior,First Floor,0,0,0,0,0,0,4,2,8,5,1,,,,Other,Digital Arts,Friends,!,Large Dog,!,Partier,Other,Reliable,!,Partier,Other,Reliable,!
+eqvfstjmda,t,ssgvyluinj,4 BED,Education,Junior,Third Floor,0,0,0,0,0,0,2,8,8,1,6,,,,Staying up,Travel,Programming,!,Small Dog,!,Capable,Adventurous,!,Capable,Adventurous,!
+sovlgefqyv,w,gtfauvujhb,4 BED,Law,Junior,Second Floor,0,0,0,0,0,0,10,10,1,3,3,,,,Art,Reading,!,Medium Dog,!,Reliable,Sarcastic,Dutiful,!,Reliable,Sarcastic,Dutiful,!
+lokiyigjls,e,uhsrxtasbk,3 BED CLOSED,Arts and Sciences,None,Indifferent,0,0,0,0,0,0,3,3,10,4,3,,,,Other,Outdoors,!,Rodent,!,Helpful,Sarcastic,Intellegent,!,Helpful,Sarcastic,Intellegent,!
+biornsqgac,y,cqruhpnkkx,4 BED,Earth and Energy,Transfer,Second Floor,0,0,0,0,0,0,7,2,2,6,10,,,,Programming,Reading,!,Cat,!,Encouraging,!,Encouraging,!
+feywqakfqe,f,abtisweiil,4 BED,International Studies,Sophomore,Indifferent,0,0,0,0,0,0,6,4,4,2,7,,,,Television,Outdoors,!,Small Dog,!,Capable,Encouraging,Intellegent,!,Capable,Encouraging,Intellegent,!
+wybppnumab,e,faqcxhtkyo,2 BED DELUXE,Law,Senior,Third Floor,0,0,0,0,0,0,7,1,3,8,4,,,,Friends,Outdoors,Games,!,Small Dog,!,Partier,Other,Dependable,!,Partier,Other,Dependable,!
+sokpsvlgku,r,ejyowoxxvq,2 BED DELUXE,Engineering,Freshman,First Floor,0,0,0,0,0,0,10,9,4,2,8,,,,Digital Arts,Drinking,Art,!,Cat,!,Capable,Open,Confident,!,Capable,Open,Confident,!
+mcfydqwtle,y,vhqtfumpql,3 BED OPEN,Atmospheric and Geographic Sciences,None,Second Floor,0,0,0,0,0,0,2,8,2,2,7,,,,Reading,Drinking,Television,!,Cat,!,Discreet,!,Discreet,!
+mjlkhllflv,y,uwjedsomar,2 BED DELUXE,Other,Graduate,Second Floor,0,0,0,0,0,0,1,6,3,7,2,,,,Fantasy Sports,Staying up,Friends,!,Large Dog,!,Other,Sarcastic,Helpful,!,Other,Sarcastic,Helpful,!
+ygxhimyaqt,x,bwynaeoaha,2 BED,Engineering,Freshman,Third Floor,0,0,0,0,0,0,10,6,3,4,6,,,,Television,Outdoors,DIY,!,Rodent,!,Shy,Reliable,Cultured,!,Shy,Reliable,Cultured,!
+iknrbwmnul,m,fgcvnalfww,2 BED,Earth and Energy,None,Third Floor,0,0,0,0,0,0,4,9,1,6,4,,,,Fantasy Sports,Engineering,Games,!,Cat,!,Capable,Dependable,Dutiful,!,Capable,Dependable,Dutiful,!
+qmkxpcmqll,x,pwqfhrdllv,4 BED,Arts and Sciences,Graduate,Third Floor,0,0,0,0,0,0,3,1,10,5,9,,,,Reading,Fantasy Sports,DIY,!,Small Dog,!,Intellegent,Other,!,Intellegent,Other,!
+wwpailfudc,n,ekowimdxhe,2 BED,Health Science,Sophomore,Third Floor,0,0,0,0,0,0,7,1,3,5,2,,,,Other,Drinking,Reading,!,Cat,!,Discreet,Intellegent,Shy,!,Discreet,Intellegent,Shy,!
+fjlaxlocqv,m,smcyvrolpr,4 BED,None,Senior,Indifferent,0,0,0,0,0,0,6,6,9,8,7,,,,Reading,Staying up,!,Small Dog,!,Adventurous,Confident,!,Adventurous,Confident,!
+psqekmxerj,d,kpiwbfbaqj,4 BED,Journalism and Mass Communication,Graduate,Third Floor,0,0,0,0,0,0,4,3,3,10,1,,,,Programming,Travel,Other,!,Other,!,Sarcastic,Partier,!,Sarcastic,Partier,!
+vgqfihirrf,c,yjvwxfyqox,3 BED OPEN,Fine Arts,Graduate,Indifferent,0,0,0,0,0,0,6,7,10,8,7,,,,Drinking,Reading,Television,!,Other,!,Open,Intellegent,Other,!,Open,Intellegent,Other,!
+yxaplmdwna,j,qtwaempees,2 BED DELUXE,Atmospheric and Geographic Sciences,Junior,Indifferent,0,0,0,0,0,0,3,4,8,6,7,,,,Reading,Engineering,Television,!,Cat,!,Adventurous,Shy,Gamer,!,Adventurous,Shy,Gamer,!
+gnscmjjrpa,l,kshodsuqex,3 BED CLOSED,Arts and Sciences,Senior,Second Floor,0,0,0,0,0,0,7,8,5,1,4,,,,Friends,Programming,Other,!,Service Animal,!,Cultured,Confident,Shy,!,Cultured,Confident,Shy,!
+uvvoeeovec,s,akffmpbiaq,4 BED,Law,Junior,Indifferent,0,0,0,0,0,0,1,6,5,9,6,,,,DIY,Outdoors,Other,!,Rodent,!,Discreet,Reliable,Dependable,!,Discreet,Reliable,Dependable,!
+fnorxslcwh,u,fcyghojlix,4 BED,Fine Arts,None,First Floor,0,0,0,0,0,0,4,10,6,8,4,,,,Friends,Staying up,Travel,!,Cat,!,Independent,Encouraging,Reliable,!,Independent,Encouraging,Reliable,!
+glvulyrjth,d,ifrxfocami,2 BED,Multi-Disciplinary Studies,None,First Floor,0,0,0,0,0,0,10,1,10,8,1,,,,Drinking,Outdoors,Other,!,Service Animal,!,Intellegent,Encouraging,!,Intellegent,Encouraging,!
+bahygvbjde,a,gkuditenwr,3 BED CLOSED,Earth and Energy,Freshman,Indifferent,0,0,0,0,0,0,3,8,8,8,3,,,,Digital Arts,Friends,Outdoors,!,Large Dog,!,Discreet,Confident,!,Discreet,Confident,!
+erbvrtqvyg,d,hnphbooage,4 BED,International Studies,Freshman,Indifferent,0,0,0,0,0,0,8,9,6,4,7,,,,Outdoors,Games,!,Service Animal,!,Other,Open,Cultured,!,Other,Open,Cultured,!
+ixqlxtebng,y,jnhitlipsy,2 BED DELUXE,Fine Arts,None,Indifferent,0,0,0,0,0,0,10,9,5,8,3,,,,Staying up,Fantasy Sports,!,Small Dog,!,Intellegent,Sarcastic,Encouraging,!,Intellegent,Sarcastic,Encouraging,!
+udhbuivhlp,g,lannavqsya,4 BED,Business,Freshman,Second Floor,0,0,0,0,0,0,3,6,9,9,4,,,,Staying up,Fantasy Sports,Television,!,Cat,!,Dutiful,Other,!,Dutiful,Other,!
+vcdfvsosdq,f,inbktregdo,4 BED,Journalism and Mass Communication,Graduate,Third Floor,0,0,0,0,0,0,9,6,3,2,8,,,,Television,Engineering,Friends,!,Rodent,!,Confident,Dutiful,Dependable,!,Confident,Dutiful,Dependable,!
+hxnwhcghwh,h,wadahveqdi,2 BED DELUXE,None,Junior,First Floor,0,0,0,0,0,0,8,1,1,3,6,,,,Other,!,Small Dog,!,Reliable,Sarcastic,!,Reliable,Sarcastic,!
+akrppttuak,q,tuphuakcin,4 BED,Education,Sophomore,First Floor,0,0,0,0,0,0,8,9,8,2,2,,,,Staying up,Art,Programming,!,Other,!,Capable,Helpful,Confident,!,Capable,Helpful,Confident,!
+nblkrmyetc,f,byknqlqqbb,3 BED OPEN,Multi-Disciplinary Studies,Sophomore,Second Floor,0,0,0,0,0,0,2,7,10,4,7,,,,Engineering,Programming,!,Rodent,!,Dependable,Intellegent,Adventurous,!,Dependable,Intellegent,Adventurous,!
+slewuotlug,b,ukkelfmgri,2 BED DELUXE,Atmospheric and Geographic Sciences,Freshman,Indifferent,0,0,0,0,0,0,7,2,1,7,6,,,,Games,Friends,Art,!,Cat,!,Shy,Sarcastic,!,Shy,Sarcastic,!
+kkdbxbxdmg,w,pgnvcjodbb,2 BED DELUXE,None,Senior,Third Floor,0,0,0,0,0,0,1,10,2,3,6,,,,Outdoors,DIY,Drinking,!,Other,!,Partier,Sarcastic,Intellegent,!,Partier,Sarcastic,Intellegent,!
+prkeftsmnx,m,chthuiujbs,3 BED OPEN,Earth and Energy,Transfer,Third Floor,0,0,0,0,0,0,10,3,4,9,9,,,,Programming,Friends,!,Medium Dog,!,Helpful,Reliable,Independent,!,Helpful,Reliable,Independent,!
+vumnrbevni,e,tiaqykwopp,3 BED OPEN,Engineering,Junior,Second Floor,0,0,0,0,0,0,2,2,8,5,8,,,,Digital Arts,Travel,Fantasy Sports,!,Cat,!,Confident,Independent,Cultured,!,Confident,Independent,Cultured,!
+flckbiaxet,a,nxagwahrnk,3 BED CLOSED,Arts and Sciences,Sophomore,Second Floor,0,0,0,0,0,0,8,1,10,6,8,,,,Digital Arts,Drinking,Engineering,!,Large Dog,!,Dependable,Other,Encouraging,!,Dependable,Other,Encouraging,!
+fscxixncfy,f,egdkluuihd,3 BED OPEN,None,Graduate,Second Floor,0,0,0,0,0,0,2,2,4,5,6,,,,Digital Arts,Staying up,Outdoors,!,Service Animal,!,Shy,Adventurous,!,Shy,Adventurous,!
+tjviqijwon,g,fvguhjqdad,2 BED DELUXE,Atmospheric and Geographic Sciences,Freshman,Indifferent,0,0,0,0,0,0,2,1,1,5,1,,,,Other,Programming,Fantasy Sports,!,Service Animal,!,Helpful,Discreet,!,Helpful,Discreet,!
+encvldjpwe,d,gktdeicdpn,2 BED DELUXE,International Studies,Transfer,Indifferent,0,0,0,0,0,0,3,3,3,2,2,,,,Engineering,Other,DIY,!,Small Dog,!,Open,Capable,Helpful,!,Open,Capable,Helpful,!
+nffprfpedk,a,sgunslxbrt,2 BED DELUXE,Education,Freshman,Second Floor,0,0,0,0,0,0,8,9,6,4,2,,,,Travel,Outdoors,Staying up,!,Service Animal,!,Capable,Gamer,!,Capable,Gamer,!
+mxnwxivfet,y,albmsdhofm,3 BED CLOSED,Business,None,Second Floor,0,0,0,0,0,0,6,2,3,6,6,,,,Games,Friends,Fantasy Sports,!,Small Dog,!,Sarcastic,Open,!,Sarcastic,Open,!
+axlbcyuomu,i,fakdqtfjxe,3 BED OPEN,Law,Sophomore,Indifferent,0,0,0,0,0,0,7,2,2,9,4,,,,Games,Travel,Outdoors,!,Cat,!,Helpful,Capable,!,Helpful,Capable,!
+syormtawml,v,jsaseegxxb,3 BED CLOSED,Law,Graduate,Third Floor,0,0,0,0,0,0,7,3,7,9,7,,,,Digital Arts,Television,Reading,!,Cat,!,Confident,Open,!,Confident,Open,!
+qhrawwoecj,y,iwsuactybi,2 BED DELUXE,Arts and Sciences,Sophomore,Second Floor,0,0,0,0,0,0,7,2,8,6,4,,,,Television,Engineering,Other,!,Service Animal,!,Dutiful,Confident,Open,!,Dutiful,Confident,Open,!
+cnuhigeqsf,g,mcybdcuuag,2 BED,Health Science,Graduate,First Floor,0,0,0,0,0,0,9,4,5,1,9,,,,Staying up,Fantasy Sports,Outdoors,!,Service Animal,!,Dependable,Cultured,Helpful,!,Dependable,Cultured,Helpful,!
+acwqshjila,e,uqbnxaqeti,3 BED OPEN,Other,Sophomore,Second Floor,0,0,0,0,0,0,5,1,5,7,2,,,,Art,Drinking,Staying up,!,Other,!,Encouraging,Independent,Adventurous,!,Encouraging,Independent,Adventurous,!
+mxrwrqqdls,w,fwioqebivu,3 BED OPEN,Fine Arts,Junior,Second Floor,0,0,0,0,0,0,6,2,2,3,7,,,,Programming,DIY,Reading,!,Large Dog,!,Shy,Other,Partier,!,Shy,Other,Partier,!
+wnmascigde,s,ahbpboufqg,2 BED,Law,Sophomore,Third Floor,0,0,0,0,0,0,8,3,10,8,5,,,,Drinking,Digital Arts,Travel,!,Small Dog,!,Open,Reliable,Capable,!,Open,Reliable,Capable,!
+mdwafdnakk,l,wgoeswbrjg,2 BED,None,Senior,Second Floor,0,0,0,0,0,0,8,10,3,9,8,,,,Television,Travel,DIY,!,Large Dog,!,Dependable,Confident,Discreet,!,Dependable,Confident,Discreet,!
+bmjyqbusva,v,krvsoptkoe,4 BED,Earth and Energy,Sophomore,Second Floor,0,0,0,0,0,0,5,1,7,6,7,,,,Travel,Drinking,Games,!,Service Animal,!,Dependable,Other,Intellegent,!,Dependable,Other,Intellegent,!
+bojkqhulgj,a,qfnfvoyaek,4 BED,Other,Sophomore,Indifferent,0,0,0,0,0,0,2,8,9,7,3,,,,Staying up,Games,DIY,!,Large Dog,!,Independent,Sarcastic,Partier,!,Independent,Sarcastic,Partier,!
+uqkhiuqibq,p,xevhsbncxl,2 BED DELUXE,Multi-Disciplinary Studies,Graduate,Second Floor,0,0,0,0,0,0,8,4,10,2,6,,,,Programming,Art,Engineering,!,Cat,!,Confident,Independent,Dependable,!,Confident,Independent,Dependable,!
+qsvoxokvwt,l,wassxaykop,4 BED,Multi-Disciplinary Studies,Sophomore,Second Floor,0,0,0,0,0,0,2,10,4,8,7,,,,Other,Programming,Engineering,!,Small Dog,!,Confident,Discreet,Dependable,!,Confident,Discreet,Dependable,!
+aliacqdgij,f,ciswrsruhs,3 BED OPEN,Journalism and Mass Communication,Freshman,First Floor,0,0,0,0,0,0,8,2,5,4,1,,,,Friends,DIY,Programming,!,Service Animal,!,Open,Partier,Encouraging,!,Open,Partier,Encouraging,!
+hqtbkjdckq,l,plqdcsnewx,4 BED,International Studies,Graduate,Third Floor,0,0,0,0,0,0,9,8,4,9,1,,,,Travel,Games,Drinking,!,Medium Dog,!,Independent,Capable,Other,!,Independent,Capable,Other,!
+sduwfpthkv,j,vsscxgimfo,3 BED CLOSED,Arts and Sciences,Junior,Indifferent,0,0,0,0,0,0,10,10,1,8,7,,,,Art,Other,!,Cat,!,Cultured,Intellegent,Capable,!,Cultured,Intellegent,Capable,!
+nkktslhsho,y,ljcgvtpchl,2 BED,Multi-Disciplinary Studies,Freshman,First Floor,0,0,0,0,0,0,9,5,10,9,2,,,,Programming,Fantasy Sports,Art,!,Cat,!,Dependable,Partier,Open,!,Dependable,Partier,Open,!
+ebkexnawld,b,dltugrvtek,2 BED DELUXE,International Studies,None,Second Floor,0,0,0,0,0,0,6,4,3,2,9,,,,Reading,Art,Staying up,!,Large Dog,!,Capable,Adventurous,!,Capable,Adventurous,!
+iqwwcpnxxb,k,iyxpfhdbep,3 BED OPEN,Engineering,Transfer,First Floor,0,0,0,0,0,0,8,7,6,1,4,,,,Reading,Digital Arts,Other,!,Rodent,!,Confident,Partier,Open,!,Confident,Partier,Open,!
+qrukmvysvy,g,hkvsvylvex,2 BED,Arts and Sciences,Transfer,First Floor,0,0,0,0,0,0,8,2,2,4,8,,,,Art,Programming,Travel,!,Cat,!,Sarcastic,Other,Encouraging,!,Sarcastic,Other,Encouraging,!
+aipelbbwgk,s,aewfswkmgq,3 BED CLOSED,Education,Senior,First Floor,0,0,0,0,0,0,10,7,9,5,3,,,,DIY,Television,Outdoors,!,Cat,!,Discreet,Adventurous,Dutiful,!,Discreet,Adventurous,Dutiful,!
+onjlpnxbpd,l,mqlhuwcesw,3 BED CLOSED,Earth and Energy,Transfer,First Floor,0,0,0,0,0,0,9,2,2,9,1,,,,Other,Reading,Staying up,!,Cat,!,Encouraging,Open,Other,!,Encouraging,Open,Other,!
+fshvyctgtv,s,vrnhagkpuo,3 BED CLOSED,Engineering,Freshman,Third Floor,0,0,0,0,0,0,7,4,9,5,3,,,,Outdoors,Drinking,!,Cat,!,Partier,Adventurous,Gamer,!,Partier,Adventurous,Gamer,!
+wntqirtiyo,w,svqunmlrpt,4 BED,Multi-Disciplinary Studies,Freshman,Third Floor,0,0,0,0,0,0,10,9,6,10,2,,,,Television,DIY,Travel,!,Large Dog,!,Gamer,Dutiful,Discreet,!,Gamer,Dutiful,Discreet,!
+mirdrkvkku,r,liqboipefh,4 BED,Earth and Energy,Junior,Indifferent,0,0,0,0,0,0,1,10,9,2,8,,,,Staying up,Other,Drinking,!,Large Dog,!,Discreet,Encouraging,Dutiful,!,Discreet,Encouraging,Dutiful,!
+vtftdoombi,h,unykwhsomd,2 BED DELUXE,Education,Sophomore,Indifferent,0,0,0,0,0,0,6,2,6,10,5,,,,Staying up,Drinking,Reading,!,Small Dog,!,Capable,Intellegent,!,Capable,Intellegent,!
+iyghybibde,p,gvbxvocgjc,4 BED,Earth and Energy,Graduate,First Floor,0,0,0,0,0,0,7,6,3,3,7,,,,Games,Fantasy Sports,!,Small Dog,!,Discreet,Other,Capable,!,Discreet,Other,Capable,!
+ctkyhwdvdc,y,iapwjaifyg,3 BED OPEN,Business,Freshman,Indifferent,0,0,0,0,0,0,9,9,1,1,7,,,,Engineering,Travel,Staying up,!,Other,!,Independent,Helpful,Gamer,!,Independent,Helpful,Gamer,!
+occyrajcts,c,upbkysdhcb,2 BED DELUXE,Journalism and Mass Communication,Freshman,Third Floor,0,0,0,0,0,0,8,1,10,5,1,,,,DIY,!,Rodent,!,Discreet,Open,!,Discreet,Open,!
+gxjbqskotx,p,axpbnsmwyr,3 BED OPEN,Law,Senior,Indifferent,0,0,0,0,0,0,8,5,5,8,2,,,,Digital Arts,Fantasy Sports,DIY,!,Service Animal,!,Intellegent,Dutiful,Other,!,Intellegent,Dutiful,Other,!
+umfqulrohg,r,hmopwsfnml,3 BED OPEN,Law,Senior,First Floor,0,0,0,0,0,0,8,4,6,4,2,,,,Television,Outdoors,Fantasy Sports,!,Other,!,Cultured,Dutiful,Adventurous,!,Cultured,Dutiful,Adventurous,!
+edukakrpjo,w,rarpblhcpb,4 BED,Fine Arts,Senior,Third Floor,0,0,0,0,0,0,10,6,8,7,5,,,,Digital Arts,Other,Drinking,!,Service Animal,!,Dependable,Reliable,Gamer,!,Dependable,Reliable,Gamer,!
+pdjtcxcytw,q,mownmvhvjx,3 BED OPEN,Journalism and Mass Communication,Graduate,First Floor,0,0,0,0,0,0,4,5,3,8,7,,,,Staying up,Digital Arts,!,Rodent,!,Discreet,Sarcastic,Dependable,!,Discreet,Sarcastic,Dependable,!
+wwtapiohow,y,njipgynxkh,4 BED,Journalism and Mass Communication,Graduate,Third Floor,0,0,0,0,0,0,3,7,3,9,8,,,,Television,DIY,Reading,!,Other,!,Other,Adventurous,Capable,!,Other,Adventurous,Capable,!
+rjsmauwqna,f,ilatnqclfy,2 BED DELUXE,Business,Freshman,Indifferent,0,0,0,0,0,0,3,3,9,5,7,,,,Reading,Other,!,Service Animal,!,Confident,Dutiful,Cultured,!,Confident,Dutiful,Cultured,!
+xlodxrqiny,l,npsshhjuka,2 BED DELUXE,Other,Freshman,First Floor,0,0,0,0,0,0,2,10,10,6,4,,,,Programming,Digital Arts,Drinking,!,Small Dog,!,Gamer,Dependable,Encouraging,!,Gamer,Dependable,Encouraging,!
+ylxlxhakyf,q,qkyxeeudfa,4 BED,Law,Junior,Indifferent,0,0,0,0,0,0,9,5,1,6,5,,,,Drinking,Reading,Travel,!,Service Animal,!,Dutiful,Helpful,Sarcastic,!,Dutiful,Helpful,Sarcastic,!
+ccqrnrmvpy,w,vxabvvrwqa,3 BED OPEN,Education,Senior,First Floor,0,0,0,0,0,0,5,7,7,10,7,,,,Outdoors,Friends,Television,!,Large Dog,!,Shy,Adventurous,Gamer,!,Shy,Adventurous,Gamer,!
+nackysdskq,l,pakclkogfk,2 BED,International Studies,Senior,First Floor,0,0,0,0,0,0,1,5,8,4,2,,,,Reading,Outdoors,Engineering,!,Service Animal,!,Shy,Intellegent,Cultured,!,Shy,Intellegent,Cultured,!
+ujyydfxpuv,g,dxsoivxlka,2 BED DELUXE,Health Science,Sophomore,Third Floor,0,0,0,0,0,0,1,4,10,7,1,,,,Programming,Outdoors,DIY,!,Small Dog,!,Adventurous,Independent,!,Adventurous,Independent,!
+mhnnpuofhh,m,pgnueprubd,3 BED CLOSED,Engineering,Senior,Third Floor,0,0,0,0,0,0,7,3,6,8,6,,,,Travel,Friends,Drinking,!,Medium Dog,!,Adventurous,Intellegent,!,Adventurous,Intellegent,!
+dmgsmkwbwy,r,lgneredahc,2 BED,Arts and Sciences,Senior,Indifferent,0,0,0,0,0,0,6,2,9,4,10,,,,Art,Staying up,!,Service Animal,!,Intellegent,Confident,Gamer,!,Intellegent,Confident,Gamer,!
+qlfxlrxaeb,a,wkrhejpqpa,3 BED CLOSED,International Studies,Freshman,Third Floor,0,0,0,0,0,0,10,10,5,1,1,,,,Television,Friends,Games,!,Small Dog,!,Discreet,Cultured,Gamer,!,Discreet,Cultured,Gamer,!
+hgmiganimv,x,cwqvhpplrw,3 BED OPEN,Health Science,Graduate,Third Floor,0,0,0,0,0,0,3,8,2,7,10,,,,Art,Outdoors,Travel,!,Small Dog,!,Discreet,Encouraging,Other,!,Discreet,Encouraging,Other,!
+cctvjrwjbt,v,qmnjitvucn,2 BED,None,Freshman,Indifferent,0,0,0,0,0,0,7,10,1,2,7,,,,Digital Arts,Programming,Fantasy Sports,!,Rodent,!,Dependable,Capable,Cultured,!,Dependable,Capable,Cultured,!
+rsehvlrhis,u,bjtqbchctq,2 BED,Fine Arts,Freshman,Third Floor,0,0,0,0,0,0,7,2,8,4,6,,,,Staying up,Television,!,Medium Dog,!,Shy,Helpful,Gamer,!,Shy,Helpful,Gamer,!
+ussktwdwab,r,sccevpnxye,3 BED CLOSED,Fine Arts,None,Second Floor,0,0,0,0,0,0,5,9,4,4,10,,,,Reading,Digital Arts,Television,!,Rodent,!,Discreet,Cultured,Intellegent,!,Discreet,Cultured,Intellegent,!
+beedrigdho,y,jxwsaxxqlj,4 BED,Arts and Sciences,Freshman,Third Floor,0,0,0,0,0,0,4,8,3,3,8,,,,Friends,Digital Arts,Engineering,!,Small Dog,!,Open,Independent,Sarcastic,!,Open,Independent,Sarcastic,!
+pvrpfwjrkq,c,budihkoldt,2 BED,Earth and Energy,Graduate,Indifferent,0,0,0,0,0,0,4,4,10,5,5,,,,Reading,Travel,Staying up,!,Service Animal,!,Dependable,Capable,Discreet,!,Dependable,Capable,Discreet,!
+csmkebmbeh,k,cjhibgyyrj,2 BED DELUXE,None,Senior,Indifferent,0,0,0,0,0,0,1,3,3,5,7,,,,Programming,Games,!,Medium Dog,!,Capable,Independent,Confident,!,Capable,Independent,Confident,!
+xxhwfxqjgx,f,ahseskxvpw,4 BED,Fine Arts,Graduate,First Floor,0,0,0,0,0,0,2,3,2,7,9,,,,Other,Travel,!,Service Animal,!,Reliable,Capable,Helpful,!,Reliable,Capable,Helpful,!
+mjyrgihruo,o,ssmbkshddq,3 BED CLOSED,Arts and Sciences,Senior,Second Floor,0,0,0,0,0,0,5,9,2,8,5,,,,Staying up,Games,Television,!,Other,!,Sarcastic,Partier,Discreet,!,Sarcastic,Partier,Discreet,!
+dctwswpwql,s,ixkjabnnbc,2 BED,Earth and Energy,Junior,Third Floor,0,0,0,0,0,0,5,7,9,7,9,,,,Drinking,Art,!,Medium Dog,!,Adventurous,Intellegent,!,Adventurous,Intellegent,!
+otrjumcjeg,f,ghkkwbtown,2 BED,Law,Graduate,Indifferent,0,0,0,0,0,0,8,10,9,3,4,,,,Outdoors,Other,Reading,!,Medium Dog,!,Intellegent,Capable,Reliable,!,Intellegent,Capable,Reliable,!
+nnhxbmmqro,t,ubakdmjign,3 BED OPEN,Health Science,Sophomore,Indifferent,0,0,0,0,0,0,7,7,5,2,8,,,,Other,Travel,Friends,!,Small Dog,!,Sarcastic,Other,!,Sarcastic,Other,!
+iqviuaqusn,s,kuftnybiqh,2 BED,Other,Sophomore,Indifferent,0,0,0,0,0,0,9,4,3,5,3,,,,Engineering,Outdoors,Games,!,Other,!,Independent,Intellegent,!,Independent,Intellegent,!
+ulykuipjvv,f,vhpsllvfbf,3 BED OPEN,Fine Arts,Graduate,Third Floor,0,0,0,0,0,0,9,4,6,3,8,,,,Fantasy Sports,Art,Staying up,!,Service Animal,!,Dependable,Adventurous,Confident,!,Dependable,Adventurous,Confident,!
+twaopyrscw,i,gmrfxhipns,2 BED,Atmospheric and Geographic Sciences,Junior,First Floor,0,0,0,0,0,0,2,10,7,1,10,,,,Outdoors,Art,Other,!,Service Animal,!,Reliable,Discreet,Dependable,!,Reliable,Discreet,Dependable,!
+foxreolxxp,l,hgjdlkfkgt,3 BED OPEN,Business,Transfer,First Floor,0,0,0,0,0,0,3,9,2,9,7,,,,Engineering,Fantasy Sports,Friends,!,Rodent,!,Other,Shy,!,Other,Shy,!
+mtcivdsuwx,o,jcdewlmohp,4 BED,None,Graduate,First Floor,0,0,0,0,0,0,9,2,7,8,4,,,,Reading,Staying up,!,Large Dog,!,Reliable,Cultured,Confident,!,Reliable,Cultured,Confident,!
+qpwaqvrxvy,i,khkjovoeqj,2 BED DELUXE,Health Science,Junior,Indifferent,0,0,0,0,0,0,1,10,6,5,10,,,,Friends,Programming,Television,!,Rodent,!,Independent,Confident,Cultured,!,Independent,Confident,Cultured,!
+ixtkrklrcs,p,cmieeescvo,2 BED DELUXE,Law,Junior,First Floor,0,0,0,0,0,0,8,10,8,7,3,,,,Engineering,Outdoors,Art,!,Other,!,Helpful,Dependable,Reliable,!,Helpful,Dependable,Reliable,!
+lenopxckjv,o,lfwhjxwraa,2 BED,Arts and Sciences,Freshman,Indifferent,0,0,0,0,0,0,3,9,9,6,2,,,,Engineering,Fantasy Sports,Staying up,!,Rodent,!,Partier,Confident,!,Partier,Confident,!
+lcxywfqjef,c,xpburxavnr,3 BED CLOSED,Atmospheric and Geographic Sciences,Senior,Indifferent,0,0,0,0,0,0,10,2,8,2,10,,,,Staying up,Drinking,Reading,!,Medium Dog,!,Shy,Adventurous,Intellegent,!,Shy,Adventurous,Intellegent,!
+jeuhuiwcqa,n,cngxqgruwj,2 BED,Atmospheric and Geographic Sciences,Freshman,Third Floor,0,0,0,0,0,0,5,7,9,6,5,,,,Engineering,Fantasy Sports,Programming,!,Cat,!,Reliable,Open,Discreet,!,Reliable,Open,Discreet,!
+shynxspwnp,n,kmgajhwaqm,2 BED DELUXE,Multi-Disciplinary Studies,Senior,First Floor,0,0,0,0,0,0,3,9,1,4,2,,,,Programming,Drinking,Staying up,!,Medium Dog,!,Independent,Partier,Capable,!,Independent,Partier,Capable,!
+edldukjian,e,hingtwnpfi,4 BED,Journalism and Mass Communication,Freshman,Third Floor,0,0,0,0,0,0,10,10,1,2,5,,,,Outdoors,Engineering,Travel,!,Rodent,!,Capable,Gamer,Open,!,Capable,Gamer,Open,!
+gbtcfodpnl,k,poagmvvbsg,3 BED CLOSED,Health Science,Sophomore,Indifferent,0,0,0,0,0,0,10,5,10,6,3,,,,Other,!,Rodent,!,Confident,Sarcastic,Shy,!,Confident,Sarcastic,Shy,!
+gibftgjauw,w,ylbgohpfbt,3 BED CLOSED,Earth and Energy,Freshman,Indifferent,0,0,0,0,0,0,5,1,7,1,5,,,,Reading,Programming,Drinking,!,Rodent,!,Partier,Discreet,Helpful,!,Partier,Discreet,Helpful,!
+ihorjiuqvn,m,gdjshxaejh,2 BED,Engineering,Sophomore,Indifferent,0,0,0,0,0,0,7,3,1,2,4,,,,Friends,Television,Engineering,!,Medium Dog,!,Shy,Reliable,Dependable,!,Shy,Reliable,Dependable,!
+mevmanmuci,v,wlelycpkno,2 BED DELUXE,Education,None,Indifferent,0,0,0,0,0,0,5,10,10,5,10,,,,Staying up,DIY,Friends,!,Large Dog,!,Helpful,Other,Independent,!,Helpful,Other,Independent,!
+axmecdksoo,e,wwtxdfhpto,3 BED OPEN,Law,None,Third Floor,0,0,0,0,0,0,7,3,4,6,6,,,,Outdoors,Engineering,Friends,!,Cat,!,Encouraging,Helpful,Gamer,!,Encouraging,Helpful,Gamer,!
+kknuihuatu,q,mjnygcdeft,2 BED DELUXE,Business,Senior,Third Floor,0,0,0,0,0,0,10,1,1,6,3,,,,Television,Outdoors,Reading,!,Small Dog,!,Independent,Open,Dependable,!,Independent,Open,Dependable,!
+gijvfcahhr,g,muijqgadmf,3 BED OPEN,Earth and Energy,Senior,Second Floor,0,0,0,0,0,0,1,8,1,2,5,,,,Programming,Staying up,!,Rodent,!,Discreet,Reliable,Gamer,!,Discreet,Reliable,Gamer,!
+hccekkdckn,a,tfvwhabbar,2 BED DELUXE,None,Senior,First Floor,0,0,0,0,0,0,8,5,3,3,4,,,,Television,Digital Arts,Programming,!,Service Animal,!,Confident,Other,Shy,!,Confident,Other,Shy,!
+babnabvhxh,s,ebpxgcftto,3 BED CLOSED,Education,Graduate,First Floor,0,0,0,0,0,0,7,2,2,8,3,,,,Drinking,Television,Art,!,Service Animal,!,Intellegent,Cultured,Reliable,!,Intellegent,Cultured,Reliable,!
+rjcgnjbsit,w,dapitxmxop,3 BED CLOSED,Journalism and Mass Communication,Transfer,Second Floor,0,0,0,0,0,0,3,10,5,3,6,,,,Television,Friends,!,Service Animal,!,Dutiful,Shy,Discreet,!,Dutiful,Shy,Discreet,!
+rvacventrn,k,uvlbhndlak,3 BED CLOSED,Health Science,Sophomore,Third Floor,0,0,0,0,0,0,4,4,10,10,9,,,,Drinking,Travel,DIY,!,Other,!,Other,Encouraging,Cultured,!,Other,Encouraging,Cultured,!
+wojhewcnxr,u,hoovgntnej,3 BED OPEN,Fine Arts,Junior,Second Floor,0,0,0,0,0,0,7,2,4,4,7,,,,DIY,Other,Reading,!,Cat,!,Sarcastic,Helpful,Shy,!,Sarcastic,Helpful,Shy,!
+cuuoflfxie,q,jifochnjup,3 BED CLOSED,Fine Arts,Freshman,Third Floor,0,0,0,0,0,0,8,10,4,2,8,,,,Drinking,Friends,Staying up,!,Small Dog,!,Open,Capable,Encouraging,!,Open,Capable,Encouraging,!
+heijafdwqw,h,qyjhvkeskp,4 BED,Multi-Disciplinary Studies,Graduate,Third Floor,0,0,0,0,0,0,5,6,10,8,7,,,,Travel,Friends,Digital Arts,!,Large Dog,!,Shy,Open,Capable,!,Shy,Open,Capable,!
+tepjoprkyg,j,qlgynvusoi,2 BED DELUXE,Atmospheric and Geographic Sciences,Sophomore,First Floor,0,0,0,0,0,0,8,6,2,9,5,,,,Programming,Travel,!,Other,!,Open,Cultured,Sarcastic,!,Open,Cultured,Sarcastic,!
+cmdqbujqng,r,hbxoftueqg,2 BED DELUXE,Earth and Energy,Transfer,First Floor,0,0,0,0,0,0,2,4,3,3,5,,,,Art,Travel,Staying up,!,Service Animal,!,Gamer,Cultured,Independent,!,Gamer,Cultured,Independent,!
+okuknkbyuq,y,qbooaeqplk,4 BED,Arts and Sciences,Sophomore,Indifferent,0,0,0,0,0,0,9,8,5,8,10,,,,DIY,Travel,Friends,!,Cat,!,Independent,Adventurous,Intellegent,!,Independent,Adventurous,Intellegent,!
+ncukavrbtd,l,qmbgaoqjdq,4 BED,Arts and Sciences,Transfer,Indifferent,0,0,0,0,0,0,5,8,4,4,4,,,,Drinking,Art,!,Large Dog,!,Capable,Partier,!,Capable,Partier,!
+uqauscbpcm,c,qbxovtmhuu,2 BED,Education,Sophomore,Indifferent,0,0,0,0,0,0,10,3,8,4,8,,,,Travel,Art,DIY,!,Other,!,Intellegent,Sarcastic,Dutiful,!,Intellegent,Sarcastic,Dutiful,!
+knycbfakdy,u,nbmasiygwy,3 BED CLOSED,Law,None,Second Floor,0,0,0,0,0,0,10,4,3,3,3,,,,Other,Television,Digital Arts,!,Rodent,!,Open,Sarcastic,Adventurous,!,Open,Sarcastic,Adventurous,!
+rtiusixsku,b,bhoarodwbc,4 BED,Multi-Disciplinary Studies,Transfer,Indifferent,0,0,0,0,0,0,8,9,5,6,9,,,,Fantasy Sports,DIY,Programming,!,Small Dog,!,Encouraging,Helpful,Other,!,Encouraging,Helpful,Other,!
+cjyqmtlfdl,x,sqsndxoqye,3 BED CLOSED,Atmospheric and Geographic Sciences,Junior,Second Floor,0,0,0,0,0,0,1,2,9,5,4,,,,Travel,DIY,Staying up,!,Medium Dog,!,Intellegent,Adventurous,Discreet,!,Intellegent,Adventurous,Discreet,!
+ytgsapvmho,r,qenrjbjgub,4 BED,None,None,Second Floor,0,0,0,0,0,0,5,1,5,3,4,,,,Television,Digital Arts,Programming,!,Medium Dog,!,Open,Shy,Dependable,!,Open,Shy,Dependable,!
+eygpqairqg,q,lqewjhgcjj,3 BED CLOSED,International Studies,Transfer,First Floor,0,0,0,0,0,0,1,5,7,5,9,,,,Drinking,Digital Arts,DIY,!,Small Dog,!,Shy,Open,Dutiful,!,Shy,Open,Dutiful,!
+jnvooylejq,j,lekncwcvxi,4 BED,Atmospheric and Geographic Sciences,Sophomore,Second Floor,0,0,0,0,0,0,6,10,6,8,10,,,,Reading,Outdoors,DIY,!,Service Animal,!,Discreet,Open,Capable,!,Discreet,Open,Capable,!
+obtreuexty,w,khnptgunua,3 BED CLOSED,Journalism and Mass Communication,Senior,Second Floor,0,0,0,0,0,0,6,9,3,9,5,,,,Staying up,Programming,Reading,!,Medium Dog,!,Dependable,Discreet,Partier,!,Dependable,Discreet,Partier,!
+jlqhnpwyfe,h,xoxccysgne,3 BED CLOSED,Earth and Energy,Senior,Third Floor,0,0,0,0,0,0,2,7,5,6,5,,,,Drinking,Fantasy Sports,Engineering,!,Other,!,Intellegent,Confident,Reliable,!,Intellegent,Confident,Reliable,!
+bjqeqkyuvj,n,yrqskycyfg,4 BED,Journalism and Mass Communication,None,Second Floor,0,0,0,0,0,0,7,2,5,2,7,,,,Staying up,Digital Arts,Reading,!,Rodent,!,Dependable,Encouraging,Dutiful,!,Dependable,Encouraging,Dutiful,!
+xcsgthjfwy,e,ovrtnfhxwo,2 BED,Arts and Sciences,Sophomore,Indifferent,0,0,0,0,0,0,7,2,7,9,1,,,,Other,Engineering,Games,!,Service Animal,!,Other,Capable,Reliable,!,Other,Capable,Reliable,!
+rjtgqdmdeu,h,udgmcskwcq,2 BED DELUXE,Other,Transfer,Indifferent,0,0,0,0,0,0,2,6,5,7,3,,,,Art,Digital Arts,Other,!,Medium Dog,!,Capable,Open,Encouraging,!,Capable,Open,Encouraging,!
+ywtsedtwaa,c,dbkcwlslat,2 BED DELUXE,Fine Arts,Freshman,First Floor,0,0,0,0,0,0,5,6,7,8,8,,,,Engineering,Digital Arts,DIY,!,Rodent,!,Independent,Encouraging,Partier,!,Independent,Encouraging,Partier,!
+qnyxkvkbbm,e,diqkcrvmsn,3 BED OPEN,Engineering,Graduate,Indifferent,0,0,0,0,0,0,1,2,4,2,10,,,,DIY,Art,!,Cat,!,Dependable,Independent,Capable,!,Dependable,Independent,Capable,!
+nshnbyenye,o,vrysmlyhkn,3 BED OPEN,International Studies,Graduate,Second Floor,0,0,0,0,0,0,7,1,1,4,9,,,,Television,Games,DIY,!,Rodent,!,Sarcastic,Cultured,!,Sarcastic,Cultured,!
+fkywqngbys,d,qgdbjqtuwf,2 BED DELUXE,Business,Sophomore,Third Floor,0,0,0,0,0,0,6,2,8,3,6,,,,Programming,Friends,Staying up,!,Large Dog,!,Encouraging,Discreet,Helpful,!,Encouraging,Discreet,Helpful,!
+acjntnalkd,r,admjxpxktv,2 BED,Earth and Energy,Sophomore,Indifferent,0,0,0,0,0,0,6,9,4,8,6,,,,Travel,Outdoors,Other,!,Service Animal,!,Dependable,Independent,Dutiful,!,Dependable,Independent,Dutiful,!
+lpawfeooit,g,yojwmiysps,2 BED,None,Junior,Third Floor,0,0,0,0,0,0,6,8,2,8,1,,,,Art,Travel,Reading,!,Other,!,Discreet,Adventurous,Encouraging,!,Discreet,Adventurous,Encouraging,!
+ydiicdlvgr,c,monpyeubvf,2 BED DELUXE,Earth and Energy,Junior,Second Floor,0,0,0,0,0,0,10,8,6,9,2,,,,Art,Friends,!,Small Dog,!,Encouraging,Intellegent,Dependable,!,Encouraging,Intellegent,Dependable,!
+eovthghkyd,o,yqlnontrcn,2 BED,Engineering,None,Third Floor,0,0,0,0,0,0,6,7,5,4,4,,,,Art,DIY,!,Large Dog,!,Dependable,Encouraging,Partier,!,Dependable,Encouraging,Partier,!
+ohnkshevyw,m,wxdugusxcb,2 BED,None,Freshman,Indifferent,0,0,0,0,0,0,7,4,6,6,9,,,,Staying up,DIY,Travel,!,Other,!,Encouraging,Partier,Cultured,!,Encouraging,Partier,Cultured,!
+dseiubnaow,u,lxhpiittsj,2 BED,Other,Junior,Third Floor,0,0,0,0,0,0,4,10,7,3,4,,,,Drinking,Games,DIY,!,Cat,!,Reliable,Cultured,Partier,!,Reliable,Cultured,Partier,!
+fugmixncca,a,mmivjjjwfc,2 BED,Earth and Energy,None,Indifferent,0,0,0,0,0,0,1,4,1,9,4,,,,Drinking,Programming,Television,!,Other,!,Other,Adventurous,Partier,!,Other,Adventurous,Partier,!
+hrxkywwrvl,s,qgjdfcfcjx,3 BED OPEN,Fine Arts,Graduate,Third Floor,0,0,0,0,0,0,2,6,2,7,9,,,,Engineering,Programming,Reading,!,Service Animal,!,Sarcastic,Shy,Dutiful,!,Sarcastic,Shy,Dutiful,!
+peugshcvyt,b,dhfjxthojx,4 BED,Other,Transfer,First Floor,0,0,0,0,0,0,4,7,8,7,7,,,,Art,Games,Reading,!,Service Animal,!,Open,Dependable,!,Open,Dependable,!
+dxbcrwvfpm,i,jkcrrjeshx,2 BED DELUXE,Health Science,Sophomore,Third Floor,0,0,0,0,0,0,9,8,5,6,8,,,,Art,Outdoors,!,Large Dog,!,Intellegent,Partier,Encouraging,!,Intellegent,Partier,Encouraging,!
+vmwopxyvvt,p,ucuoifwwor,3 BED CLOSED,International Studies,None,Indifferent,0,0,0,0,0,0,9,7,5,7,7,,,,Friends,Travel,!,Large Dog,!,Adventurous,Capable,Dependable,!,Adventurous,Capable,Dependable,!
+vfhakvycii,w,kmgpxwoeur,3 BED OPEN,Atmospheric and Geographic Sciences,Sophomore,First Floor,0,0,0,0,0,0,1,3,5,7,1,,,,Reading,Engineering,Drinking,!,Service Animal,!,Dutiful,Gamer,Dependable,!,Dutiful,Gamer,Dependable,!
+clfilayish,q,ehlfrqmqqp,2 BED DELUXE,Education,Junior,First Floor,0,0,0,0,0,0,7,2,7,9,2,,,,Other,Programming,DIY,!,Other,!,Partier,Reliable,!,Partier,Reliable,!
+agffsouqfi,i,abfwvdfyxw,4 BED,Health Science,Junior,First Floor,0,0,0,0,0,0,7,10,5,9,9,,,,Staying up,DIY,Reading,!,Small Dog,!,Discreet,Encouraging,Sarcastic,!,Discreet,Encouraging,Sarcastic,!
+ywjfayvilc,k,bcetryxttf,2 BED,Other,Junior,Indifferent,0,0,0,0,0,0,3,9,6,3,10,,,,Travel,Television,Art,!,Small Dog,!,Open,Dutiful,Adventurous,!,Open,Dutiful,Adventurous,!
+wbusxuvvfe,b,babxykaymh,3 BED OPEN,Other,Transfer,Second Floor,0,0,0,0,0,0,3,4,7,2,6,,,,Travel,Fantasy Sports,Drinking,!,Large Dog,!,Gamer,Sarcastic,Adventurous,!,Gamer,Sarcastic,Adventurous,!
+ncsnqbwmtg,a,vtmpmyfdks,4 BED,Other,Senior,Third Floor,0,0,0,0,0,0,4,1,10,9,6,,,,Digital Arts,DIY,Art,!,Small Dog,!,Shy,Adventurous,Open,!,Shy,Adventurous,Open,!
+rcsyusojit,f,fuxlsplkyw,3 BED OPEN,None,Sophomore,Indifferent,0,0,0,0,0,0,7,8,10,2,3,,,,Engineering,Outdoors,Reading,!,Small Dog,!,Sarcastic,Capable,Discreet,!,Sarcastic,Capable,Discreet,!
+ooatsnkcjq,q,lugktxyuns,2 BED,None,Junior,First Floor,0,0,0,0,0,0,2,10,9,9,2,,,,Friends,Games,!,Small Dog,!,Reliable,Shy,Partier,!,Reliable,Shy,Partier,!
+snnvaoufyx,t,fyckllntck,2 BED DELUXE,Law,Graduate,First Floor,0,0,0,0,0,0,1,10,3,2,5,,,,Programming,Reading,Outdoors,!,Small Dog,!,Open,Helpful,Confident,!,Open,Helpful,Confident,!
+ibvveckclo,e,sgoxrtdnya,2 BED,Engineering,Freshman,Indifferent,0,0,0,0,0,0,2,9,3,10,2,,,,Staying up,Art,Digital Arts,!,Rodent,!,Sarcastic,Dependable,Intellegent,!,Sarcastic,Dependable,Intellegent,!
+ydtovtukpf,j,gdiwcxetnp,3 BED CLOSED,Fine Arts,Senior,First Floor,0,0,0,0,0,0,4,2,10,10,4,,,,DIY,Engineering,Programming,!,Other,!,Confident,Capable,Other,!,Confident,Capable,Other,!
+pmgebtmqnv,j,rmasuyqrnd,2 BED,Atmospheric and Geographic Sciences,Graduate,First Floor,0,0,0,0,0,0,10,7,9,1,4,,,,Drinking,Other,Television,!,Cat,!,Cultured,Capable,Open,!,Cultured,Capable,Open,!
+gugsptcmnm,j,lthdtperld,2 BED DELUXE,None,Sophomore,Second Floor,0,0,0,0,0,0,8,2,8,9,2,,,,DIY,Other,Digital Arts,!,Service Animal,!,Discreet,Capable,Helpful,!,Discreet,Capable,Helpful,!
+oymoqpojua,y,bxlvnmlqma,4 BED,Arts and Sciences,Freshman,Third Floor,0,0,0,0,0,0,9,6,10,7,3,,,,Outdoors,Engineering,DIY,!,Medium Dog,!,Intellegent,Capable,Encouraging,!,Intellegent,Capable,Encouraging,!
+phyibayrqq,v,xxtaicjtsw,3 BED CLOSED,Multi-Disciplinary Studies,Senior,Third Floor,0,0,0,0,0,0,1,10,3,7,9,,,,Television,Travel,Reading,!,Rodent,!,Helpful,Independent,Dependable,!,Helpful,Independent,Dependable,!
+qlkgqpqycj,d,uqvppnhncp,4 BED,Earth and Energy,Senior,First Floor,0,0,0,0,0,0,8,6,7,4,6,,,,Travel,DIY,Digital Arts,!,Medium Dog,!,Confident,Dutiful,Discreet,!,Confident,Dutiful,Discreet,!
+smbwvjoyhc,n,jmxyysbfhl,2 BED,Business,Sophomore,First Floor,0,0,0,0,0,0,6,2,2,4,10,,,,Travel,Digital Arts,!,Medium Dog,!,Adventurous,Cultured,Reliable,!,Adventurous,Cultured,Reliable,!
+feqwkebfkl,t,hyqlratrpu,3 BED OPEN,None,Sophomore,Third Floor,0,0,0,0,0,0,8,5,8,5,9,,,,Digital Arts,Friends,!,Cat,!,Cultured,Discreet,Encouraging,!,Cultured,Discreet,Encouraging,!
+lchjhxqhfb,d,sqjtdyhyjr,4 BED,Other,Sophomore,Second Floor,0,0,0,0,0,0,6,10,7,10,2,,,,Programming,Art,Staying up,!,Large Dog,!,Reliable,Sarcastic,Gamer,!,Reliable,Sarcastic,Gamer,!
+xvyuqmbldo,v,ebyilrpatb,2 BED,Atmospheric and Geographic Sciences,Sophomore,Indifferent,0,0,0,0,0,0,4,6,4,5,2,,,,Digital Arts,Drinking,Engineering,!,Large Dog,!,Independent,Capable,Reliable,!,Independent,Capable,Reliable,!
+jehwmejwqn,x,cwlvvhqdmv,4 BED,Fine Arts,Senior,Third Floor,0,0,0,0,0,0,3,2,1,1,8,,,,Television,Games,Engineering,!,Medium Dog,!,Open,Discreet,!,Open,Discreet,!
+ahgolbucqi,t,ttjjxfpmmr,3 BED CLOSED,Business,Freshman,Third Floor,0,0,0,0,0,0,10,10,3,7,8,,,,Fantasy Sports,Outdoors,Games,!,Rodent,!,Partier,Dutiful,Helpful,!,Partier,Dutiful,Helpful,!
+kmlsmndxej,x,kdbjetxdjf,2 BED DELUXE,Earth and Energy,Graduate,Second Floor,0,0,0,0,0,0,8,1,1,5,2,,,,Reading,Fantasy Sports,Digital Arts,!,Large Dog,!,Cultured,Helpful,!,Cultured,Helpful,!
+tqvnywapdx,f,fnvxmwlykv,3 BED CLOSED,Health Science,Sophomore,Second Floor,0,0,0,0,0,0,8,5,3,10,10,,,,Games,Art,Other,!,Small Dog,!,Helpful,Adventurous,Intellegent,!,Helpful,Adventurous,Intellegent,!
+wmfjqhyvjy,t,jdfqcgmnpi,2 BED,Health Science,Transfer,Third Floor,0,0,0,0,0,0,9,4,7,1,4,,,,Television,Art,Friends,!,Small Dog,!,Sarcastic,Shy,!,Sarcastic,Shy,!
+jhymmiuaop,y,kxtuiodfmt,3 BED OPEN,Engineering,Junior,Second Floor,0,0,0,0,0,0,4,3,7,10,3,,,,Drinking,Travel,Games,!,Cat,!,Adventurous,Other,Encouraging,!,Adventurous,Other,Encouraging,!
+mchpadsuce,u,bqkmvtujxt,2 BED DELUXE,Fine Arts,Transfer,Third Floor,0,0,0,0,0,0,8,4,6,7,10,,,,Art,Friends,Programming,!,Medium Dog,!,Cultured,Partier,Intellegent,!,Cultured,Partier,Intellegent,!
+xakimvfwel,d,vtdthvflmu,3 BED OPEN,Journalism and Mass Communication,Graduate,Indifferent,0,0,0,0,0,0,7,5,2,1,5,,,,Television,DIY,!,Cat,!,Dependable,Encouraging,Open,!,Dependable,Encouraging,Open,!
+pgjdygwuvp,m,fgscbvgrec,2 BED DELUXE,Fine Arts,None,Third Floor,0,0,0,0,0,0,5,4,3,4,1,,,,Television,Engineering,DIY,!,Small Dog,!,Confident,Sarcastic,Capable,!,Confident,Sarcastic,Capable,!
+svluefywdx,c,lbtsxychjo,4 BED,International Studies,Senior,Second Floor,0,0,0,0,0,0,7,7,3,7,5,,,,Engineering,Travel,Digital Arts,!,Medium Dog,!,Gamer,Dutiful,Cultured,!,Gamer,Dutiful,Cultured,!
+tpvpmqqhnp,s,urxckvptnm,2 BED,Law,None,First Floor,0,0,0,0,0,0,3,5,1,2,8,,,,Fantasy Sports,Drinking,Television,!,Cat,!,Reliable,Adventurous,!,Reliable,Adventurous,!
+ybeaaunxaw,f,arvvamixxv,4 BED,Atmospheric and Geographic Sciences,None,Third Floor,0,0,0,0,0,0,6,3,9,10,8,,,,Drinking,Friends,Television,!,Cat,!,Encouraging,Adventurous,Sarcastic,!,Encouraging,Adventurous,Sarcastic,!
+uokfcplpwu,m,gtapnnccku,3 BED CLOSED,Atmospheric and Geographic Sciences,Freshman,Second Floor,0,0,0,0,0,0,9,3,4,4,4,,,,Outdoors,Reading,Games,!,Service Animal,!,Adventurous,Capable,Shy,!,Adventurous,Capable,Shy,!
+ffusyqpwni,s,iqqutnlfqc,2 BED,Journalism and Mass Communication,Junior,Indifferent,0,0,0,0,0,0,1,1,10,3,5,,,,Other,Television,Digital Arts,!,Rodent,!,Dutiful,Discreet,!,Dutiful,Discreet,!
+msxfsejrau,b,jiwyyvhyvp,3 BED CLOSED,None,Transfer,Third Floor,0,0,0,0,0,0,2,6,6,5,6,,,,Television,DIY,!,Large Dog,!,Other,Intellegent,Dependable,!,Other,Intellegent,Dependable,!
+jblnqhidpw,n,pnaxgofeap,2 BED DELUXE,Atmospheric and Geographic Sciences,None,Second Floor,0,0,0,0,0,0,7,4,1,9,9,,,,Digital Arts,Travel,!,Large Dog,!,Dutiful,Gamer,Partier,!,Dutiful,Gamer,Partier,!
+wwuryhpdxc,q,laqwusnpop,3 BED OPEN,Education,Graduate,Third Floor,0,0,0,0,0,0,6,5,8,1,10,,,,Programming,Other,!,Service Animal,!,Sarcastic,Shy,Other,!,Sarcastic,Shy,Other,!
+agmisvqxpw,c,ieokihxcdp,3 BED CLOSED,Engineering,Graduate,Second Floor,0,0,0,0,0,0,7,2,5,8,4,,,,Programming,Engineering,!,Cat,!,Reliable,Cultured,Confident,!,Reliable,Cultured,Confident,!
+uylmxigavl,d,sdtieksmop,2 BED DELUXE,Health Science,None,First Floor,0,0,0,0,0,0,7,2,10,5,10,,,,Staying up,Other,Drinking,!,Service Animal,!,Gamer,Partier,Encouraging,!,Gamer,Partier,Encouraging,!
+ptgogixxtx,t,dxxndhhbed,2 BED,Education,Graduate,Third Floor,0,0,0,0,0,0,6,1,2,8,4,,,,Reading,Games,!,Cat,!,Gamer,Adventurous,Cultured,!,Gamer,Adventurous,Cultured,!
+sdebcirgjf,n,sorysatytq,3 BED CLOSED,None,None,First Floor,0,0,0,0,0,0,1,10,3,7,2,,,,Reading,Games,Outdoors,!,Rodent,!,Encouraging,Other,!,Encouraging,Other,!
+nlvqsnupmp,p,lyorfiurol,3 BED CLOSED,Journalism and Mass Communication,Freshman,Second Floor,0,0,0,0,0,0,8,2,8,7,2,,,,Reading,Travel,Games,!,Rodent,!,Cultured,Partier,Capable,!,Cultured,Partier,Capable,!
+njwegdlgou,b,gietogtlkr,3 BED CLOSED,Earth and Energy,Sophomore,First Floor,0,0,0,0,0,0,4,5,2,6,4,,,,Friends,Drinking,Engineering,!,Small Dog,!,Gamer,Independent,Encouraging,!,Gamer,Independent,Encouraging,!
+bwqtwawgee,l,mkjjjcnysv,3 BED CLOSED,Law,Transfer,Third Floor,0,0,0,0,0,0,3,2,5,7,9,,,,Games,DIY,Other,!,Cat,!,Reliable,Dependable,!,Reliable,Dependable,!
+sswpyigskb,c,whcrlufvnr,3 BED CLOSED,Other,None,Third Floor,0,0,0,0,0,0,1,9,9,8,2,,,,Other,Engineering,Television,!,Service Animal,!,Capable,Cultured,!,Capable,Cultured,!
+cbcvwkfkfj,m,ydpnudabeh,3 BED CLOSED,Law,None,First Floor,0,0,0,0,0,0,10,3,3,9,5,,,,Fantasy Sports,Games,Reading,!,Cat,!,Open,Encouraging,Gamer,!,Open,Encouraging,Gamer,!
+muhbufoppi,p,okochcjwwu,4 BED,Atmospheric and Geographic Sciences,Senior,Indifferent,0,0,0,0,0,0,2,10,10,6,7,,,,Television,Games,Fantasy Sports,!,Rodent,!,Confident,Dependable,Independent,!,Confident,Dependable,Independent,!
+vdhutsydmf,i,fmoudvdjkl,4 BED,None,Sophomore,First Floor,0,0,0,0,0,0,3,2,9,10,4,,,,Staying up,Games,Other,!,Large Dog,!,Dependable,Reliable,Confident,!,Dependable,Reliable,Confident,!
+bxscbursnl,v,pamwyvynse,4 BED,Business,Graduate,Second Floor,0,0,0,0,0,0,3,8,7,1,7,,,,Outdoors,Engineering,Fantasy Sports,!,Large Dog,!,Adventurous,Confident,Intellegent,!,Adventurous,Confident,Intellegent,!
+deeqmambln,i,kfcketyfyn,3 BED CLOSED,Atmospheric and Geographic Sciences,Transfer,Second Floor,0,0,0,0,0,0,9,6,3,8,4,,,,DIY,Drinking,Friends,!,Cat,!,Discreet,Open,Independent,!,Discreet,Open,Independent,!
+blbraemjtb,r,wocokbgjkt,2 BED,Health Science,None,First Floor,0,0,0,0,0,0,2,2,1,8,8,,,,Drinking,Engineering,Outdoors,!,Large Dog,!,Shy,Cultured,Reliable,!,Shy,Cultured,Reliable,!
+kkqhcsgoku,f,obgkprnery,2 BED DELUXE,Health Science,Freshman,Indifferent,0,0,0,0,0,0,8,6,8,5,10,,,,Digital Arts,Programming,Reading,!,Cat,!,Reliable,Independent,Intellegent,!,Reliable,Independent,Intellegent,!
+oatolokics,c,guryyyvoen,3 BED OPEN,International Studies,Freshman,Third Floor,0,0,0,0,0,0,2,6,5,1,8,,,,DIY,Programming,Games,!,Rodent,!,Confident,Reliable,Cultured,!,Confident,Reliable,Cultured,!
+kmjhhgqdgm,p,wvrgompgyq,3 BED CLOSED,Health Science,Freshman,Second Floor,0,0,0,0,0,0,7,5,5,3,9,,,,Friends,Travel,Other,!,Other,!,Reliable,Dutiful,Other,!,Reliable,Dutiful,Other,!
+isbbwphcpb,o,ucfgiirhjm,2 BED,Atmospheric and Geographic Sciences,Junior,Third Floor,0,0,0,0,0,0,2,1,2,9,8,,,,Fantasy Sports,Art,Other,!,Rodent,!,Capable,Adventurous,Helpful,!,Capable,Adventurous,Helpful,!
+flyphsognc,t,mgsvylrxoy,3 BED CLOSED,Fine Arts,Sophomore,First Floor,0,0,0,0,0,0,1,3,6,4,9,,,,Drinking,Other,Staying up,!,Rodent,!,Confident,Reliable,Dutiful,!,Confident,Reliable,Dutiful,!
+crwbppnses,s,fyjlueumpe,3 BED CLOSED,Atmospheric and Geographic Sciences,Sophomore,Third Floor,0,0,0,0,0,0,8,5,9,2,7,,,,Art,Digital Arts,!,Rodent,!,Intellegent,Cultured,!,Intellegent,Cultured,!
+ybbaepwftk,d,mrlouttpgj,3 BED OPEN,Earth and Energy,Senior,Second Floor,0,0,0,0,0,0,6,2,1,1,3,,,,Outdoors,Digital Arts,!,Cat,!,Open,Encouraging,Helpful,!,Open,Encouraging,Helpful,!
+inbmegtdkk,l,ymhrpotwiw,2 BED DELUXE,Multi-Disciplinary Studies,Sophomore,First Floor,0,0,0,0,0,0,5,9,7,9,5,,,,Art,Other,Travel,!,Medium Dog,!,Capable,Intellegent,Partier,!,Capable,Intellegent,Partier,!
+ovwnhdrqkv,v,kurdcqipmr,2 BED DELUXE,International Studies,Freshman,Third Floor,0,0,0,0,0,0,2,1,1,8,3,,,,Digital Arts,DIY,Engineering,!,Rodent,!,Open,Capable,Partier,!,Open,Capable,Partier,!
+dkccgtljmd,y,elpwwtnlvd,3 BED OPEN,None,Freshman,Second Floor,0,0,0,0,0,0,9,4,3,1,1,,,,Travel,Friends,Digital Arts,!,Large Dog,!,Other,Dutiful,!,Other,Dutiful,!
+twldxlygyf,q,cdjbdiytbr,3 BED CLOSED,Business,None,Indifferent,0,0,0,0,0,0,4,10,3,2,6,,,,Programming,Television,Engineering,!,Other,!,Encouraging,!,Encouraging,!
+mwdicbqfpm,b,vieogrkurg,2 BED,Journalism and Mass Communication,None,Second Floor,0,0,0,0,0,0,10,1,6,9,4,,,,Reading,Programming,Staying up,!,Medium Dog,!,Partier,Intellegent,Helpful,!,Partier,Intellegent,Helpful,!
+rxvrroqrdm,c,uaubwxvmvm,3 BED OPEN,Fine Arts,Sophomore,Indifferent,0,0,0,0,0,0,6,10,5,10,5,,,,Outdoors,Television,Other,!,Cat,!,Adventurous,Dutiful,Partier,!,Adventurous,Dutiful,Partier,!
+pqeodoksfg,v,yuuxgugbhr,4 BED,Arts and Sciences,Freshman,Second Floor,0,0,0,0,0,0,7,4,9,7,2,,,,Staying up,Art,Drinking,!,Cat,!,Confident,Open,Discreet,!,Confident,Open,Discreet,!
+xxxhrrfcey,w,vhhqiakutr,2 BED,Law,Senior,Second Floor,0,0,0,0,0,0,6,7,10,9,4,,,,Other,Drinking,Outdoors,!,Small Dog,!,Intellegent,Open,Discreet,!,Intellegent,Open,Discreet,!
+htmybhxkbt,a,jtfaxukbdu,2 BED DELUXE,International Studies,Junior,Third Floor,0,0,0,0,0,0,4,8,6,4,2,,,,Drinking,Other,Games,!,Other,!,Confident,Sarcastic,Other,!,Confident,Sarcastic,Other,!
+sgxijdwcnw,b,ejuseqxvjk,3 BED CLOSED,Fine Arts,Junior,First Floor,0,0,0,0,0,0,2,2,10,8,10,,,,Travel,Engineering,Drinking,!,Other,!,Shy,Intellegent,Encouraging,!,Shy,Intellegent,Encouraging,!
+oiwfhxmbby,l,uesxqbyyly,3 BED CLOSED,Business,Transfer,Third Floor,0,0,0,0,0,0,8,10,8,5,6,,,,Programming,Staying up,DIY,!,Medium Dog,!,Dependable,Confident,!,Dependable,Confident,!
+kcvyhcxrdc,u,ofvbwgsvdy,2 BED DELUXE,Other,Junior,First Floor,0,0,0,0,0,0,1,1,2,3,3,,,,Engineering,Outdoors,Drinking,!,Other,!,Intellegent,Reliable,Cultured,!,Intellegent,Reliable,Cultured,!
+sbfteuperm,n,pyrsotamel,3 BED CLOSED,Education,Junior,Second Floor,0,0,0,0,0,0,5,3,10,9,9,,,,Engineering,Friends,!,Service Animal,!,Reliable,Gamer,Helpful,!,Reliable,Gamer,Helpful,!
+njoejncuwd,b,ffscilygkr,2 BED,Law,Freshman,Second Floor,0,0,0,0,0,0,1,9,2,2,7,,,,Fantasy Sports,Friends,Travel,!,Service Animal,!,Gamer,Confident,Dutiful,!,Gamer,Confident,Dutiful,!
+xphfyugpsm,j,uuneyhdpph,4 BED,Fine Arts,Senior,Second Floor,0,0,0,0,0,0,3,3,8,4,1,,,,Reading,Television,Programming,!,Service Animal,!,Helpful,Adventurous,Partier,!,Helpful,Adventurous,Partier,!
+wubimswmau,j,nsqaxiukai,4 BED,Business,Transfer,First Floor,0,0,0,0,0,0,2,4,5,7,10,,,,Drinking,Programming,!,Large Dog,!,Shy,Intellegent,Partier,!,Shy,Intellegent,Partier,!
+mcnttehrpq,d,kthnsnvweh,3 BED OPEN,Fine Arts,Senior,Second Floor,0,0,0,0,0,0,8,10,3,6,2,,,,Art,Programming,!,Other,!,Gamer,Adventurous,Independent,!,Gamer,Adventurous,Independent,!
+nykkhbctwh,a,mcjcqwodwg,2 BED DELUXE,Journalism and Mass Communication,Transfer,Indifferent,0,0,0,0,0,0,10,1,9,8,3,,,,DIY,Fantasy Sports,Engineering,!,Service Animal,!,Helpful,Reliable,Adventurous,!,Helpful,Reliable,Adventurous,!
+scxpbtqkmo,k,gaevtjftba,3 BED CLOSED,Law,Freshman,Second Floor,0,0,0,0,0,0,6,1,9,6,9,,,,Fantasy Sports,Digital Arts,Drinking,!,Small Dog,!,Cultured,Partier,!,Cultured,Partier,!
+nhcmswbgdj,u,xyrpfajngu,3 BED OPEN,Multi-Disciplinary Studies,Senior,Second Floor,0,0,0,0,0,0,3,4,8,10,4,,,,Travel,Drinking,Television,!,Other,!,Capable,Intellegent,!,Capable,Intellegent,!
+yacyymncsu,g,ivfyhkxdbx,4 BED,Arts and Sciences,None,Second Floor,0,0,0,0,0,0,1,1,7,9,10,,,,DIY,Other,Digital Arts,!,Medium Dog,!,Dutiful,Adventurous,Discreet,!,Dutiful,Adventurous,Discreet,!
+rdvigtrwvn,b,nhvhxqpocj,2 BED,Engineering,Junior,Third Floor,0,0,0,0,0,0,9,7,6,7,3,,,,Art,Programming,Fantasy Sports,!,Service Animal,!,Cultured,Reliable,Shy,!,Cultured,Reliable,Shy,!
+pynufvbnyr,a,turqocumkk,3 BED CLOSED,Journalism and Mass Communication,None,Third Floor,0,0,0,0,0,0,6,8,3,10,9,,,,Games,Staying up,Other,!,Medium Dog,!,Dependable,Intellegent,!,Dependable,Intellegent,!
+sccaoytuia,b,uknkhcnjjv,2 BED DELUXE,None,Transfer,Second Floor,0,0,0,0,0,0,9,9,3,1,8,,,,Drinking,DIY,Travel,!,Large Dog,!,Encouraging,Sarcastic,!,Encouraging,Sarcastic,!
+uytftatviw,m,qvvfybolda,3 BED OPEN,Law,Junior,Second Floor,0,0,0,0,0,0,10,6,7,10,7,,,,Staying up,Engineering,Art,!,Other,!,Discreet,Dependable,Open,!,Discreet,Dependable,Open,!
+mbvwvykmyc,y,yjjufuwrpg,2 BED,Health Science,Senior,Second Floor,0,0,0,0,0,0,1,8,5,4,3,,,,Reading,Art,Digital Arts,!,Large Dog,!,Partier,Cultured,!,Partier,Cultured,!
+xnbdfwrwld,v,budieaufbh,3 BED OPEN,Health Science,Senior,Indifferent,0,0,0,0,0,0,3,8,9,5,1,,,,Engineering,Other,Travel,!,Large Dog,!,Intellegent,Open,Other,!,Intellegent,Open,Other,!
+gpchcusurd,x,farwjttcyh,2 BED DELUXE,Other,Senior,Indifferent,0,0,0,0,0,0,1,4,4,3,2,,,,Travel,Outdoors,Friends,!,Medium Dog,!,Gamer,Partier,Sarcastic,!,Gamer,Partier,Sarcastic,!
+hdxoqdwhtg,y,xmemynbect,3 BED OPEN,None,Transfer,Indifferent,0,0,0,0,0,0,4,9,10,6,2,,,,Outdoors,Television,!,Other,!,Helpful,Adventurous,Open,!,Helpful,Adventurous,Open,!
+chbghlcxuc,x,vnraobblfp,2 BED,Other,Junior,Second Floor,0,0,0,0,0,0,5,7,10,9,2,,,,Other,Reading,Art,!,Other,!,Independent,Intellegent,!,Independent,Intellegent,!
+yonvdlltft,d,gitdklwycs,2 BED DELUXE,Fine Arts,Graduate,First Floor,0,0,0,0,0,0,8,5,8,3,6,,,,DIY,Reading,!,Service Animal,!,Shy,Confident,Discreet,!,Shy,Confident,Discreet,!
+yncgcotqxg,q,vmoxseelom,4 BED,Arts and Sciences,Graduate,Third Floor,0,0,0,0,0,0,1,7,6,3,6,,,,Engineering,Digital Arts,DIY,!,Other,!,Encouraging,Open,Cultured,!,Encouraging,Open,Cultured,!
+jlqddtjrcy,a,rbgtmqflfe,2 BED,Arts and Sciences,Graduate,First Floor,0,0,0,0,0,0,8,10,5,9,6,,,,Friends,Television,Outdoors,!,Small Dog,!,Adventurous,Sarcastic,Other,!,Adventurous,Sarcastic,Other,!
+aeqjoaflfw,u,grlldyaojy,2 BED DELUXE,Fine Arts,Sophomore,Second Floor,0,0,0,0,0,0,9,8,3,2,1,,,,Games,Digital Arts,Other,!,Small Dog,!,Helpful,Intellegent,Open,!,Helpful,Intellegent,Open,!
+yfeibjerfp,b,yfhexlgakd,3 BED OPEN,Arts and Sciences,Freshman,Second Floor,0,0,0,0,0,0,1,7,3,8,2,,,,Drinking,Staying up,Other,!,Cat,!,Intellegent,Gamer,Open,!,Intellegent,Gamer,Open,!
+idyprycemx,v,lspbohhsku,2 BED DELUXE,Law,Freshman,First Floor,0,0,0,0,0,0,8,5,3,2,5,,,,Programming,Art,!,Medium Dog,!,Sarcastic,Discreet,Encouraging,!,Sarcastic,Discreet,Encouraging,!
+vfhjfosxhs,t,fouotpbpyq,2 BED DELUXE,Law,Graduate,First Floor,0,0,0,0,0,0,6,9,2,8,10,,,,Staying up,Fantasy Sports,Engineering,!,Service Animal,!,Adventurous,Other,Open,!,Adventurous,Other,Open,!
+idastngsap,h,gpigmrhsox,2 BED,Fine Arts,Junior,Third Floor,0,0,0,0,0,0,3,7,4,3,2,,,,Programming,Digital Arts,Other,!,Small Dog,!,Cultured,Intellegent,Capable,!,Cultured,Intellegent,Capable,!
+ksssbxjyva,w,gcxqduefhx,2 BED,Arts and Sciences,Graduate,Third Floor,0,0,0,0,0,0,3,3,9,10,1,,,,Programming,Digital Arts,Travel,!,Small Dog,!,Independent,Encouraging,!,Independent,Encouraging,!
+okxkdaumja,d,slikwekgjm,4 BED,Atmospheric and Geographic Sciences,Junior,Third Floor,0,0,0,0,0,0,2,2,4,3,10,,,,Travel,Friends,Art,!,Rodent,!,Dependable,Gamer,Independent,!,Dependable,Gamer,Independent,!
+pdbfxcuuuk,d,qfmaoxadbl,2 BED,International Studies,Sophomore,Third Floor,0,0,0,0,0,0,5,4,10,8,6,,,,Fantasy Sports,Reading,Engineering,!,Cat,!,Independent,Capable,Dependable,!,Independent,Capable,Dependable,!
+cgwgijjlhv,d,mlssohcsqd,3 BED OPEN,International Studies,Graduate,Second Floor,0,0,0,0,0,0,9,1,3,6,6,,,,Fantasy Sports,Games,!,Other,!,Adventurous,Other,Sarcastic,!,Adventurous,Other,Sarcastic,!
+yevkwuwrue,w,aqjdfqmtsa,4 BED,International Studies,Junior,First Floor,0,0,0,0,0,0,6,9,4,2,1,,,,Games,Digital Arts,Programming,!,Medium Dog,!,Confident,Independent,Other,!,Confident,Independent,Other,!
+adowxvnjti,w,nvcexbiewy,2 BED,Health Science,Freshman,Indifferent,0,0,0,0,0,0,9,2,6,8,10,,,,Fantasy Sports,Programming,Outdoors,!,Large Dog,!,Capable,Independent,!,Capable,Independent,!
+djnsnbulim,v,cwlofhfecy,2 BED DELUXE,Earth and Energy,Graduate,First Floor,0,0,0,0,0,0,10,5,3,7,2,,,,Staying up,Outdoors,!,Rodent,!,Encouraging,Partier,!,Encouraging,Partier,!
+vlybdqwgfs,f,jxkcdlsikr,3 BED OPEN,Business,Junior,Third Floor,0,0,0,0,0,0,8,6,10,3,4,,,,Reading,Games,Engineering,!,Service Animal,!,Intellegent,Other,!,Intellegent,Other,!
+jkykpooajo,r,yalqhybvjc,2 BED DELUXE,Health Science,Sophomore,Third Floor,0,0,0,0,0,0,3,9,10,4,8,,,,Art,Games,Staying up,!,Cat,!,Reliable,Encouraging,Shy,!,Reliable,Encouraging,Shy,!
+dxjscetrym,s,woufihogcy,3 BED OPEN,Arts and Sciences,Transfer,Second Floor,0,0,0,0,0,0,8,8,9,3,9,,,,Reading,Programming,Games,!,Other,!,Dutiful,Open,Independent,!,Dutiful,Open,Independent,!
+udyerbdvxh,t,qtdtyqwdbp,4 BED,Atmospheric and Geographic Sciences,Transfer,Second Floor,0,0,0,0,0,0,1,3,8,2,3,,,,Digital Arts,!,Other,!,Encouraging,Independent,Gamer,!,Encouraging,Independent,Gamer,!
+vhttqyekeo,f,ksxnbeksts,2 BED DELUXE,Health Science,Junior,Third Floor,0,0,0,0,0,0,7,4,6,4,5,,,,Drinking,Reading,Television,!,Service Animal,!,Helpful,Partier,!,Helpful,Partier,!
+csyjwtbfxb,g,apnblwgqyh,3 BED OPEN,Law,Sophomore,First Floor,0,0,0,0,0,0,10,8,7,7,10,,,,Engineering,Staying up,Drinking,!,Service Animal,!,Dutiful,Open,!,Dutiful,Open,!
+ofvurgyflp,t,ahrdmrjvii,4 BED,Journalism and Mass Communication,Freshman,Second Floor,0,0,0,0,0,0,5,7,9,6,7,,,,Games,Drinking,Other,!,Small Dog,!,Helpful,Independent,!,Helpful,Independent,!
+yrbjworvel,s,evjdsragfs,2 BED,Atmospheric and Geographic Sciences,Graduate,Second Floor,0,0,0,0,0,0,9,9,6,6,1,,,,Friends,Television,Other,!,Medium Dog,!,Adventurous,Independent,Reliable,!,Adventurous,Independent,Reliable,!
+gjoiktrqfx,r,nbyxkkiwbi,4 BED,Arts and Sciences,Freshman,Second Floor,0,0,0,0,0,0,1,1,9,1,2,,,,Drinking,Other,Engineering,!,Large Dog,!,Cultured,Helpful,Dutiful,!,Cultured,Helpful,Dutiful,!
+uewbgdadht,k,awkesokqlp,4 BED,International Studies,Senior,Second Floor,0,0,0,0,0,0,6,8,1,9,6,,,,Drinking,Television,Friends,!,Service Animal,!,Dependable,Encouraging,!,Dependable,Encouraging,!
+xuljninucy,q,xworevwqaf,4 BED,Health Science,Graduate,Third Floor,0,0,0,0,0,0,1,10,6,3,6,,,,Friends,Fantasy Sports,Engineering,!,Other,!,Confident,Shy,Capable,!,Confident,Shy,Capable,!
+xundlwfyhm,l,wgvwtilgyu,3 BED CLOSED,Journalism and Mass Communication,Sophomore,Third Floor,0,0,0,0,0,0,7,8,3,4,4,,,,Drinking,Outdoors,Games,!,Small Dog,!,Encouraging,Shy,Confident,!,Encouraging,Shy,Confident,!
+noakihgmii,v,clqbusxxav,2 BED DELUXE,None,Senior,Third Floor,0,0,0,0,0,0,4,2,10,7,9,,,,Outdoors,Friends,Television,!,Large Dog,!,Discreet,Adventurous,Gamer,!,Discreet,Adventurous,Gamer,!
+hqayrkqtar,r,nqhdcxuoqf,2 BED DELUXE,Multi-Disciplinary Studies,Graduate,Second Floor,0,0,0,0,0,0,4,10,9,4,1,,,,Digital Arts,Outdoors,Other,!,Service Animal,!,Independent,Open,!,Independent,Open,!
+wjvrihbind,m,djnoxaaqnv,2 BED DELUXE,Earth and Energy,Senior,Second Floor,0,0,0,0,0,0,6,3,5,4,5,,,,Fantasy Sports,Drinking,Art,!,Large Dog,!,Partier,Other,Independent,!,Partier,Other,Independent,!
+qqfyybgsdv,a,eynioxoeqo,3 BED CLOSED,Journalism and Mass Communication,Senior,Third Floor,0,0,0,0,0,0,2,5,4,2,1,,,,Outdoors,Games,Art,!,Medium Dog,!,Shy,Adventurous,Open,!,Shy,Adventurous,Open,!
+lklngbsnnm,j,uqmbjquyba,2 BED,Multi-Disciplinary Studies,Transfer,First Floor,0,0,0,0,0,0,6,1,7,1,9,,,,Staying up,DIY,Art,!,Cat,!,Sarcastic,Reliable,Cultured,!,Sarcastic,Reliable,Cultured,!
+mfhpgwhmhu,h,xoweeydgvu,2 BED DELUXE,Education,Junior,Indifferent,0,0,0,0,0,0,3,2,9,5,10,,,,Games,!,Other,!,Sarcastic,Intellegent,Helpful,!,Sarcastic,Intellegent,Helpful,!
+rxnvsrnqqy,e,lkytrlppuu,4 BED,Fine Arts,Sophomore,Third Floor,0,0,0,0,0,0,1,3,3,8,9,,,,Fantasy Sports,Travel,!,Cat,!,Encouraging,Independent,!,Encouraging,Independent,!
+ndrujlyrtk,q,dutqxcapma,2 BED,Fine Arts,Junior,Indifferent,0,0,0,0,0,0,3,6,9,6,10,,,,Games,Outdoors,!,Rodent,!,Confident,Sarcastic,!,Confident,Sarcastic,!
+dlioehrhfh,h,owakxsqirm,3 BED OPEN,Health Science,Freshman,First Floor,0,0,0,0,0,0,2,1,1,2,9,,,,Art,Outdoors,!,Cat,!,Confident,Intellegent,Open,!,Confident,Intellegent,Open,!
+eqiuftigse,q,nawrclbuem,3 BED CLOSED,Health Science,Junior,Third Floor,0,0,0,0,0,0,3,7,5,5,10,,,,Television,Programming,Travel,!,Medium Dog,!,Encouraging,Partier,Dutiful,!,Encouraging,Partier,Dutiful,!
+ivrvmtrlxj,g,fbgkdywisi,4 BED,None,Freshman,Second Floor,0,0,0,0,0,0,5,4,8,9,6,,,,Fantasy Sports,Television,!,Cat,!,Dutiful,Open,Reliable,!,Dutiful,Open,Reliable,!
+bfguwvdoxf,y,uricfmuvpk,2 BED,Multi-Disciplinary Studies,Graduate,Indifferent,0,0,0,0,0,0,7,7,7,7,9,,,,Television,Art,Programming,!,Medium Dog,!,Encouraging,Intellegent,Shy,!,Encouraging,Intellegent,Shy,!
+wwohxxbsmt,s,hvfymjespl,4 BED,Journalism and Mass Communication,Sophomore,Indifferent,0,0,0,0,0,0,8,10,4,1,2,,,,Digital Arts,Other,Drinking,!,Rodent,!,Encouraging,Adventurous,Shy,!,Encouraging,Adventurous,Shy,!
+bksepniwhg,j,rphffaxxmy,3 BED OPEN,Law,Freshman,Indifferent,0,0,0,0,0,0,2,6,5,5,10,,,,Travel,Outdoors,Staying up,!,Small Dog,!,Dutiful,Capable,Adventurous,!,Dutiful,Capable,Adventurous,!
+chxqlbuabw,w,uppwtudovo,3 BED CLOSED,Journalism and Mass Communication,Graduate,Third Floor,0,0,0,0,0,0,5,6,6,5,6,,,,Programming,Engineering,Outdoors,!,Large Dog,!,Independent,Helpful,Dutiful,!,Independent,Helpful,Dutiful,!
+ltgpjhmpmg,n,agvsbammxn,4 BED,Health Science,Transfer,Indifferent,0,0,0,0,0,0,8,8,5,3,10,,,,Fantasy Sports,Reading,Digital Arts,!,Medium Dog,!,Dutiful,Helpful,Intellegent,!,Dutiful,Helpful,Intellegent,!
+irqgitmyft,p,jstilgqwxr,4 BED,Earth and Energy,Junior,Second Floor,0,0,0,0,0,0,5,5,10,7,2,,,,Reading,Television,!,Service Animal,!,Partier,Open,!,Partier,Open,!
+bybxymmshp,f,lqiplesrvd,2 BED DELUXE,Multi-Disciplinary Studies,Freshman,Second Floor,0,0,0,0,0,0,9,10,7,1,7,,,,Drinking,Reading,Outdoors,!,Large Dog,!,Confident,Capable,Cultured,!,Confident,Capable,Cultured,!
+ohgukrmmaj,e,gwbnktnvuc,3 BED OPEN,Arts and Sciences,Transfer,Second Floor,0,0,0,0,0,0,6,9,7,5,9,,,,Drinking,Outdoors,DIY,!,Small Dog,!,Adventurous,Other,Shy,!,Adventurous,Other,Shy,!
+vtxadadory,f,gbvxojhavt,4 BED,Health Science,Graduate,Third Floor,0,0,0,0,0,0,2,9,6,7,9,,,,Digital Arts,Staying up,Outdoors,!,Small Dog,!,Intellegent,Other,Confident,!,Intellegent,Other,Confident,!
+xtqlyjooic,o,bphwmmwrni,3 BED CLOSED,Education,Senior,First Floor,0,0,0,0,0,0,5,2,3,3,10,,,,Reading,Staying up,Friends,!,Rodent,!,Discreet,Open,Intellegent,!,Discreet,Open,Intellegent,!
+nbtysuyyte,x,fryggidtxs,4 BED,None,None,First Floor,0,0,0,0,0,0,6,6,4,8,4,,,,Friends,Reading,!,Rodent,!,Cultured,Dutiful,Intellegent,!,Cultured,Dutiful,Intellegent,!
+jyraugrxlv,q,idkdyvixpw,4 BED,Atmospheric and Geographic Sciences,Graduate,Third Floor,0,0,0,0,0,0,7,10,4,6,10,,,,Art,Staying up,!,Other,!,Partier,Intellegent,Sarcastic,!,Partier,Intellegent,Sarcastic,!
+gbfmhuwocg,m,aewcdmpdxd,3 BED OPEN,International Studies,Graduate,Third Floor,0,0,0,0,0,0,4,8,9,4,10,,,,DIY,Games,Staying up,!,Other,!,Open,Other,Dependable,!,Open,Other,Dependable,!
+wndkuiunhg,r,qnordbiqgm,3 BED OPEN,Journalism and Mass Communication,Freshman,Second Floor,0,0,0,0,0,0,5,6,4,10,6,,,,Digital Arts,Art,Engineering,!,Medium Dog,!,Gamer,Open,Partier,!,Gamer,Open,Partier,!
+kjnvmplbhi,v,tsftkxeejk,3 BED CLOSED,Earth and Energy,Junior,Indifferent,0,0,0,0,0,0,10,6,2,9,8,,,,Art,Reading,Staying up,!,Medium Dog,!,Dutiful,Other,Discreet,!,Dutiful,Other,Discreet,!
+nwbegulpyr,j,vrsgwmvvjl,2 BED DELUXE,Multi-Disciplinary Studies,Sophomore,First Floor,0,0,0,0,0,0,3,1,2,10,3,,,,Engineering,Games,Digital Arts,!,Service Animal,!,Intellegent,Adventurous,Helpful,!,Intellegent,Adventurous,Helpful,!
+eaehmritqo,f,knuwkhhigs,2 BED DELUXE,Other,Senior,Indifferent,0,0,0,0,0,0,4,5,2,6,9,,,,Other,Engineering,!,Rodent,!,Sarcastic,Helpful,Adventurous,!,Sarcastic,Helpful,Adventurous,!
+vuutoigexv,x,ekwmnwenay,4 BED,None,None,Indifferent,0,0,0,0,0,0,3,1,7,2,5,,,,Reading,Engineering,!,Cat,!,Confident,Open,Adventurous,!,Confident,Open,Adventurous,!
+sdxqppeuux,p,eddfeulmxq,2 BED DELUXE,Health Science,Senior,Third Floor,0,0,0,0,0,0,2,2,7,3,5,,,,Fantasy Sports,Staying up,!,Large Dog,!,Shy,Helpful,Sarcastic,!,Shy,Helpful,Sarcastic,!
+mawpaidisv,u,qlrhqwvhqq,3 BED CLOSED,Fine Arts,None,Second Floor,0,0,0,0,0,0,3,3,9,2,8,,,,Friends,Television,Fantasy Sports,!,Rodent,!,Capable,Sarcastic,Helpful,!,Capable,Sarcastic,Helpful,!
+gnelfjotok,g,memomaavut,3 BED CLOSED,Earth and Energy,None,First Floor,0,0,0,0,0,0,7,10,6,4,2,,,,Outdoors,Travel,!,Medium Dog,!,Dutiful,Capable,Adventurous,!,Dutiful,Capable,Adventurous,!
+gaxxlkdpum,h,dsxiwrcpol,2 BED DELUXE,Journalism and Mass Communication,Junior,First Floor,0,0,0,0,0,0,6,10,2,8,3,,,,Engineering,Fantasy Sports,Outdoors,!,Large Dog,!,Dutiful,Discreet,Gamer,!,Dutiful,Discreet,Gamer,!
+blxwylsavq,t,yjlpjuvhbs,3 BED CLOSED,Journalism and Mass Communication,Sophomore,Indifferent,0,0,0,0,0,0,4,8,2,10,3,,,,Other,Friends,Reading,!,Large Dog,!,Shy,Adventurous,Encouraging,!,Shy,Adventurous,Encouraging,!
+nsetlwdqvs,d,wtofktmlgr,3 BED CLOSED,Other,Sophomore,First Floor,0,0,0,0,0,0,10,4,3,6,1,,,,Travel,Staying up,Engineering,!,Cat,!,Shy,Dutiful,Adventurous,!,Shy,Dutiful,Adventurous,!
+bikxarsapx,a,veurnhlrar,2 BED DELUXE,Atmospheric and Geographic Sciences,Senior,Second Floor,0,0,0,0,0,0,10,7,2,5,1,,,,Reading,Television,Outdoors,!,Other,!,Encouraging,Confident,Shy,!,Encouraging,Confident,Shy,!
+xmqqtnjult,b,pltbvpbwrs,3 BED OPEN,Engineering,Junior,Second Floor,0,0,0,0,0,0,2,5,6,4,1,,,,Art,Television,DIY,!,Cat,!,Reliable,Independent,Helpful,!,Reliable,Independent,Helpful,!
+knhjjaxkyq,e,bwnoixkygf,2 BED,Earth and Energy,Freshman,Indifferent,0,0,0,0,0,0,8,8,7,8,9,,,,Travel,Drinking,Friends,!,Rodent,!,Gamer,Helpful,Reliable,!,Gamer,Helpful,Reliable,!
+bkbwaukipe,g,bkxiasqxyl,4 BED,Health Science,Transfer,Indifferent,0,0,0,0,0,0,1,4,5,9,10,,,,Travel,Drinking,Programming,!,Other,!,Reliable,Other,Discreet,!,Reliable,Other,Discreet,!
+ooihvkrksq,s,lfyjnppyrt,2 BED,Fine Arts,Freshman,Indifferent,0,0,0,0,0,0,3,5,5,4,1,,,,Programming,Television,Art,!,Service Animal,!,Other,Capable,!,Other,Capable,!
+smxonnmqso,h,rmxmvexsfp,2 BED DELUXE,Other,Sophomore,Third Floor,0,0,0,0,0,0,10,6,3,6,10,,,,Other,Programming,Drinking,!,Cat,!,Intellegent,Helpful,Shy,!,Intellegent,Helpful,Shy,!
+wboywpfuls,k,sigymxbqlg,3 BED OPEN,Earth and Energy,Transfer,Second Floor,0,0,0,0,0,0,2,10,10,7,4,,,,Programming,Drinking,!,Other,!,Capable,Intellegent,Helpful,!,Capable,Intellegent,Helpful,!
+bhkqhyolov,u,isyqusfisp,3 BED CLOSED,Multi-Disciplinary Studies,Junior,Third Floor,0,0,0,0,0,0,9,7,4,4,6,,,,Art,Other,Digital Arts,!,Cat,!,Reliable,Other,Capable,!,Reliable,Other,Capable,!
+jfpffiwduo,k,vumasonakw,2 BED DELUXE,Other,Graduate,First Floor,0,0,0,0,0,0,6,1,10,3,6,,,,Outdoors,Engineering,!,Other,!,Adventurous,Gamer,Shy,!,Adventurous,Gamer,Shy,!
+tmdcnncsai,c,envlicfvid,2 BED,International Studies,None,Second Floor,0,0,0,0,0,0,4,3,10,3,5,,,,Digital Arts,Staying up,Programming,!,Small Dog,!,Independent,Intellegent,Gamer,!,Independent,Intellegent,Gamer,!
+pmvehfrfaf,h,vtxdrqhvpu,3 BED CLOSED,None,None,Third Floor,0,0,0,0,0,0,4,8,10,1,1,,,,Digital Arts,Games,Reading,!,Medium Dog,!,Discreet,Dutiful,!,Discreet,Dutiful,!
+lfumdxjmei,a,kkauyhybae,3 BED CLOSED,Health Science,Senior,First Floor,0,0,0,0,0,0,9,8,2,1,8,,,,Reading,Programming,Fantasy Sports,!,Rodent,!,Independent,Open,Cultured,!,Independent,Open,Cultured,!
+kwvfsmmgys,a,htpyigwpqw,2 BED,Fine Arts,Junior,Third Floor,0,0,0,0,0,0,8,6,9,10,2,,,,DIY,Engineering,Reading,!,Cat,!,Confident,Adventurous,Helpful,!,Confident,Adventurous,Helpful,!
+sdtnckradw,w,ndwwoejxvb,2 BED,Journalism and Mass Communication,Graduate,Indifferent,0,0,0,0,0,0,7,6,5,2,2,,,,Friends,Engineering,Games,!,Medium Dog,!,Sarcastic,Reliable,Helpful,!,Sarcastic,Reliable,Helpful,!
+kaqtksprdr,s,epjywaotyd,2 BED,None,Senior,Third Floor,0,0,0,0,0,0,8,10,6,6,4,,,,Outdoors,Television,Staying up,!,Large Dog,!,Confident,Intellegent,Discreet,!,Confident,Intellegent,Discreet,!
+ilssholdci,p,vduyonrsjk,2 BED,None,Graduate,First Floor,0,0,0,0,0,0,8,5,6,9,7,,,,Outdoors,Travel,Reading,!,Service Animal,!,Discreet,Confident,Partier,!,Discreet,Confident,Partier,!
+fdmejfbucs,f,qvvtlmqreq,2 BED,Earth and Energy,Transfer,First Floor,0,0,0,0,0,0,2,1,7,9,8,,,,Engineering,Outdoors,Travel,!,Other,!,Open,Gamer,Discreet,!,Open,Gamer,Discreet,!
+hcegdcixva,c,pttkwxinun,4 BED,International Studies,Senior,Second Floor,0,0,0,0,0,0,7,4,7,5,3,,,,Drinking,!,Small Dog,!,Partier,Reliable,Sarcastic,!,Partier,Reliable,Sarcastic,!
+hnyxyqtsds,c,qotqubuewh,4 BED,Education,Sophomore,Third Floor,0,0,0,0,0,0,5,7,9,9,5,,,,Fantasy Sports,Art,Television,!,Other,!,Confident,Cultured,Dutiful,!,Confident,Cultured,Dutiful,!
+bavdnmusdl,r,dahmhmebue,3 BED OPEN,Multi-Disciplinary Studies,Graduate,First Floor,0,0,0,0,0,0,8,8,9,8,2,,,,Fantasy Sports,Friends,DIY,!,Small Dog,!,Independent,Encouraging,Partier,!,Independent,Encouraging,Partier,!
+edyhyktwju,m,ciabrjmysc,3 BED OPEN,Fine Arts,Senior,Third Floor,0,0,0,0,0,0,2,4,6,2,2,,,,Friends,Reading,Digital Arts,!,Medium Dog,!,Cultured,Shy,!,Cultured,Shy,!
+phwfvevgay,b,hhdhrpubvg,2 BED,Multi-Disciplinary Studies,None,Indifferent,0,0,0,0,0,0,7,3,5,6,8,,,,Television,Reading,Engineering,!,Medium Dog,!,Dutiful,Other,Sarcastic,!,Dutiful,Other,Sarcastic,!
+bjugktvmka,e,srfhqwqfof,3 BED OPEN,None,Graduate,Indifferent,0,0,0,0,0,0,1,10,5,9,3,,,,Games,Engineering,DIY,!,Medium Dog,!,Intellegent,Capable,Sarcastic,!,Intellegent,Capable,Sarcastic,!
+heujoatcfq,n,mkrdqqehpy,4 BED,Health Science,Sophomore,Second Floor,0,0,0,0,0,0,6,4,6,2,2,,,,DIY,Art,Outdoors,!,Other,!,Independent,Partier,Encouraging,!,Independent,Partier,Encouraging,!
+etymkwroee,w,oflrdjlkbf,4 BED,Earth and Energy,Freshman,First Floor,0,0,0,0,0,0,2,7,10,7,10,,,,DIY,Digital Arts,Engineering,!,Other,!,Encouraging,Reliable,Independent,!,Encouraging,Reliable,Independent,!
+eijhnhuyhr,w,qclhispgwe,2 BED DELUXE,International Studies,Graduate,First Floor,0,0,0,0,0,0,10,2,8,2,10,,,,Drinking,Fantasy Sports,Programming,!,Large Dog,!,Helpful,Dependable,Shy,!,Helpful,Dependable,Shy,!
+xmdboxrrmv,c,utygpggqqt,2 BED DELUXE,Earth and Energy,None,Indifferent,0,0,0,0,0,0,10,6,2,1,7,,,,Other,!,Large Dog,!,Intellegent,Adventurous,Reliable,!,Intellegent,Adventurous,Reliable,!
+wcyvhggjyd,b,oswhchpwda,3 BED CLOSED,Fine Arts,Sophomore,First Floor,0,0,0,0,0,0,9,1,9,3,5,,,,Fantasy Sports,DIY,!,Large Dog,!,Other,Encouraging,Shy,!,Other,Encouraging,Shy,!
+ledrgitvts,u,iobnvlblsk,4 BED,Engineering,None,Indifferent,0,0,0,0,0,0,5,10,5,7,7,,,,DIY,Programming,Games,!,Large Dog,!,Reliable,Encouraging,!,Reliable,Encouraging,!
+ljxnqtoahj,e,lqixsfxyuu,3 BED OPEN,Education,Graduate,Third Floor,0,0,0,0,0,0,6,5,6,1,10,,,,DIY,Art,Programming,!,Service Animal,!,Other,Discreet,Cultured,!,Other,Discreet,Cultured,!
+ffsttvgfej,r,vasobkupas,3 BED CLOSED,International Studies,Freshman,Second Floor,0,0,0,0,0,0,5,2,3,5,6,,,,Reading,Friends,Digital Arts,!,Small Dog,!,Partier,Confident,Other,!,Partier,Confident,Other,!
+kextojjhov,g,jaovctyimi,3 BED CLOSED,Atmospheric and Geographic Sciences,Transfer,First Floor,0,0,0,0,0,0,2,2,3,1,5,,,,Fantasy Sports,Programming,!,Other,!,Dutiful,Helpful,!,Dutiful,Helpful,!
+wnejonwqfn,o,dpqojanrvs,3 BED CLOSED,Education,Sophomore,Second Floor,0,0,0,0,0,0,8,9,3,7,1,,,,Art,Outdoors,!,Large Dog,!,Shy,Adventurous,Dutiful,!,Shy,Adventurous,Dutiful,!
+tqoysoumgo,x,oxjohkputn,3 BED OPEN,Earth and Energy,Sophomore,Second Floor,0,0,0,0,0,0,6,10,10,4,1,,,,Staying up,Reading,Digital Arts,!,Medium Dog,!,Cultured,Independent,Dutiful,!,Cultured,Independent,Dutiful,!
+tkplunhhfs,c,wsldcjscxf,2 BED DELUXE,Earth and Energy,Sophomore,Third Floor,0,0,0,0,0,0,6,8,10,5,8,,,,Travel,Outdoors,Engineering,!,Rodent,!,Sarcastic,Dutiful,Encouraging,!,Sarcastic,Dutiful,Encouraging,!
+lavyduorwi,y,lyfvobhagm,3 BED CLOSED,Journalism and Mass Communication,Senior,First Floor,0,0,0,0,0,0,3,1,4,8,10,,,,Television,Digital Arts,Programming,!,Medium Dog,!,Confident,Cultured,Adventurous,!,Confident,Cultured,Adventurous,!
+akmgeuupjf,q,nmwqcniqkj,3 BED CLOSED,Arts and Sciences,Senior,Third Floor,0,0,0,0,0,0,3,2,4,7,7,,,,Reading,Games,Digital Arts,!,Service Animal,!,Capable,Confident,Other,!,Capable,Confident,Other,!
+fysnnwnxuo,w,nrnrnrjksm,4 BED,Law,Senior,Indifferent,0,0,0,0,0,0,8,2,5,8,7,,,,Other,Art,Fantasy Sports,!,Other,!,Shy,Open,Helpful,!,Shy,Open,Helpful,!
+tieomugonl,y,qkebxcyrok,3 BED CLOSED,Law,None,First Floor,0,0,0,0,0,0,3,1,5,8,5,,,,Engineering,Digital Arts,Television,!,Rodent,!,Dutiful,Other,Cultured,!,Dutiful,Other,Cultured,!
+awfkhghopc,p,ijncooaadu,3 BED CLOSED,Health Science,Freshman,Third Floor,0,0,0,0,0,0,2,8,6,3,8,,,,Other,Friends,Fantasy Sports,!,Large Dog,!,Discreet,Helpful,Sarcastic,!,Discreet,Helpful,Sarcastic,!
+vcqmruqkiu,a,uvawwusofr,4 BED,Earth and Energy,Graduate,First Floor,0,0,0,0,0,0,10,9,1,5,4,,,,Outdoors,Travel,Games,!,Small Dog,!,Capable,Reliable,Shy,!,Capable,Reliable,Shy,!
+uucteamnsf,v,xpphlcfeqt,3 BED CLOSED,Law,Senior,First Floor,0,0,0,0,0,0,5,4,5,2,1,,,,Drinking,Digital Arts,!,Rodent,!,Independent,Other,Capable,!,Independent,Other,Capable,!
+pftrwadkap,b,okutuqjdac,4 BED,Other,Senior,First Floor,0,0,0,0,0,0,1,1,9,4,6,,,,Drinking,Friends,Fantasy Sports,!,Other,!,Shy,Sarcastic,Encouraging,!,Shy,Sarcastic,Encouraging,!
+kfvdjmmawg,q,deqlwqtwvl,3 BED OPEN,Business,Graduate,Third Floor,0,0,0,0,0,0,9,4,7,8,3,,,,Staying up,Games,!,Rodent,!,Discreet,Cultured,Reliable,!,Discreet,Cultured,Reliable,!
+dywcdylwpi,u,cbfrbifttd,4 BED,Business,Senior,Second Floor,0,0,0,0,0,0,3,1,5,9,2,,,,Programming,Travel,!,Small Dog,!,Partier,Discreet,Shy,!,Partier,Discreet,Shy,!
+wwoisluhqm,m,coqqpeueok,2 BED,Education,Sophomore,Second Floor,0,0,0,0,0,0,7,6,5,9,9,,,,Digital Arts,Engineering,!,Service Animal,!,Shy,Confident,Reliable,!,Shy,Confident,Reliable,!
+jqybmjpeld,p,unahxctgyh,4 BED,Fine Arts,None,First Floor,0,0,0,0,0,0,2,3,7,3,1,,,,Outdoors,Programming,Travel,!,Service Animal,!,Discreet,Cultured,Reliable,!,Discreet,Cultured,Reliable,!
+hhumnllflm,f,bhkuejwmvm,4 BED,Engineering,None,Second Floor,0,0,0,0,0,0,5,2,10,6,1,,,,Other,Staying up,Friends,!,Small Dog,!,Helpful,Shy,Intellegent,!,Helpful,Shy,Intellegent,!
+qpevekrojq,s,fpwvdhuwhi,3 BED OPEN,Other,None,First Floor,0,0,0,0,0,0,9,9,7,6,3,,,,Engineering,Staying up,Digital Arts,!,Medium Dog,!,Shy,Dutiful,!,Shy,Dutiful,!
+csmtjyagfc,g,oyfixuvqvk,3 BED CLOSED,Earth and Energy,Freshman,Third Floor,0,0,0,0,0,0,1,6,5,4,4,,,,Fantasy Sports,Friends,Travel,!,Service Animal,!,Encouraging,Shy,!,Encouraging,Shy,!
+xjdtgdrkgo,g,qscugtaysq,2 BED DELUXE,Fine Arts,Senior,Indifferent,0,0,0,0,0,0,2,5,9,1,3,,,,Television,Friends,Reading,!,Small Dog,!,Intellegent,Sarcastic,Dependable,!,Intellegent,Sarcastic,Dependable,!
+voxtyhrdll,k,usyypiwdin,4 BED,Engineering,Freshman,Indifferent,0,0,0,0,0,0,1,5,9,2,6,,,,Other,Travel,Fantasy Sports,!,Medium Dog,!,Sarcastic,Other,Independent,!,Sarcastic,Other,Independent,!
+epnxxyygft,d,jluxngnafm,4 BED,None,Junior,First Floor,0,0,0,0,0,0,5,1,4,4,5,,,,Drinking,Travel,!,Medium Dog,!,Sarcastic,Dutiful,Helpful,!,Sarcastic,Dutiful,Helpful,!
+wnvmflsyee,l,btocftscjy,2 BED DELUXE,Earth and Energy,Freshman,Second Floor,0,0,0,0,0,0,3,3,6,10,4,,,,Friends,Fantasy Sports,Art,!,Large Dog,!,Adventurous,Encouraging,Other,!,Adventurous,Encouraging,Other,!
+ixbpvfafgd,y,rdvbqcykti,3 BED CLOSED,Earth and Energy,Graduate,Third Floor,0,0,0,0,0,0,1,10,10,5,8,,,,Reading,Travel,Other,!,Other,!,Helpful,Encouraging,Cultured,!,Helpful,Encouraging,Cultured,!
+icxwidilcp,j,psfpvtduma,3 BED OPEN,International Studies,Transfer,First Floor,0,0,0,0,0,0,7,4,6,10,1,,,,Friends,Fantasy Sports,Travel,!,Large Dog,!,Discreet,Reliable,!,Discreet,Reliable,!
+duxgelyqfp,a,pepkosmkfr,4 BED,Law,Junior,Indifferent,0,0,0,0,0,0,4,8,6,7,1,,,,Drinking,DIY,Friends,!,Medium Dog,!,Dependable,Discreet,Encouraging,!,Dependable,Discreet,Encouraging,!
+cslceibocv,q,aqpetbmlvq,4 BED,Law,Freshman,First Floor,0,0,0,0,0,0,3,1,7,2,4,,,,Digital Arts,Reading,Drinking,!,Service Animal,!,Other,Independent,Open,!,Other,Independent,Open,!
+olgalfeykj,d,xmsyqiwupx,3 BED CLOSED,Earth and Energy,Freshman,Third Floor,0,0,0,0,0,0,3,9,9,7,4,,,,Other,Games,Programming,!,Service Animal,!,Dutiful,Gamer,Cultured,!,Dutiful,Gamer,Cultured,!
+dpvvybbkfu,s,unaimnryhh,2 BED DELUXE,None,Transfer,Third Floor,0,0,0,0,0,0,2,6,8,1,10,,,,Reading,Programming,Drinking,!,Medium Dog,!,Gamer,Helpful,Open,!,Gamer,Helpful,Open,!
+uqwqyirkyd,v,fmseppnerx,4 BED,Fine Arts,Junior,Indifferent,0,0,0,0,0,0,2,5,6,9,4,,,,Games,Travel,DIY,!,Cat,!,Sarcastic,Discreet,Confident,!,Sarcastic,Discreet,Confident,!
+berjuxocup,m,vxkkxhspvk,2 BED DELUXE,None,Freshman,First Floor,0,0,0,0,0,0,7,6,10,2,2,,,,DIY,Staying up,Friends,!,Small Dog,!,Open,Partier,Sarcastic,!,Open,Partier,Sarcastic,!
+vwfesibxmy,m,gkrctfslov,2 BED DELUXE,Fine Arts,None,Third Floor,0,0,0,0,0,0,8,5,10,10,5,,,,Digital Arts,Games,Reading,!,Other,!,Confident,Dutiful,Other,!,Confident,Dutiful,Other,!
+ruksioocyd,n,dlxolcffrb,2 BED DELUXE,None,Freshman,First Floor,0,0,0,0,0,0,5,4,2,9,9,,,,Travel,Art,Games,!,Service Animal,!,Shy,Confident,Dutiful,!,Shy,Confident,Dutiful,!
+baodynnhth,i,tmdqxpktqa,4 BED,Journalism and Mass Communication,Sophomore,Second Floor,0,0,0,0,0,0,4,5,2,3,8,,,,Drinking,Reading,Engineering,!,Rodent,!,Independent,Helpful,Encouraging,!,Independent,Helpful,Encouraging,!
+bprclfqjvw,r,nocyqxntaa,2 BED DELUXE,Law,Sophomore,Second Floor,0,0,0,0,0,0,10,8,10,2,3,,,,Art,Travel,Staying up,!,Other,!,Shy,Partier,Independent,!,Shy,Partier,Independent,!
+qofabuctol,r,bnsqfrebwx,2 BED,Arts and Sciences,None,Third Floor,0,0,0,0,0,0,6,4,7,6,1,,,,Digital Arts,Other,DIY,!,Other,!,Confident,Reliable,Dependable,!,Confident,Reliable,Dependable,!
+wdlpnvjqjj,m,ynfafitsoc,4 BED,Business,Transfer,Second Floor,0,0,0,0,0,0,8,6,5,5,10,,,,Reading,Staying up,!,Other,!,Encouraging,Confident,Reliable,!,Encouraging,Confident,Reliable,!
+sbbvgrhdhe,b,tnykgqnqde,2 BED,Arts and Sciences,None,Second Floor,0,0,0,0,0,0,6,10,7,10,9,,,,Programming,Other,DIY,!,Small Dog,!,Reliable,Independent,Capable,!,Reliable,Independent,Capable,!
+joclcslxna,j,wknogkhiah,3 BED CLOSED,Atmospheric and Geographic Sciences,Senior,Second Floor,0,0,0,0,0,0,7,2,7,10,4,,,,Digital Arts,Television,!,Cat,!,Discreet,Sarcastic,Dutiful,!,Discreet,Sarcastic,Dutiful,!
+aknqsoymxn,e,idsktywdtj,3 BED CLOSED,Education,Senior,Third Floor,0,0,0,0,0,0,2,10,7,4,5,,,,Art,Fantasy Sports,Programming,!,Service Animal,!,Discreet,Other,Adventurous,!,Discreet,Other,Adventurous,!
+yrgdblmpoh,t,lwoapryqyt,4 BED,Law,Senior,Second Floor,0,0,0,0,0,0,1,3,9,6,7,,,,Reading,Programming,!,Cat,!,Dutiful,Discreet,Independent,!,Dutiful,Discreet,Independent,!
+bavftwoxjp,h,bsrtfltawu,3 BED OPEN,Arts and Sciences,Junior,First Floor,0,0,0,0,0,0,10,5,7,4,10,,,,Fantasy Sports,Other,!,Medium Dog,!,Partier,Adventurous,Gamer,!,Partier,Adventurous,Gamer,!
+cqdfocylyt,t,exncpomtdh,4 BED,None,None,First Floor,0,0,0,0,0,0,3,9,7,2,4,,,,Programming,Art,Engineering,!,Rodent,!,Shy,Other,Helpful,!,Shy,Other,Helpful,!
+bnheolulpb,d,pqsqeflhdr,2 BED DELUXE,Engineering,Junior,Second Floor,0,0,0,0,0,0,2,7,8,4,5,,,,Digital Arts,Travel,!,Rodent,!,Dutiful,Gamer,Adventurous,!,Dutiful,Gamer,Adventurous,!
+wnfjsibblt,v,ifataksycr,4 BED,Journalism and Mass Communication,Graduate,Third Floor,0,0,0,0,0,0,3,8,3,3,1,,,,Reading,Outdoors,!,Small Dog,!,Reliable,Gamer,Encouraging,!,Reliable,Gamer,Encouraging,!
+eqxwgqtybe,r,pomeqoeqfk,2 BED DELUXE,None,None,Third Floor,0,0,0,0,0,0,8,5,6,8,3,,,,Digital Arts,Fantasy Sports,Outdoors,!,Cat,!,Discreet,Dutiful,!,Discreet,Dutiful,!
+okvsxvukpp,i,ytfpyoxebj,3 BED CLOSED,Law,Graduate,Third Floor,0,0,0,0,0,0,1,4,9,10,2,,,,Reading,Digital Arts,DIY,!,Other,!,Helpful,Dutiful,Adventurous,!,Helpful,Dutiful,Adventurous,!
+qtptkwxbjx,a,epsgtoyywd,3 BED OPEN,Business,Transfer,Indifferent,0,0,0,0,0,0,1,10,8,3,5,,,,Other,Travel,Games,!,Rodent,!,Reliable,Discreet,!,Reliable,Discreet,!
+iaishjqvuo,t,ghaiphuemo,2 BED,Engineering,Junior,Third Floor,0,0,0,0,0,0,5,6,8,4,4,,,,Travel,Games,Art,!,Service Animal,!,Adventurous,Dependable,Open,!,Adventurous,Dependable,Open,!
+nddjaprwpt,w,femghbheks,2 BED,Law,Transfer,Indifferent,0,0,0,0,0,0,10,6,3,4,3,,,,Friends,DIY,Outdoors,!,Other,!,Encouraging,Dutiful,Dependable,!,Encouraging,Dutiful,Dependable,!
+gqaesetqvp,k,mtbiuyhjwr,4 BED,Arts and Sciences,None,Second Floor,0,0,0,0,0,0,7,8,6,4,6,,,,Art,Engineering,Travel,!,Other,!,Discreet,Adventurous,Dutiful,!,Discreet,Adventurous,Dutiful,!
+migrlmnenm,a,wephthqglj,3 BED OPEN,Health Science,Graduate,First Floor,0,0,0,0,0,0,10,3,10,4,9,,,,Reading,Other,Travel,!,Rodent,!,Discreet,Encouraging,Dependable,!,Discreet,Encouraging,Dependable,!
+jkgcupniqr,v,hxpdloamkw,3 BED CLOSED,Other,None,First Floor,0,0,0,0,0,0,3,3,9,1,10,,,,Friends,Games,!,Large Dog,!,Independent,Open,Adventurous,!,Independent,Open,Adventurous,!
+jbwqapmnps,q,moontbixfo,2 BED DELUXE,Fine Arts,Sophomore,First Floor,0,0,0,0,0,0,9,1,4,3,4,,,,Travel,Other,!,Other,!,Other,Dependable,Confident,!,Other,Dependable,Confident,!
+bqwqsxjici,w,lccqdqlgwd,2 BED,None,Junior,Indifferent,0,0,0,0,0,0,4,2,5,8,1,,,,Staying up,Television,Friends,!,Large Dog,!,Reliable,Capable,Encouraging,!,Reliable,Capable,Encouraging,!
+igwpcwrmqx,n,vqqrwhbtsp,4 BED,Atmospheric and Geographic Sciences,Transfer,Second Floor,0,0,0,0,0,0,1,4,8,9,8,,,,Other,Staying up,Art,!,Cat,!,Independent,Dependable,Sarcastic,!,Independent,Dependable,Sarcastic,!
+gbctprtqmg,c,wwowdnluic,3 BED CLOSED,Law,None,Third Floor,0,0,0,0,0,0,2,4,2,4,9,,,,DIY,Reading,Art,!,Service Animal,!,Open,Cultured,Encouraging,!,Open,Cultured,Encouraging,!
+cwtqwejkpv,u,wbvasofryu,3 BED OPEN,None,Graduate,Third Floor,0,0,0,0,0,0,6,10,7,2,9,,,,DIY,Reading,Friends,!,Service Animal,!,Dependable,Gamer,Adventurous,!,Dependable,Gamer,Adventurous,!
+dtngsjoplf,h,iiudcmndla,3 BED CLOSED,Other,Freshman,Third Floor,0,0,0,0,0,0,10,3,7,2,8,,,,Friends,Staying up,Fantasy Sports,!,Other,!,Sarcastic,Capable,!,Sarcastic,Capable,!
+mhtrtyhmqh,x,ultxnmfgmi,3 BED OPEN,Fine Arts,Junior,First Floor,0,0,0,0,0,0,6,1,5,9,5,,,,Other,DIY,Digital Arts,!,Small Dog,!,Dependable,Open,Adventurous,!,Dependable,Open,Adventurous,!
+tlspyofqtf,l,qkgbosdiws,4 BED,Fine Arts,Transfer,Second Floor,0,0,0,0,0,0,4,5,7,5,7,,,,Digital Arts,Outdoors,Art,!,Cat,!,Adventurous,Encouraging,Shy,!,Adventurous,Encouraging,Shy,!
+tacggbvaat,b,uyfsnmrtij,3 BED OPEN,Arts and Sciences,Senior,Third Floor,0,0,0,0,0,0,1,6,6,2,2,,,,Friends,Art,Travel,!,Large Dog,!,Discreet,Helpful,Dutiful,!,Discreet,Helpful,Dutiful,!
+uyxdrfcdyw,b,oickokmxgt,2 BED DELUXE,Education,Transfer,Third Floor,0,0,0,0,0,0,3,3,5,9,6,,,,Programming,Fantasy Sports,Outdoors,!,Other,!,Adventurous,Shy,Reliable,!,Adventurous,Shy,Reliable,!
+sjoiycijis,x,thyliqrijm,3 BED CLOSED,Health Science,Freshman,Second Floor,0,0,0,0,0,0,8,5,6,1,7,,,,Friends,Programming,Television,!,Small Dog,!,Open,Helpful,Discreet,!,Open,Helpful,Discreet,!
+jybptdappe,m,jygttherhx,3 BED CLOSED,None,Graduate,Third Floor,0,0,0,0,0,0,9,4,8,6,6,,,,Reading,Drinking,Art,!,Rodent,!,Discreet,Cultured,Confident,!,Discreet,Cultured,Confident,!
+hbysbpwahl,g,gnynnngehb,2 BED DELUXE,None,Sophomore,First Floor,0,0,0,0,0,0,5,5,3,9,4,,,,Games,Programming,Outdoors,!,Cat,!,Independent,Discreet,Encouraging,!,Independent,Discreet,Encouraging,!
+ygqjfnokgu,x,fbqvbjadmv,3 BED OPEN,None,Sophomore,Indifferent,0,0,0,0,0,0,1,3,9,8,8,,,,Staying up,DIY,Reading,!,Rodent,!,Cultured,Other,Dependable,!,Cultured,Other,Dependable,!
+vprwinomqx,c,lqklthxcef,3 BED OPEN,Earth and Energy,Junior,Third Floor,0,0,0,0,0,0,9,8,7,5,2,,,,Television,Travel,Games,!,Service Animal,!,Independent,Cultured,Intellegent,!,Independent,Cultured,Intellegent,!
+btgdrmbchk,h,puwegfhjdu,2 BED,None,None,Second Floor,0,0,0,0,0,0,10,3,3,2,3,,,,Reading,Outdoors,Other,!,Cat,!,Dependable,Capable,Reliable,!,Dependable,Capable,Reliable,!
+qfnsennifk,q,grocurjomt,2 BED DELUXE,Engineering,Junior,Indifferent,0,0,0,0,0,0,2,1,2,5,1,,,,DIY,Drinking,!,Other,!,Open,Intellegent,Dutiful,!,Open,Intellegent,Dutiful,!
+fteagoktfl,n,juqcgxsxae,3 BED CLOSED,Arts and Sciences,None,First Floor,0,0,0,0,0,0,2,7,1,10,4,,,,Staying up,Reading,DIY,!,Rodent,!,Capable,Dependable,Open,!,Capable,Dependable,Open,!
+vjgawnodqp,q,rypwbuxclv,2 BED DELUXE,Business,Senior,Indifferent,0,0,0,0,0,0,1,9,2,7,9,,,,Reading,Television,Games,!,Service Animal,!,Sarcastic,Encouraging,Independent,!,Sarcastic,Encouraging,Independent,!
+kejhyryqyt,y,qgiormstst,3 BED OPEN,Fine Arts,Senior,Second Floor,0,0,0,0,0,0,5,5,8,9,5,,,,Other,Reading,Programming,!,Rodent,!,Dutiful,Independent,Adventurous,!,Dutiful,Independent,Adventurous,!
+dcnvdbhjkm,d,xutdvqbvnb,2 BED,International Studies,Graduate,First Floor,0,0,0,0,0,0,7,10,1,3,10,,,,Friends,Drinking,Games,!,Large Dog,!,Partier,Open,Dutiful,!,Partier,Open,Dutiful,!
+qspehykbjy,d,nyvoofjpaq,2 BED DELUXE,Law,Junior,Third Floor,0,0,0,0,0,0,6,5,5,6,6,,,,Travel,Programming,Friends,!,Small Dog,!,Helpful,Capable,Independent,!,Helpful,Capable,Independent,!
+dbaoadsshc,n,fyouxnoyny,2 BED DELUXE,Atmospheric and Geographic Sciences,Graduate,Second Floor,0,0,0,0,0,0,7,10,4,2,2,,,,Television,Digital Arts,Art,!,Large Dog,!,Open,Intellegent,Gamer,!,Open,Intellegent,Gamer,!
+dsygtmcnpm,v,nngpavxoav,2 BED DELUXE,Education,Transfer,Indifferent,0,0,0,0,0,0,1,1,10,9,4,,,,Drinking,DIY,!,Small Dog,!,Confident,Capable,!,Confident,Capable,!
+pyfcjxmuup,y,drnaveyypn,2 BED,Arts and Sciences,None,Indifferent,0,0,0,0,0,0,6,10,7,5,4,,,,Friends,Games,Engineering,!,Medium Dog,!,Dependable,Partier,!,Dependable,Partier,!
+ahavvubimo,k,evignrtwrg,2 BED,Journalism and Mass Communication,None,Third Floor,0,0,0,0,0,0,2,8,1,2,9,,,,Digital Arts,Programming,Staying up,!,Service Animal,!,Intellegent,Encouraging,Adventurous,!,Intellegent,Encouraging,Adventurous,!
+kyfabtxgiy,v,icsdotspks,3 BED OPEN,Health Science,Senior,First Floor,0,0,0,0,0,0,10,4,2,8,9,,,,Engineering,Television,!,Cat,!,Shy,Partier,Sarcastic,!,Shy,Partier,Sarcastic,!
+lywbluaefd,y,edcvtqxqkd,3 BED OPEN,Earth and Energy,Freshman,Indifferent,0,0,0,0,0,0,6,1,3,10,1,,,,Friends,Programming,Drinking,!,Medium Dog,!,Reliable,Confident,Adventurous,!,Reliable,Confident,Adventurous,!
+gybbcjbnhp,f,cfldovnxiq,2 BED,Earth and Energy,Freshman,First Floor,0,0,0,0,0,0,2,8,4,1,10,,,,Fantasy Sports,Programming,Television,!,Large Dog,!,Gamer,Cultured,Adventurous,!,Gamer,Cultured,Adventurous,!
+rckuvlfqno,c,tcmwqqcenf,3 BED CLOSED,Multi-Disciplinary Studies,Junior,Third Floor,0,0,0,0,0,0,4,6,5,7,4,,,,Art,Other,Programming,!,Other,!,Gamer,Discreet,Dutiful,!,Gamer,Discreet,Dutiful,!
+pemhcurbvf,e,nymxebooxm,2 BED DELUXE,Engineering,Sophomore,First Floor,0,0,0,0,0,0,4,8,9,2,7,,,,Staying up,Digital Arts,Reading,!,Medium Dog,!,Gamer,Dutiful,Adventurous,!,Gamer,Dutiful,Adventurous,!
+slxfylklbb,r,upiirbketj,2 BED DELUXE,Other,Junior,Third Floor,0,0,0,0,0,0,1,4,8,7,7,,,,Fantasy Sports,Outdoors,Other,!,Other,!,Gamer,Independent,Reliable,!,Gamer,Independent,Reliable,!
+mwanticqji,g,ruxvdyeugo,4 BED,None,Graduate,Third Floor,0,0,0,0,0,0,4,4,1,3,2,,,,Engineering,Programming,Reading,!,Medium Dog,!,Adventurous,Shy,Independent,!,Adventurous,Shy,Independent,!
+grjcpeyksi,y,pfpyhsavbd,3 BED OPEN,Other,Junior,Third Floor,0,0,0,0,0,0,1,4,3,7,2,,,,Engineering,Television,!,Small Dog,!,Encouraging,Adventurous,!,Encouraging,Adventurous,!
+cmawwesqmn,h,alsvtslvbv,3 BED CLOSED,Other,Freshman,Third Floor,0,0,0,0,0,0,2,6,10,6,3,,,,Drinking,Reading,Art,!,Service Animal,!,Dutiful,Shy,Gamer,!,Dutiful,Shy,Gamer,!
+vmrkevxaon,i,ktbqkkuunk,2 BED,Arts and Sciences,Sophomore,Third Floor,0,0,0,0,0,0,2,10,3,8,2,,,,Reading,DIY,Programming,!,Small Dog,!,Reliable,Intellegent,Independent,!,Reliable,Intellegent,Independent,!
+ytjarawwhv,a,tbbhdlldfq,3 BED CLOSED,None,None,Second Floor,0,0,0,0,0,0,8,6,4,3,7,,,,Other,Programming,!,Rodent,!,Encouraging,Intellegent,Dutiful,!,Encouraging,Intellegent,Dutiful,!
+ajcvwmxmob,w,bihfvetqnq,3 BED CLOSED,Law,Transfer,Indifferent,0,0,0,0,0,0,2,9,10,6,3,,,,Friends,Outdoors,Drinking,!,Rodent,!,Partier,Open,Reliable,!,Partier,Open,Reliable,!
+hnwbmxkynn,u,pvthgcnffn,2 BED,Education,Junior,First Floor,0,0,0,0,0,0,9,8,3,2,3,,,,Digital Arts,Reading,Staying up,!,Small Dog,!,Gamer,Open,Sarcastic,!,Gamer,Open,Sarcastic,!
+pritfiknlx,v,lamdrekwqa,3 BED OPEN,Business,Graduate,Second Floor,0,0,0,0,0,0,2,8,4,9,7,,,,Digital Arts,Television,!,Rodent,!,Encouraging,Dutiful,!,Encouraging,Dutiful,!
+jqsiopihkm,q,qqoijuatfw,3 BED CLOSED,Multi-Disciplinary Studies,Transfer,Indifferent,0,0,0,0,0,0,7,4,2,6,3,,,,Digital Arts,Outdoors,Drinking,!,Rodent,!,Capable,Adventurous,Open,!,Capable,Adventurous,Open,!
+chduucmgqq,b,rtjkcpvxsb,3 BED OPEN,Engineering,Graduate,Third Floor,0,0,0,0,0,0,9,2,6,1,5,,,,Engineering,Television,Games,!,Rodent,!,Cultured,Adventurous,Reliable,!,Cultured,Adventurous,Reliable,!
+ceixvpcyhj,p,snbpflayro,2 BED,Multi-Disciplinary Studies,None,Third Floor,0,0,0,0,0,0,1,6,2,1,8,,,,Art,Digital Arts,Outdoors,!,Rodent,!,Discreet,Intellegent,!,Discreet,Intellegent,!
+ahrkonrwlq,i,fstriclqif,3 BED CLOSED,Multi-Disciplinary Studies,Freshman,Second Floor,0,0,0,0,0,0,3,2,3,5,7,,,,Friends,Other,Art,!,Other,!,Open,Sarcastic,Reliable,!,Open,Sarcastic,Reliable,!
+gnhsvbcdwx,l,yqclfjwmps,2 BED DELUXE,Business,Senior,Second Floor,0,0,0,0,0,0,8,6,9,1,10,,,,Games,Digital Arts,Art,!,Medium Dog,!,Reliable,Intellegent,Capable,!,Reliable,Intellegent,Capable,!
+axdherpvek,d,wmgslmwboq,2 BED DELUXE,Business,Freshman,Second Floor,0,0,0,0,0,0,2,1,7,4,3,,,,Engineering,Drinking,!,Cat,!,Other,Partier,Independent,!,Other,Partier,Independent,!
+mcyfptpoqu,n,cmdglvythn,3 BED CLOSED,Health Science,Junior,Indifferent,0,0,0,0,0,0,9,4,6,10,3,,,,Outdoors,Digital Arts,Reading,!,Cat,!,Cultured,Helpful,Gamer,!,Cultured,Helpful,Gamer,!
+wskytrduqq,f,ibayvbpmxa,3 BED OPEN,Fine Arts,Senior,Second Floor,0,0,0,0,0,0,2,6,5,10,7,,,,Engineering,Drinking,!,Rodent,!,Independent,Reliable,Open,!,Independent,Reliable,Open,!
+hkcbpjrqjs,o,bunrtbmchy,4 BED,Atmospheric and Geographic Sciences,Graduate,Indifferent,0,0,0,0,0,0,2,3,2,4,10,,,,Friends,Fantasy Sports,Drinking,!,Rodent,!,Shy,Open,!,Shy,Open,!
+uwywljmbom,e,ysvejouykf,2 BED,Arts and Sciences,Graduate,Third Floor,0,0,0,0,0,0,1,1,7,1,7,,,,Programming,Travel,Digital Arts,!,Medium Dog,!,Partier,Cultured,Gamer,!,Partier,Cultured,Gamer,!
+mcrreccgcb,v,iytbwujfms,3 BED CLOSED,Education,None,Second Floor,0,0,0,0,0,0,7,8,1,1,8,,,,Friends,Games,Staying up,!,Other,!,Confident,Reliable,Shy,!,Confident,Reliable,Shy,!
+hfhpdnxdly,q,ahmafmvjts,3 BED CLOSED,Journalism and Mass Communication,Freshman,Third Floor,0,0,0,0,0,0,6,8,2,7,9,,,,Drinking,Art,!,Medium Dog,!,Discreet,Independent,Open,!,Discreet,Independent,Open,!
+cetcpijyow,o,tfvcvndscl,3 BED OPEN,Business,Junior,Indifferent,0,0,0,0,0,0,8,10,3,4,1,,,,Engineering,Staying up,Travel,!,Medium Dog,!,Shy,Other,Helpful,!,Shy,Other,Helpful,!
+kauewuqukg,g,xtmvaddgye,3 BED CLOSED,Fine Arts,Freshman,Indifferent,0,0,0,0,0,0,4,4,6,7,8,,,,Friends,Travel,!,Small Dog,!,Other,Open,Cultured,!,Other,Open,Cultured,!
+hcvbnvofiy,q,odjdxmatqk,2 BED,Journalism and Mass Communication,Junior,Indifferent,0,0,0,0,0,0,2,2,4,4,8,,,,Fantasy Sports,Staying up,Engineering,!,Rodent,!,Sarcastic,Confident,Helpful,!,Sarcastic,Confident,Helpful,!
+nyhwrarbgl,j,ukkqfsiiuj,4 BED,Atmospheric and Geographic Sciences,Junior,First Floor,0,0,0,0,0,0,8,5,7,10,10,,,,Fantasy Sports,Programming,!,Large Dog,!,Independent,Intellegent,!,Independent,Intellegent,!
+npcgtqpcbe,t,vjtrsklwst,2 BED DELUXE,Multi-Disciplinary Studies,Senior,First Floor,0,0,0,0,0,0,6,3,8,6,10,,,,Staying up,Fantasy Sports,Reading,!,Large Dog,!,Gamer,Open,Discreet,!,Gamer,Open,Discreet,!
+cxsuqyruoc,s,jesdiakdqh,2 BED,Arts and Sciences,Senior,Third Floor,0,0,0,0,0,0,6,10,8,3,3,,,,Drinking,Outdoors,Engineering,!,Medium Dog,!,Independent,Capable,Intellegent,!,Independent,Capable,Intellegent,!
+rsrlfnvajt,a,mbfyxnvfog,3 BED CLOSED,Business,Transfer,First Floor,0,0,0,0,0,0,10,4,3,10,4,,,,Outdoors,Fantasy Sports,Travel,!,Rodent,!,Independent,Sarcastic,Adventurous,!,Independent,Sarcastic,Adventurous,!
+eoitdfcids,g,jmwatusynr,4 BED,Journalism and Mass Communication,Freshman,Third Floor,0,0,0,0,0,0,8,3,7,9,6,,,,Staying up,Games,!,Rodent,!,Dependable,Open,Intellegent,!,Dependable,Open,Intellegent,!
+cqjfesatpv,b,dvkqyrcgie,3 BED CLOSED,Health Science,Transfer,Indifferent,0,0,0,0,0,0,5,3,7,3,2,,,,Reading,Other,Friends,!,Cat,!,Gamer,Adventurous,Encouraging,!,Gamer,Adventurous,Encouraging,!
+vtvcpokncy,r,ceugmohynl,3 BED OPEN,Atmospheric and Geographic Sciences,Transfer,Second Floor,0,0,0,0,0,0,9,10,3,5,8,,,,Other,Fantasy Sports,Digital Arts,!,Large Dog,!,Open,Cultured,Encouraging,!,Open,Cultured,Encouraging,!
+lgqcawskey,a,sdwfbfbpwx,2 BED,Law,None,Indifferent,0,0,0,0,0,0,5,9,6,1,5,,,,Reading,Outdoors,!,Rodent,!,Helpful,Independent,Encouraging,!,Helpful,Independent,Encouraging,!
+qyuicrnjgr,k,mfiakhqvco,2 BED DELUXE,Journalism and Mass Communication,Senior,Second Floor,0,0,0,0,0,0,7,2,4,3,10,,,,Games,Programming,Friends,!,Medium Dog,!,Discreet,Intellegent,Shy,!,Discreet,Intellegent,Shy,!
+gsicshwnur,r,hhqaicgafn,4 BED,Business,Freshman,First Floor,0,0,0,0,0,0,9,8,4,4,2,,,,Drinking,Art,Friends,!,Large Dog,!,Cultured,Adventurous,Independent,!,Cultured,Adventurous,Independent,!
+bleqcauwpc,c,mqnqbkxlgn,3 BED CLOSED,Business,Sophomore,Second Floor,0,0,0,0,0,0,10,8,2,7,4,,,,Digital Arts,Other,!,Service Animal,!,Cultured,Dutiful,Intellegent,!,Cultured,Dutiful,Intellegent,!
+cdwxakjbpd,m,majmwajwqy,3 BED CLOSED,Other,Senior,Third Floor,0,0,0,0,0,0,8,6,2,1,4,,,,Engineering,Friends,Drinking,!,Cat,!,Adventurous,Independent,!,Adventurous,Independent,!
+msddcvgiua,q,fsfewjbwku,4 BED,Business,None,Second Floor,0,0,0,0,0,0,6,4,2,1,4,,,,Staying up,Outdoors,Television,!,Medium Dog,!,Shy,Dependable,Capable,!,Shy,Dependable,Capable,!
+jylvtrafko,e,fvjwfnnsym,3 BED CLOSED,International Studies,Transfer,Indifferent,0,0,0,0,0,0,6,5,3,8,10,,,,Programming,Outdoors,!,Medium Dog,!,Gamer,Adventurous,Confident,!,Gamer,Adventurous,Confident,!
+ndapwgcpip,p,yxfexvcjdy,3 BED CLOSED,Other,Transfer,Indifferent,0,0,0,0,0,0,9,3,3,4,4,,,,Other,DIY,!,Other,!,Cultured,Encouraging,Reliable,!,Cultured,Encouraging,Reliable,!
+jnptqggrtd,n,prxfiyprjn,2 BED DELUXE,Education,Sophomore,Indifferent,0,0,0,0,0,0,6,9,5,2,10,,,,Outdoors,Staying up,Other,!,Other,!,Dutiful,Gamer,Adventurous,!,Dutiful,Gamer,Adventurous,!
+

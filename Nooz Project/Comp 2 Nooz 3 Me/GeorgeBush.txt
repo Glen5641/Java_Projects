@@ -1,0 +1,11 @@
+April 13, 2012; "MSNBC Hardball with Chris Matthews"; 145 word equivalents; "Campaigns/Elections/Politics"; "2012 Presidential election"
+January 12, 2012; "Fox News Daytime"; 180 word equivalents; "Campaigns/Elections/Politics"; "2012 Presidential election"
+April 27, 2012; "Fox News Fox Report with Shepard Smith"; 205 word equivalents; "Defense/Military (Domestic)"; "No Big Story"
+May 31, 2012; "Fox News Hannity"; 67 word equivalents; "Government Agencies/Legislatures"; "New Obama administration"
+May 31, 2012; "CBS Evening News"; 327 word equivalents; "Government Agencies/Legislatures"; "New Obama administration"
+May 31, 2012; "NBC Nightly News"; 345 word equivalents; "Government Agencies/Legislatures"; "New Obama administration"
+May 31, 2012; "Fox News Fox Report with Shepard Smith"; 360 word equivalents; "Government Agencies/Legislatures"; "New Obama administration"
+January 30, 2012; "FoxNews.com"; 569 word equivalents; "Government Agencies/Legislatures"; "Economy"
+May 31, 2012; "CNN Daytime"; 687 word equivalents; "Government Agencies/Legislatures"; "New Obama administration"
+May 16, 2012; "CNN Daytime"; 405 word equivalents; "U.S. Foreign Affairs"; "Charles Taylor War Crimes Trial"
+Number of Stories: 10; Number of Sources: 8; Number of Words: 3290; Number of Topics: 4; Number of Subjects: 5
